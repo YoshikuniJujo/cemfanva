@@ -13,3 +13,9 @@ project niwa に関する伝達事項:
 	皆が活発にこの directory を使うようになったら(そしてそれが僕の望みだが)
 	それぞれの名前の subdirectory を作るようになるだろう。
 	いずれにしても、その移行はそれぞれに勝手にできるし、そしてたやすい]
+
+[iocikun.2013-07-13: /niwa/work directory について
+	また、この direcotry の大きな意義として、copy and paste のもととなる
+	file とすることができる。
+	fanva を汚すほどでもない試訳については、自分の work file の適切な場所を
+	参照してもらうことにして、それが気に入ったら copy and paste してもらう等]
