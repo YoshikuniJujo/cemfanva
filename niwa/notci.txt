@@ -1,3 +1,9 @@
 project niwa に関する伝達事項:
 
 [iocikun.2013-07-13: project niwa に関する伝達事項はこのファイルに書く]
+
+[iocikun.2013-07-13: /niwa/work directory を作成した。
+	そのなかの iocikun.txt file で下書き的作業を行い、
+	その結果を fanva.txt へのコメントとする。
+	中間作業を邪魔にならないやりかたで公開する、いいやりかた。
+	そのなかにはまちがいや、つまづき、試行錯誤などが含まれる。]

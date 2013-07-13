@@ -822,10 +822,10 @@ tcini
 協力: mirror publishing
 
 ni'o reci mo'o
-lu ckupra lo lardai liste poi(1) xe fanva fi lo cixa bangu li'u
-(2)
+lu ckupra lo lardai liste poi(*1) xe fanva fi lo cixa bangu li'u
+(*2)
 .i ckupra lo liste be lo'i ro lardai gungunma be ba'o la
-renonovonanc.(3) ku poi xe fanva fi lo cixa bangu
+renonovonanc.(*3) ku poi xe fanva fi lo cixa bangu
 .i lo bangu sei krasi se finti zo'e lo nu lo'i stuzi cu simxu lo nu
 casnu
 .i ku'i va'o lo cabna kluce'u noi ca'o gugykruca ku bu'u so'i
@@ -848,27 +848,27 @@ poi ma'a ponse
 		グローバリズムの覇権主義
 
 *1: poi か noi か:
-考えれば考えるほどわからなくなるところだ。ただ、「作品集を出版する」とだけ
-言った場合に、すでにひとつのものにしぼりこまれていると考えれば noi だと
-思う。「赤い男を見て」と言うとき、その場には黄色い男しかいなかった場合につ
-いて考えてみる。ko catlu lo nanmu poi xunre と言った場合に言われたほうは、
-no da zvati と答えると思う。それに対して、ko catlu lo nanmu noi xunre と言
-った場合には答えは、ny. na xunre となると思う。この場合、たとえば、この作品が
-36 の言語に訳されていなかった場合に、素直な反応は、「そんなものはない」で
-はなく「この作品は 36 の言語に訳されてないよ」だと思うので、noi のほうが
-良さげだ。
+	考えれば考えるほどわからなくなるところだ。ただ、「作品集を出版する」とだけ
+	言った場合に、すでにひとつのものにしぼりこまれていると考えれば noi だと
+	思う。「赤い男を見て」と言うとき、その場には黄色い男しかいなかった場合につ
+	いて考えてみる。ko catlu lo nanmu poi xunre と言った場合に言われたほうは、
+	no da zvati と答えると思う。それに対して、ko catlu lo nanmu noi xunre と言
+	った場合には答えは、ny. na xunre となると思う。この場合、たとえば、この作
+	品が 36 の言語に訳されていなかった場合に、素直な反応は、「そんなものはな
+	い」ではなく「この作品は 36 の言語に訳されてないよ」だと思うので、noi の
+	ほうが良さげだ。
 
 *2: 「2102 プロジェクト」が訳出されてない?:
-nalteo さんのところで、「プロジェクトの ...」において finpla を seltau
-とした tanru を使っていた。「プロジェクト」ってのはここで使われてる使い
-かたでは何になるのだろうか。計画されて実行される物と考えると te platu な
-のだろうか。finti をつける必要はあるだろうか。
-とりあえず、僕としては de'i renopare se tai lo te platu を提案。
+	nalteo さんのところで、「プロジェクトの ...」において finpla を seltau
+	とした tanru を使っていた。「プロジェクト」ってのはここで使われてる使い
+	かたでは何になるのだろうか。計画されて実行される物と考えると te platu な
+	のだろうか。finti をつける必要はあるだろうか。
+	とりあえず、僕としては de'i renopare se tai lo te platu を提案。
 
 *3: la renonovonanc.: こうするしかないんですよね。
-何年にっていう表現が cmene でしかできないことに、ややわりきれないものを
-感じます。まあ、2004年ってのは「年」につけた名前でしかないと言われれば、そん
-な気もしますが。もどかしさがあります。
+	何年にっていう表現が cmene でしかできないことに、ややわりきれないものを
+	感じます。まあ、2004年ってのは「年」につけた名前でしかないと言われれば、
+	そんな気もしますが。もどかしさがあります。
 
 
 22 276words モスクワのアパートメントでウラジーミル・レーニンを捜す [萩
