@@ -49,3 +49,7 @@ project niwa に関する伝達事項:
 
 [iocikun.2013-07-14: fanva.txt -> fanva/01.txt, fanva/02.txt のようにする
 	今から上記作業を開始します。]
+
+[iocikun.2013-07-14: fanva.txt への編集は行って問題ありません
+	%section:33 のような形を認識して、file 分割する予定。
+	分割する前に、pull しますので、fanva.txt への編集は問題ありません。]
