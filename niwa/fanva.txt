@@ -824,8 +824,8 @@ tcini
 ni'o reci mo'o
 lu ckupra lo lardai liste poi(*1) xe fanva fi lo cixa bangu li'u
 (*2)
-.i ckupra lo liste be lo'i ro lardai gungunma be ba'o la
-renonovonanc.(*3) ku poi xe fanva fi lo cixa bangu
+.i ckupra lo liste be lo'i ro lardai gungunma(*5) be ba'o(*4) la
+renonovonanc.(*3) ku poi xe fanva(*6) fi lo cixa bangu(*7)
 .i lo bangu sei krasi se finti zo'e lo nu lo'i stuzi cu simxu lo nu
 casnu
 .i ku'i va'o lo cabna kluce'u noi ca'o gugykruca ku bu'u so'i
@@ -869,6 +869,34 @@ poi ma'a ponse
 	2004年ってのは「年」につけた名前でしかないと言われれば、
 	そんな気もしますが。detri を使ったほうが意味がはっきりします。
 
+*4: ba'o la renonovonanc.: ba と ba'o は BAI として使ったときには同意では?
+	mi ba'o citka (私は食べ終わった)
+	というのはつまりこの bridi の時点が citka という行為よりも後ということ。
+	つまり、la'e lo bridi cu balvi lo nu citka といった感じ。
+	それに対して mi ba citka (私は食べるだろう)
+	というのはつまりこの bridi の時点が cabna よりも後ということ。
+	つまり、la'e lo bridi cu balvi lo cabna といった感じ。
+	ということは、ba と ba'o の違いは、直接、selbri についたときに、
+	比較の対称とするものが lo cabna なのか、lo nu citka なのかが違うだけで、
+	BAI 的な使いかたをしたときには違いは無いはずだ。
+	ここらへんの考察を /niwa/others/tense.txt で行っている。
+	唯一違いがあるとすれば ba'o da では da が時間的な幅があることが暗示されて
+	いるくらいだが、そう解釈すると la renonovonanc. に幅があることが暗示される
+	ので、ここでの、むしろ点(起点)としての時間を表現している「2004年から」の
+	訳として余計不適切かと。
+
+*5: プロジェクト: lo gungunma -> lo te platu
+	この場合、「仕事の(結果の)群れ」よりも「計画されて行われること」のほうが
+	適切かと思われる。
+	しかし、lo te platu とした場合、以降の be ba'o ... は使いにくい。
+
+*6: fanva: 実際に翻訳されているのはプロジェクトそのものではなく
+	「プロジェクトの説明」
+
+*7: 上記を考慮した試訳
+	.i ckupra lo liste be lo'i ro ve ciksi be fi lo lardai te platu poi
+	gasnu ke'a ba lo se detri be li renonovo be'o poi fanva fi lo cixa bangu
+	fu ke'a
 
 22 276words モスクワのアパートメントでウラジーミル・レーニンを捜す [萩
 原]

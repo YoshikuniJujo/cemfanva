@@ -6,15 +6,58 @@
 
 > lu ckupra lo lardai liste poi(*1) xe fanva fi lo cixa bangu li'u
 
+ckupra = cukta + cupra: publish = book + produce
+lardai = larcu + dacti: 作品 = art + material object
+liste: x1 (physical object) is a list
+
+poi xe fanva fi lo cixa bangu
+本来ならば poi fanva fi lo cixa bangu fu ke'a とするべき。
+
+poi や noi によって作られる関係節の x1 に ke'a が来るという明示された rule は無い。
+CLL には具体的な例文の説明のなかで
+「(この場合)省略された ke'a は x1 に来ると考えるのが普通である」
+といった記載があるだけだ。
+ke'a の入る場所を SE によって x1 に持って来ることで ke'a を省略するというやりかたは
+malglico なのでは?
+ただし、実用上便利なので今回は良いことにする。
+たとえば日本語で「食べる物ある?」と聞くように、da poi citka cu bredi
+と書けると思う。
+これは自然に da poi citka ke'a cu bredi と解釈される。
+x1 に ke'a が来ることを暗黙の rule にすることは英語的表現をそのまま使える点で
+便利だが、その代わりに「日本語的表現」を犠牲にしている。
+ここらへんは、きちんと、トレードオフを考えて決める必要があると思う。
+いつかは lojban mailing list に提起すべき問いだ。
+
+lu ckupra lo lardai liste poi fanva fi lo cixa bangu fu ke'a li'u
+lu ckupra lo lardai liste poi fu ke'a fanva fi lo cixa bangu li'u
+lu ckupra lo lardai liste poi ke'a xe fanva fi lo cixa bangu li'u
+
 > 2012 プロジェクト
 
 > (*2)
+
+de'i renopare se tai lo te platu
 
 > 2004年からのすべての作品プロジェクトを36種類の言語に翻訳した作品集を発
 > 行する。
 
 > .i ckupra lo liste be lo'i ro lardai gungunma be ba'o la
 > renonovonanc.(*3) ku poi xe fanva fi lo cixa bangu
+
+2004年は cmene で表現するか、あるいは lo detri be renonovo とするか。
+しかし、detri は
+
+gungunma よりも te platu のほうが良さそう。
+実行済みであったとしても te platu は使えると思う。
+そうすると be ba'o が使いにくくなり
+poi zukte/gasnu ke'a ba lo se detri be li renonovo といった感じになる。
+
+「[時]からのすべての[物]」 [物] poi ke'a co'e ba lo detri be li renonovo
+
+zukte と gasnu の違いは以外に難しい。
+
+.i ckupra lo liste be lo'i ro ve ciksi be fi lo lardai te platu poi
+gasnu ke'a ba lo se detri be li renonovo be'o poi xe fanva fi lo cixa bangu
 
 > 本来、言語は特定の地域間で意思疎通を図る為の道具として発明されたが、
 
