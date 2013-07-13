@@ -132,3 +132,9 @@ sedu'u と cusku について: cusku の x2 と sedu'u をより広く「表現�
 	は finpla としてあったが、finti と platu の関係がいまいちつかみづらい。
 
 	gungunma という表現について見落としていたので追加
+
+	「プロジェクト」という日本語の意味が曖昧なところがある。
+	gungunma = gunka + gunma で、「仕事によって作られた群」といった感じ。
+	finpla = finti + platu で、「創作的に計画を立てる」といった感じ。
+
+	時間があれば統一したい気もするが。
