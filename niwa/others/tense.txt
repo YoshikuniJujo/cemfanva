@@ -1,0 +1,70 @@
+時制に関する考察
+
+						文責: .iocikun.
+
+以下から導き出される結論:
+	* ba と ba'o は BAI 的に使った場合同じ意味になる
+	* ...
+
+X .i TENSE bo Y
+TENSE gi X gi Y
+Y TENSE le nu X
+
+ba klama = ba lo cabna cu klama = このブリディは cabna より未来
+
+cabna .i ba bo klama
+klama ba le cabna = klama se fi'o balvi lo cabna = ba klama
+(x1 はブリディ, x2 は cabna)
+
+balvi: x1 は x2 より未来である。
+
+ba'o klama = このブリディは klama よりも未来
+
+ca ba'o klama = ba'o lo nu klama cu cabna = 今は行ったあとである
+
+klama .i ba'o bo cabna --- 行く -> 今
+cabna ba'o lo nu klama --- 行く -> 今
+
+X ba lo nu Y = X ba'o lo nu Y
+
+つまり、ba は今とブリディを比較してブリディのほうが未来となり、
+ba'o は出来事とブリディを比較してブリディのほうが未来となる。
+
+出来事と現点と今の3つの関係を考えると理解できる。
+
+--- (klama) --- (bridi) --- (cabna) ---
+
+は、pu ba'o klama となる。
+つまり「行き終わったあとだった」
+
+--- (klama) --- (cabna) --- (bridi) ---
+--- (cabna) --- (klama) --- (bridi) ---
+
+は、ba ba'o klama となる。
+つまり「未来において行き終わったあととなる」
+
+--- (cabna) --- (bridi) --- (klama) ---
+
+は、ba pu'o klama となる。
+つまり「未来において行く前となるだろう」
+
+--- (bridi) --- (cabna) --- (klama) ---
+--- (bridi) --- (klama) --- (cabna) ---
+
+は、pu pu'o klama となる。
+つまり「過去において行く前となる」
+
+つまり「行った」を正確に言おうとすれば、
+pu ba'o klama/ pu ca'o klama とする必要がある。
+単に pu klama とすると以下の可能性が出てきてしまう。
+
+(1) --- (klama) --- (bridi)       ---             (cabna)                   ---
+(2) ---             (bridi/klama) ---             (cabna)                   ---
+(3) ---             (bridi)       --- (klama) --- (cabna)                   ---
+(4) ---             (bridi)       ---         --- (cabna/klama)             ---
+(5) ---             (bridi)       ---             (cabna)       --- (klama) ---
+
+このうち (1)(2)(3) は「行った」となるが、(4)(5) はそうはならない。
+(1) pu ba'o klama
+(2) pu ca'o klama
+(3), (4), (5) pu pu'o klama
