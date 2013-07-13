@@ -1811,7 +1811,19 @@ gau frati lo se djica なら「望むようなやりかたで反応させる」�
 [cs]良国重城:
 同額で売買する: mi fo da vecnu gi'e te vecnu
 私が da という値段で売りかつ買う
----ca'o pinka---
+
+[guskant.2013-07-13: タイトル {lu .i .ai...} この .i は何のために？]
+[guskant.2013-07-13: {zukte} （2箇所）> 「パフォーマンス」を tugni にするかどうか]
+[guskant.2013-07-13: {bu'u lo jungo...} 題と区切るために文頭の i が必要]
+[guskant.2013-07-13: {fo da vecnu gi'e te vecnu}={fe zo'e fo su'o da vecnu gi'e te vecnu} なので、息によって異なる値段で売買する可能性を含意する。 {pa da} か {zu'i} の方が良い。]
+[guskant.2013-07-13: {mi jbini loi canja gi'e gasnu lo nu canja} > 「やりとりの媒体としての役割を演じ」なら {mi tigni lo jai va'o canja} あるいは {mi tigni lo jai xebe'i canja}]
+[guskant.2013-07-13: {se tai lo ka to'e cando cu} 「うごめく性質に似て」 > mi が「積極的」なので {.ai} でも良さそう。あるいは {temu'i mi} 「私が動機をもって」]
+[guskant.2013-07-13: {lo viska cu gau frati} > gauがあればcuは不要]
+[guskant.2013-07-13: {vesxu} > {vasxu}]
+[{ba lo fanmo lo tadni poi djica lo nu vecnu lo mi se vesxu pu so'i mei klama} 
+- {pu} が nu 内に入っていてメインの selbri が無くなってしまう。 {cu pu} とする必要がある。
+- 「殺到」と言っても、実際に往来していないので {klama} は不要か。近づいてくる様子を出すなら {mo'i zo'i so'i mei}]
+---mo'u pinka---
 
 
 
