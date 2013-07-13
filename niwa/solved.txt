@@ -51,3 +51,717 @@ xamgu je melbi zmadu .i ba'o galfi (.iocikun.)
  > cu は無くても可
 .ie ba'o galfi (.iocikun.)
 ]
+
+
+
+
+12 [guskant]
+良国重城 11:54 AM Jul 8
+Selected text:
+xygylysy
+上で僕の試訳を使うなら、
+ji'u xygylytysy
+
+もとのままにするならば、細かいことですが、support したのは「計画」ではなく「計画した共同体」なので、lo xygylyjysy cecmu とする必要があるかと。
+Reply
+
+gusni kantuie
+12:55 PM Jul 9
+
+gusni kantulo xygylysy cecmu だと「xygylysy個のcecmu」になってしまうので、
+lo cecmu no'u xygylysy
+に変更
+4:52 PM Jul 10
+
+良国重城「計画」と「共同体」は同一のものではないので、no'u ではなく ne のほうが良いのでは?
+5:06 PM Jul 10
+
+gusni kantuie
+5:36 PM Jul 10
+
+gusni kantuMarked as resolved
+4:41 AM Jul 12
+
+gusni kantu 6:57 AM Jun 3
+Selected text:
+.xelsink.
+ji .xelsink.
+Reply
+
+gusni kantuMarked as resolved
+4:41 AM Jul 12
+
+gusni kantu 10:32 AM Jun 3
+Selected text:
+merodava'e
+あらゆるレベルの
+Reply
+
+良国重城これだと「全ての物」レベルというひとつのレベルになってしまう。
+レベルには負は無いという暗黙の前提が必要になるが以下のようにすれば、一応表現できるか。
+
+lo cnijbi fadni ke no va'e bi'i ro va'e nu zerle'a
+11:08 AM Jul 8
+
+良国重城代案:
+
+「あらゆるレベルの」を「あらゆる性質の」と読み換えれば、
+
+ro se ckaji とできるか。
+さらに「レベル」に含まれる語感として「層状」であるという意味を込めれば、
+ro senta se ckaji となるか。
+
+タンルの一部にするために、
+全体を lujbo 化して、rolsetselkai とできるかな。
+
+lo cnijbi fadni ke rolsetselkai nu zerle'a
+11:18 AM Jul 8
+
+gusni kantumerozo'eva'eとは違う。daは束縛変項なので、rodaを使った命題は、議論領域内の可能な項を1つずつdaに代入して命題の真理値を検討していき、全ての項についてこの命題が当てはまるということを表す。
+したがって、merodava'e によって「あらゆるレベル」を表現できている。
+12:57 PM Jul 9
+
+良国重城なるほど、
+... me ro da va'e は、
+ro da zo'e ... me da va'e に展開できるということですね。
+納得です。
+9:15 AM Jul 10
+
+gusni kantuMarked as resolved
+4:41 AM Jul 12
+
+gusni kantu 10:30 AM Jun 3
+Selected text:
+cnijbi
+身近 cinmo jibni
+Reply
+
+gusni kantuMarked as resolved
+4:41 AM Jul 12
+
+gusni kantu 10:30 AM Jun 3
+Selected text:
+sivypo'eci'e nu ponse
+資本主義社会の所有
+sivni ponse ciste nu ponse
+Reply
+
+gusni kantuMarked as resolved
+4:41 AM Jul 12
+
+gusni kantu 10:28 AM Jun 3
+Selected text:
+banxa pracmu
+銀行資本 banxa ke cupra jicmu
+Reply
+
+gusni kantuMarked as resolved
+4:41 AM Jul 12
+
+gusni kantu 10:28 AM Jun 3
+Selected text:
+lo zu'o toltu'i
+抵抗行為
+zu'o to'e tugni 不賛成の行為
+Reply
+
+良国重城tugni は「x3 が真である」ことへの同意なので、ここで tu'e tugni を使うと、銀行資本や資本主義社会の所有というものが存在することを否定していることになってしまう。
+つまり現実逃避的な感じ。
+
+もしも tugni を使うならば x3 を「銀行資本や資本主義社会の所有が正当である」としなくてはならない。
+
+むしろ pante を使って、
+lo zu'o pante lo nu banxa ... としたほうが良さそうだが。
+11:34 AM Jul 7
+
+gusni kantuie
+9:05 PM Jul 7
+
+gusni kantuMarked as resolved
+4:41 AM Jul 12
+
+良国重城 10:32 AM Jul 7
+Selected text:
+fange
+この場合の「他者」は lo fange でしっくりきますね。
+自分達とは異質なものといった意味で。
+
+たとえば「自分と他者」と言うときの他者は lo drata になると思います。
+Reply
+
+gusni kantuMarked as resolved
+4:40 AM Jul 12
+
+良国重城 10:36 AM Jul 7
+Selected text:
+jikca
+「コミュニケーション」に lo nu jikca はしっくり来ますね。
+僕のところもこっちで再検討してみます。
+「誰かとコミュニケーションする」なら jikca zo'e で、
+もっと相互的な「コミュニケーション」だとすると lo ka jikca simxu といったところでしょうか。
+Reply
+
+gusni kantuMarked as resolved
+4:40 AM Jul 12
+
+良国重城 10:56 AM Jul 7
+Selected text:
+ju'a
+ju'a はニュートラルな evidential 。つまり「私が思う」でも「私は聞いた」でも「私は見た」でもなく「私はそう言っているだけ」だ。
+もちろん ju'a に他の evidential を否定する意味もないから「根拠がない」という意味を積極的に表すこともない。
+ju'a pei によって根拠を問うくらいしか用途はない。
+
+上はやや誇張した言いかた。
+.i mi klama と .i ju'a mi klama
+のあいだに意味の差はないが、ニュアンスの差はある。
+後者は「とにかくそう言っているだけ」という点を強調しているため、言外に「ただ私が言っているだけで、本当に行ったかどうかは知らないよ」という気持ちがあるだろう。
+
+CLL 13.11
+For the most part, using "ju'a" is equivalent to using no evidential at all
+Reply
+
+良国重城訳案
+
+「X は Y を表す」は「X は Y を意味する」にある程度近いので、意訳として、
+lo nu ... cu tavla ... se smuni lo nu jikca lo fange ... とする、とか。
+
+「X は Y を表す」->
+「表現 X は 意味 Y を表す」->
+「表現 X は 意味 Y を意味する」->
+「X は Y を意味する」
+11:07 AM Jul 7
+
+gusni kantuBPFK Sections:
+ju'a (UI2) 
+Evidential. Used to express a non-specific/elliptical source of information or idea. See also xusra, the preface.
+何らかの根拠はある
+9:00 PM Jul 7
+
+良国重城読みかえしてみたら腑に落ちました。
+ここでの「X は Y を表す」は、X は Y であるということを私は言っている。
+ととらえるのは自然ですね。
+また、ここでの「表す」にこめられた、「実際にどうであるかはとくに言っていない」というニュアンスが ju'a で表すことができるので、適切なように思えてきました。
+10:29 AM Jul 8
+
+gusni kantuMarked as resolved
+4:40 AM Jul 12
+
+gusni kantu 10:26 AM Jun 3
+Selected text:
+lo'e to'e jikca
+「反社会的人物」
+泥棒は、他人に与える影響が大きいという意味で、「to'e jikca 隠遁系？」というより、むしろ非常に社会的だから、泥棒について形容するなら xlajikca (xlali jikca) の方が適切。
+しかし著者は「反社会的人物とのコミュニケーション jikca lo'e to'e jikca」という奇妙さを強調したいように見える。
+Reply
+
+gusni kantuto'e jikca を採用。著者に確認済
+11:05 AM Jun 18
+
+良国重城著者の意図がそこにあるのであれば、それでいい気もするが、jikca は social の「社会」よりも「社交」の意味を表していると思う。
+むしろ、ここで言う「社会」は lo cecmu だと思う。
+今回のようなコンテキストなしで「反社会的人物」を訳すなら、lo cecmu bradi とか lo cecmu to'e tinbe とか、より説明的に lo to'e tinbe be fi lo cecmu とか、か。
+
+lo to'e jikca だと「社交の反対」で、僕の感じる語感からすると、「わざと失礼なことをする人物」みたいな感じがする。
+あるいは、下の例から導かれるように、「誰かしらと絶交した人」なのでは。
+この「誰かしら」を「ほとんどの人」として考えると「誰とでも絶交する人」となり上の僕の感じる語感が生じる。
+
+la djan. jikca la djein.
+「ジョンはジェーンと交際する」
+la djan. na jikca la djein.
+「ジョンはジェーンと交際しない」
+la djan. to'e jikca la djein.
+「ジョンはジェーンに交際の反対をする」
+ジョンはジェーンと絶交したということになるだろうか。
+
+日本語で普通に名詞として「社会」と言った場合、lo nu jikca ではなく lo cecmu であると思う。
+10:23 AM Jul 7
+
+良国重城試訳:
+
+lo'e cecmu to'e tinbe no'u lo zerle'a
+10:24 AM Jul 7
+
+gusni kantuこの文脈では社交の反対とするべき。
+「誰とでも絶交する人」という意味に捉えても、この文脈では適切。
+なぜならコミュニケーションの対象となれないものという意味での「反社会的人物」だから（著者に確認済）
+8:59 PM Jul 7
+
+良国重城そうですね。
+この文脈では to'e jikca が良いようですね。
+以前に、自分で「社会」を jikca で訳そうとして感じた違和感を引きずっていたので、すこし変に感じてしまいました。
+10:32 AM Jul 8
+
+gusni kantuMarked as resolved
+4:40 AM Jul 12
+
+gusni kantu 7:36 PM Jun 3
+Selected text:
+baxseljibri
+baxseljibri: 
+$x_1$ se jibri $x_2$ poi ke'a banxa $x_3$ boi $x_4$
+$x_1=s_1$ は銀行 $x_2=b_1=s_2$、$x_3=b_2$ （金融体系）・ $x_4=b_3$ （銀行の機能）の銀行員
+$x_1=s_1$ is a bank clerk of a bank $x_2=b_1=s_2$ owned by/in banking system $x_3=b_2$ for banking function(s) $x_4=b_3$ (event).
+Reply
+
+gusni kantuMarked as resolved
+4:40 AM Jul 12
+
+gusni kantu 10:22 AM Jun 3
+Selected text:
+te gusni
+「ライトプロジェクター＝光源」とした。lujvoなら tergu'i
+プロジェクターの直訳なら mirtci (minra tutci) だが、これにはスクリーンも含まれそう。
+また、すでに gau minra と言ってあるので、minraを含むlujvoを言う必要がない
+Reply
+
+gusni kantuMarked as resolved
+4:39 AM Jul 12
+
+gusni kantu 10:19 AM Jun 3
+Selected text:
+doi romei .io be lo zerle'a
+「泥棒のみなさま」
+PAmeiのx2を集合にしない方針を採用
+http://www.lojban.org/tiki/BPFK+Section%3A+Numeric+selbri
+Reply
+
+gusni kantuMarked as resolved
+4:39 AM Jul 12
+
+gusni kantu 11:00 AM Jun 3
+Selected text:
+.xelsinkis.
+ji xelsink
+Reply
+
+gusni kantuMarked as resolved
+4:39 AM Jul 12
+
+gusni kantu 7:02 AM Jun 3
+Selected text:
+.lamd.
+ji lamd
+Reply
+
+gusni kantuMarked as resolved
+4:39 AM Jul 12
+
+gusni kantu 6:52 AM Jun 3
+Selected text:
+mo'o
+本文に fukpu'i したら、以前に付いていたコメントが消えました。すみません。
+Reply
+
+gusni kantuMarked as resolved
+4:39 AM Jul 12
+
+良国重城 11:50 AM Jul 8
+Selected text:
+residency
+residency が訳出されてない?
+
+「レジデント」という意味ならば、tadni あたりを使うか。
+
+また、Helsinki International ... Programme は大文字であることと、HIAP はおそらく「計画」そのもとではなく「計画する共同体」なので、la を使うべきかと思う。
+また jikca が何を訳出したのかわからなかったので、下の試訳では省いた。
+
+.i finti sera'a lo nu tadni pe la .xelsinkis. gugykruca ke larcu tadni selpla pe lo gugdefu'i
+Reply
+
+gusni kantu" at Helsinki International Artist-in-residency Programme" の方で residency を jikca と訳したので、このjikca selpla との関係を sera'a で表し、 residency を2回使う冗長さを避けた。この冗長さは英語の表現力の無さから来るものだから、訳出する必要性を感じない。
+HIAPを運営しているcecmuはあるはずだが、この作品はProgrammeの一環としての制作だから、loで意味上の問題はない。
+一方、supported byの訳にはcecmuを追加する。
+12:55 PM Jul 9
+
+gusni kantuMarked as resolved
+4:39 AM Jul 12
+
+良国重城 10:40 AM Jul 8
+Selected text:
+かもしれない。
+「かもしれない」が訳出されてない?
+la'a でいいのかな。
+
+.i lo viska be le de'u sinxa la'a ka'e se xanri ... といった感じ。
+Reply
+
+gusni kantu「かもしれない」を ka'e で訳出している。むしろ「できる」のほうをわざと無視した。この「できる」は心理的な可能性であり、「かもしれない」とほぼ同義。
+12:53 PM Jul 9
+
+gusni kantuMarked as resolved
+4:39 AM Jul 12
+
+良国重城 11:13 AM Jul 7
+Selected text:
+jibni
+語感の違いかもしれませんが、「潜在する」だと「そばにいる」よりも「中にいる」といった感じがします。
+mipri jibni よりも mipri nenri のほうが良さそう。
+sumti が lo cecmu ではなく ma'a ならば mipri jibni だと思うのですが。
+
+lo zerle'a cu mipri jibni ma'a
+lo zerle'a cu mipri nenri lo cecmu
+Reply•Resolve
+
+gusni kantuie 
+nenriに変更
+9:01 PM Jul 7
+
+
+
+
+
+11 [guskant]
+gusni kantu 10:35 AM Jun 3
+Selected text:
+ca'o ji'o gubni stuzi
+管理されつつある公共空間
+Reply
+
+gusni kantuMarked as resolved
+5:04 AM Jul 12
+
+gusni kantu 10:33 AM Jun 3
+Selected text:
+cribe tarmi pilka
+熊の着ぐるみ cribe tarmi pilka 「クマ型の皮」
+Reply
+
+gusni kantuMarked as resolved
+4:43 AM Jul 12
+
+gusni kantu 6:58 AM Jun 3
+Selected text:
+.u,enon.
+ji .u'en.
+Reply
+
+良国重城.u'enon. のほうが良いと思う。u'en だと日本人(である僕)が見ても(聞いても)わからない。
+6:16 AM Jul 11
+
+gusni kantuie ba'o stika
+7:24 PM Jul 11
+
+gusni kantuMarked as resolved
+7:24 PM Jul 11
+
+*1: ge'u: 今回の訳には関係ないコメントかもしれない。参考までに。
+これを法制句の終端詞として使うという提案が出ているのでしょうか?僕の辞
+書にはそう載っているので。FA も法制と非常に近いものなので FA の終端もこ
+れでできるのでしょうか?
+[guskant.2013-07-11: jbovlasteの英語や日本語定義ではそうなっていますが、
+lojban定義では
+fa'orma'o zo goi
+となっているだけです。BPFK Sectionsでもそんな記述はないので、jbovlaste の
+英語・日本語が間違っているのかもしれません。]
+*2: mi poi dasni ... : 確信犯的に使っているのでなければ
+「私」がたくさんいるうちの dasni している「私」といった感じ。これは普通
+ならおかしい。ただし、「家でくつろいでいる私と職場で働いてる私」のような感
+じに複数の自分がいることを前提とした表現ならば poi が合っていると思う。
+ここでのニュアンスはどちらとも取れるので、訳者の判断にお任せしますが、ケア
+レスミスの可能性を考え、コメントしておきます。
+[guskant.2013-07-11: ki'e]
+*3: sei ... : これも全く問題はないのですが
+zasni gerna だと sei のあとはよりフレキシブルになり、selbri の後の tail
+terms も許すようになったと思う。この変更が望ましいものかどうか僕にはよく
+わからない。どちらかと言うともとのままのほうがすっきりと書けるので良い気
+もするが、しかし、parse (人間によるものであれ、機械がするにしろ) はより簡単
+にはなる。ここらへんは好みの問題もある。後々の文法改訂に対応するのであれば、
+se'u を入れたほうがいいが、今のままのほうがすっきりはしているので、どちら
+がいいかわからない。訳者の判断にお任せします。
+[guskant.2013-08-11: je'e .i jmina zo se'u]
+*4: lu'a lo ve pluta: 多分正しいと思いますが、また後で考えてみるために、コ
+メントを残しておきます。
+[guskant.2013-08-12: je'e]
+*5: .i sei ku'i ...  逆接において交換則が成り立つかという問題:
+.i X .i ku'i Y で 「X だが、しかし Y」これが意味的に「Y だが、しかし X」と
+なるか。強調点の違いなので多分問題ないとは思うが。
+上記のように一度は思ったのだが、ku'i が接続詞なら全く問題無いのだが、UI な
+ので、2つの bridi の関係を示すのではなく、単一の bridi 等にかかるため、ku'i
+のなかには「他の事実に反して、これは真」という意味を含める必要がある。後者
+の解釈を取るとむしろ .i ku'i sei ...  のほうが正しいが、そうすると今度は
+ ku'i が暗黙のうちに参照しているものが前の文なのではないかと推測されて
+しまう。ku'i は UI ではなく JOI, または BAI にするべきだったのかもしれな
+い。
+[guskant.2013-08-12: ku'iは、前後の部分とのつながりが正常ではないという
+心態を表す。ku'iのついた部分が前でも後でも構わないはず。]
+*6: li'a: discursive は文(あるいは意味のまとまり)全体をメタ的に説明す
+るので、この場合不適切な感じがする。
+つまり、selbri 等を修飾するのではなく、「今言っていること」を修飾して「明
+らか」と言っているので。原文の意味は「熊である」そのありかたが明らかとい
+う意味であるのに対し、li'a が意味するのは、「熊である」という言明が明らか
+であると言っている。つまり、「明らかにわかる」と「明らかに、わかる」の違い。全
+者はたとえば klina jimpe であり後者は li'a jimpe となるだろう。
+[guskant.2013-08-12: ie]
+*7: sei ku'i li'a to'e fatci cribe -> ge frili jimpe lo du'u to'e
+fatci cribe gi ku'i
+試訳。上記の通り「sei ku'i X se'u Y」とすると「それにも関らず X であるの
+だが(ここの「だが」は逆接の意味を持たない)、Y である」のように、逆接の意味
+が反転してしまう。しかし、だからと言って、.i ku'i sei X se'u Y とすると
+ku'i の前提が前の文のように読まれてしまう可能性が高い。よって、sei は使わ
+ずにより素直な訳としてみた。「反事実の熊であることはすぐわかる、かつ、それに
+もかかわらず」ということ。
+[guskant.2013-08-12: 論理接続とは言えない。seiを保持。li'aは変更。]
+*8: tu'a X は lo nu/su'u X co'e なので
+lo xabju という「人」と lo nu/su'u X co'e という「事」とを karbi する
+のはやや難あり。tu'a lo mivdalmuzga ではなく、zo'e pe lo mivdalmuzga とす
+るべきでは?
+[guskant.2013-08-12: su'uは「事」に限らず何でも抽象できるはずだから、
+tu'a lo mivdalmuzga によって運営者を抽象できるはず。もっともlo
+mivdalmuzgaだけで運営する集団を意味することは可能かもしれないから、そう
+だったらtu'aが無くても良いかもしれない。]
+*9: lo bilga za'i ca'o ji'o gubni stuzi について
+bilga za'i ca'o ji'o gubni stuzi は tanru ということ?文意を考えると、lo
+za'i ca'o ji'o gubni stuzi kei bilga のほうが良さそうだが。あるいは lo
+bilga co za'i ca'o ji'o gubni stuzi の co の書き忘れ?
+より説明的な訳だと。lo bilga no'u lo nu .ei za'i ca'o ji'o gubni stuzi
+となりそうだ。
+[guskant.2013-08-12: 「在り方」を問うのでza'i抽象をtertauとした。
+bilgaがtertauだと、義務を負う者について問うことになってしまう。
+bilgaが無くても良かったかもしれないが、現状を問うより「どうあるべきか」
+を問うのだろうと推測してbilgaをseltauとした。]
+
+
+
+
+10 [guskant]
+
+gusni kantu 10:43 AM Jun 3
+Selected text:
+lo .zen. nu preti ja danfu
+禅問答
+Reply
+
+gusni kantu問答？
+nunreispu < nu preti spuda
+nunkemreijavdanfu < nu ke preti ja danfu
+2:02 PM Jun 3
+
+gusni kantuMarked as resolved
+5:09 AM Jul 12
+
+gusni kantu 2:01 PM Jun 3
+Selected text:
+zo'e sezreispu lo te ciste po'u vo'a
+「自分の役割を自問自答する」＝「システムの構成要素としての自分について自問自答する」
+zo'e te preti je ve preti je spuda je se spuda fi'o te tavla lo te ciste po'u vo'a
+Reply
+
+gusni kantu自問自答
+sezreispu < sevzi preti spuda:
+$x_1$ te preti $x_2$ zi'o zo'e poi ke'a sevzi $x_1$ ku'o goi ko'a gi'e spuda ko'a zi'o
+$x_1=se_2=p_3=sp_1$ は題目$x_2=p_2$について自問自答する
+$x_1=se_2=p_3=sp_1$ answers one's own question about subject $x_2=p_2$
+2:01 PM Jun 3 (edited 7:44 PM Jun 3)
+
+良国重城これだと、「システムの構成要素のうちの自分であるものについて問う」ことになってしまう。
+より素直に、lo du'u vo'a zukte ma kau 「自分が何をするかを」か、lo du'u .ei vo'a zukte ma kau 「自分が何をすべきかを」
+で良いのでは?
+5:56 PM Jul 4
+
+良国重城ちなみに、sevzi は「自分」というよりは「自我」とか「自己」とかいう意味だと思うので、
+sezreispu を自問自答の意味でとらえようとすると、もうひとりの自分と話し合っているというイメージがある。
+むしろ xrureispu (もどる的に問い答える) のほうが自問自答の意味に近い気もするが、ここらへんはまだ僕のなかで保留中。
+
+上の書きかただとわかりにくい気がしたので追加。
+sezrei だと「自分に問う」よりも「自我について問う」といった感じで、アイデンティティ問題といった感じを受ける。
+上で書いたのはもしも sezrei を「自分に問う」と解釈しようとしたら、そうなる、という話。
+
+SE に属する cmavo で x1 と x2 が同じであることを示すたとえば se'ei のようなものがあり、それに rafsi があれば良いのですが。
+
+se'ei broda = broda vo'a
+
+また、これがあれば gismu の数を減らすか、または減らさないまでもその間の関係を明らかにできる。
+
+muvdu 動く
+gau muvdu 動かす
+jai'ei gau muvdu = klama
+(jai'ei は jai gau が x1 と gau の中身を交換するのとパラレルで、x1 と gau の中身が同じことを示す、とする)
+6:01 PM Jul 4 (edited 1:35 PM Jul 5)
+
+良国重城試訳を載せておきます。
+
+danfu lo vo'a preti be lo du'u .ei lo no'a cu zukte ma kau
+9:46 AM Jul 5 (edited 9:51 AM Jul 5)
+
+gusni kantuこの原文の意味はまさに「システムの構成要素のうちの自分であるものについて問う」という意味であると捉えて訳した。
+役割にはzukteという意味は必ずしも入らない。意思のないものにも、システムによって役割が与えられる。役割というものは事物をシステムとして捉える者によって、システム内で与えられる。
+sevziの意味については漠然としていて、「自問自答」の一般的な訳として妥当かどうかわからないが、ここでは「もうひとりの自分と話し合っているというイメージ」を与えるものとして訳した。
+9:13 PM Jul 7
+
+良国重城そうですね。
+読み直してみたら腑に落ちました。
+10:23 AM Jul 8
+
+gusni kantuMarked as resolved
+5:09 AM Jul 12
+gusni kantu 10:41 AM Jun 3
+Selected text:
+xlali danlu
+害獣 xlali danlu:
+tanruでも良さそう。
+lujvoにするなら
+xlada'u:
+$x_1$ danlu $x_2$ gi'e xlali $x_3$ boi $x_4$
+$x_1=d_1$ は $d_2$ 種の害獣、 $x_2$ にとって、基準 $x_3$ による
+$x_1=d_1$ is a bad animal/creature of species $d_2$ for $x_2$ by standard $x_3$
+Reply
+
+gusni kantuMarked as resolved
+5:09 AM Jul 12
+
+gusni kantu 10:40 AM Jun 3
+Selected text:
+lo gugypausle
+lo jecta be lo gugde pagbu selci
+自治体の「政府 lo jecta」という意味を追加してある。
+gugypausle に jecta の意味が含まれるなら、jectaは不要
+Reply
+
+gusni kantu不要と考え jecta be lo を消してみた
+11:07 AM Jun 29
+
+gusni kantuMarked as resolved
+5:09 AM Jul 12
+
+gusni kantu 6:35 AM Jun 3
+Selected text:
+.i tu'e ce'o gi
+.i の直後に ce'o gi ... gi があると、構文エラーになる
+Reply
+
+gusni kantu.itu'e ce'o gi ... gi ... (tu'u)
+あるいは
+.ibo ce'o gi ... gi ...
+あるいは
+ni'o ce'o gi ... gi ...
+とするとエラー回避。
+6:41 AM Jun 3
+
+良国重城ce'o gi ... gi ... はいい表現ですよね。
+日本語の「... し、... した」のような表現をよく表せてる気がします。
+僕のところで ge ... gi ... で訳したところも本来ならばこっちを使いたい気もします。
+
+上の現象は文法のバグと考えることができます。
+今、パーサジェネレータを作っています。
+pappy だと zoi の部分がうまく書けないことや、その他、ちょいちょい気に入らない部分があったので自作しました。
+名前は pappy をもじって papillon としました。
+90% できましたので、できるだけ早く上記のバグの所在をつきとめ、根本的解決、または回避策を考えます。
+こうごきたい。
+
+ところで、plain な .i と同じ意味の接続詞というものをどこかで読んだ気がするのですが、何だかわかりますか?
+10:32 AM Jul 5
+
+gusni kantuje'e
+i. と同じ意味の接続詞はわかりません。
+9:09 PM Jul 7
+
+良国重城ju'e でした。
+nalteo さんが使ってました。
+ki'e
+9:57 AM Jul 8
+
+gusni kantuMarked as resolved
+5:09 AM Jul 12
+
+gusni kantu 7:01 AM Jun 3
+Selected text:
+.kamfor.
+ji kamforas ji kus
+http://en.wikipedia.org/wiki/Cinnamomum_camphora
+Reply
+
+gusni kantuMarked as resolved
+5:08 AM Jul 12
+
+gusni kantu 7:40 PM Jun 3
+Selected text:
+muzyku'a
+ギャラリー
+muzyku'a:
+$x_1$ kumfa .ije $x_2$ se muzga bu'u $x_1$
+$x_1=k_1$ は $x_2=m_2$ を展示するギャラリー／展示室
+$x_1=k_1$ is a gallery of museum/exibition hall for exhibiting $x_2=m_2$
+Reply
+
+gusni kantuMarked as resolved
+5:08 AM Jul 12
+
+良国重城 5:34 PM Jul 4
+Selected text:
+nu
+同上: nei が zu'o ... を指すのであれば、nu は不要かと
+Reply•Resolve
+
+gusni kantuie
+9:12 PM Jul 7
+
+[guskant: lo nei をlo no'a に変更。
+(
+tugni la tsani la'e di'e: "That being said, I say that {nei} used in a sei-clause refers to the bridi of the sei-clause. This is consistent with (almost) every other use of nei. To refer to the bridi outside the sei-clause {no'a} is required." 
+https://groups.google.com/d/msg/lojban/1jw3fYM6JNI/1jtUHcajzkYJ
+)]
+
+良国重城 5:17 PM Jul 4
+Selected text:
+nu
+上と同じくこの nu は不要に思える。
+go'i = zu'o ... なので、
+go'i の x1 は行為となる。
+その行為によって問うわけだと思う。
+Reply•Resolve
+
+gusni kantuie
+9:11 PM Jul 7
+
+良国重城 5:16 PM Jul 4
+Selected text:
+nu
+この nu はいらないと思う。
+nei は zu'o ... の全体を指すと思うのですが、そうすると、lo nei で「... という行為」を表せる。lo nu nei とすると「何かが ... という行為であるということ」となり文全体の意味は「何かが ... という行為であるということが理解の反対である」ということになってしまうが、理解の反対であるのは行為そのものであると思われる。
+Reply•Resolve
+
+gusni kantuie
+9:11 PM Jul 7
+
+良国重城 5:20 PM Jul 4
+Selected text:
+nu
+この nu は du'u のほうが良いように思える。
+nu は出来事だけど、「何が必要であるか」は命題なので。
+Reply•Resolve
+
+gusni kantupretiのx2は質問の主題: nu
+9:11 PM Jul 7
+
+良国重城質問の主題が事実であれば nu だけど、ここでは命題なので du'u が適当なのでは?
+つまり、「昨日学校に行ったこと」についてたずねるならば nu だけど、「昨日学校に行ったかどうか」についてたずねるならば du'u だと思う。
+
+ちなみにここで「事実」と「命題」というときの「事実」は必ずしも実現しているということを示さない。
+また「命題」という言葉も真偽のみを持つものよりも広い意味で使っている。
+
+感覚としては事実のほうがより深く、命題のほうがより表面的、という感じ。
+
+たとえば lo du'u を troci することはできない。lo nu 「について」尋ねることはできるが lo nu を尋ねることはできない。
+
+lo nu 「について」考えることはできるが lo nu 「である」と考えることはできない。
+
+lo nu は「状態・動作」であり lo du'u で表される「命題」とは区別される。
+
+ma kau を含むということは、その内容は、それについて考えられたり、主張されたり、否定されたりするものであり、troci されたり、gasnu されたり、zukte されたり rinju (x3) されたりするものではなくなる。
+
+ma kau を含む文は本質的に命題になると思うのですが、いかがでしょうか。
+10:14 AM Jul 8
+
+gusni kantukau を含むnuを質問の主題とすることは可能。makauは質問の答となるものを指す。
+preti lo nu lo danlu ku nitcu ko'a
+と同じで、「動物がそれを必要とする」という事象についての質問。
+そして、この文での質問の主題は「必要とする」という事象であると見なして問題はない。
+ただ、「件の訳文は
+「必要性とは何なのかと問う」
+という表現の意味を表せていないので違和感がある」ということに気付いた。
+質問の主題を命題と見なしても、この違和感は消せない。
+なぜなら「必要性とは何なのか」という命題は質問自体を表していて、質問の主題ではないから。
+そこで、これをsedu'uで受けてpretiのx1とする。
+lo go'i cu jai ta'i preti fai lo sedu'u lo danlu noi ke'a ma'a po'u loi remna na'e ka'e jikca ku'o nitcu makau pe ma'a
+と変更。
+1:03 PM Jul 9
