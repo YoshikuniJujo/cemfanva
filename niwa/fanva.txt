@@ -1820,7 +1820,9 @@ gau frati lo se djica なら「望むようなやりかたで反応させる」�
 [guskant.2013-07-13: {se tai lo ka to'e cando cu} 「うごめく性質に似て」 > mi が「積極的」なので {.ai} でも良さそう。あるいは {temu'i mi} 「私が動機をもって」]
 [guskant.2013-07-13: {lo viska cu gau frati} > gauがあればcuは不要]
 [guskant.2013-07-13: {vesxu} > {vasxu}]
-[{ba lo fanmo lo tadni poi djica lo nu vecnu lo mi se vesxu pu so'i mei klama} 
+[guskant.2013-07-13: {ca lo nu vecnu lo melbi ninmu se vasxu kei lo nu vecnu jivna pu rarna fasnu} 
+- {pu} が nu 内に入っていてメインの selbri が無くなってしまう。 {cu pu} とする必要がある。]
+[guskant.2013-07-13: {ba lo fanmo lo tadni poi djica lo nu vecnu lo mi se vesxu pu so'i mei klama} 
 - {pu} が nu 内に入っていてメインの selbri が無くなってしまう。 {cu pu} とする必要がある。
 - 「殺到」と言っても、実際に往来していないので {klama} は不要か。近づいてくる様子を出すなら {mo'i zo'i so'i mei}]
 ---mo'u pinka---
