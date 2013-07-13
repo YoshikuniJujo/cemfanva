@@ -1,79 +1,75 @@
-30 [重城]
-国会議事堂前で警察官をだっこする
-2012, パフォーマンスのヴィデオドキュメント(7min08sec)
-国会議事堂周辺を警備にあたる警察官に対して、だっこをさせてくれないかと申
-し出る。通常、国民を守る立場である警察官を国民がだっこするという逆転の状況
-を設定することで、そもそも警察官は何から何を守っているのかという国家シス
-テムと個人の関係について考える。現実的には交渉はすべて失敗に終わることに
-なるが、その受け答えの行間から、我々は何を恐れ、何を予知・想定しているのかと
-いう疑問を取り出すことができる。また、この作品では字幕と実際の会話との整合
-性への興味から、意図的に実際の会話とは明らかに食い違う字幕を記載すること
-で、現実の会話シナリオを崩壊させている。ドキュメンタリーに敢えてフィクショ
-ンを加え、実際に起こったことと起こらなかったことを混同させることで、警察官
-の受け答えている内容が観客の望む内容に沿っているかもしれないという疑問
-を浮き彫りにする。
- ni'o cire mo'o
-lu ca'u lo gugde jdijmaji dinju fe lo pulji cu xedra'ejai[j] li'u
-de'i li renopare fi'o vreji lo zukte skina pe lo mentu be li ze pi'e
-nobi
-.i fe lo poi bandu tu'a lo vanbi pe lo gugde jdijmaji dinju ku'o
-pulji lo nu xedra'ejai lo se no'a[k] cu milxe minde .i se pi'o lo nu
-lo nu fe lo noi .ei va'o lo fadni cu bandu lo selgu'e ku'o pulji fa
-lo selgu'e cu xedra'ejai kei ranxi bo tcini cu se jarco cu pensi lo
-du'u sei xruti pensi se'u[l] lo pulji cu bandu ma kau ma kau kei
-ckini be lo gug[m]de ciste bei lo sivni prenu .i ge da'i nai ro lo nu
-cpedu cu se jalge lo nu fliba gi ku'i fi lo na'e selsku[n] pe lo
-la'edi'u nuncasnu ka'e cpacu fe lo du'u ma'a ge makau terpa gi makau
-balvi djuno gi'e va'i sruma kei preti .i ji'a ri'a lo nu lo du'u xu
-kau lo selsku seltcidu[o] cu mapti lo da'i nai nuncasnu cu cinri ku
-se pi'o lo nu te zu'e[p] finti lo tolmapti li'a be lo da'i nai
-nuncasnu be'o selsku bo seltcidu cu daspo lo da'i nai nuncasnu
-selci'e .i se pi'o lo nu ge lo fatci lisri fi'o se ranxi[q] ku lo
-cfika cu gau mizre gi tcica lo nu jinvi lo nu lo da'i nai pu fasnu cu
-dunli lo na pu fasnu cu jarco lo preti be lo du'u xu kau lo smuni poi
-lo pulji cu spuda cu mapti lo smuni poi lo tersku cu djica
+6 215文字/75words [重城]
+1元であなたの息を買い取ります、誰かの息も1元[cm]で売ります
+2008 パフォーマンス
+中国の成都市[cn]にて、観客に一元であなたの息を買い取ると宣言し、息をビニル
+袋にパックしてもらう[co]。また、その息も誰か欲しい人に一元で売る。同額で売買
+する為に、利益が出ないことは明白であって、ぼくは純粋にやりとりの媒体として
+の役割を演じて、積極的に[cp]観客を誘導する[cq]ことを模索する。いわば自然発
+生的に[cr]出来事を起こす為のパフォーマンス。かわいい女の子の息を売る時に
+は、自然とオークションまで生まれた。終了後、ぼくの息を購入したい学生が殺到し
+た。
+ ni'o xa mo'o
+lu .i .ai vecnu lo do se vasxu mi pa lo jungo rupnu .i ji'a .ai mi
+vecnu lo da se vasxu fo pa lo jungo rupnu li'u
+de'i li renonobi se tai lo se zukte
+bu'u lo jungo .tcend. tcadu ge fi lo viska cu gubni cusku lo nu .ai
+vecnu lo ri se vasxu mi pa lo jungo rupnu gi lo se vasxu lo slasi
+dakli cu gau nenri se va'u mi .i ji'a fe lo bi'u nai se vasxu lo
+djica pa lo jungo rupnu cu vecnu .i ge li'a ni'i lo nu mi fo da vecnu
+gi'e te vecnu[cs] ku no da prali gi ge po'o mi jbini loi canja gi'e
+gasnu lo nu canja gi se tai lo ka to'e cando cu troci lo nu lo viska
+cu gau frati lo se djica .i la'e dei nu zukte fi lo nu se tai lo
+rarna cu gasnu lo fasnu .i ca lo nu vecnu lo melbi ninmu se vasxu kei
+lo nu vecnu jivna pu rarna fasnu .i ba lo fanmo lo tadni poi djica lo
+nu vecnu lo mi se vesxu pu so'i mei klama
 
 ---co'a pinka---
-[j]良国重城:
-だっこ: xedra'ejai
-xendo ralte jgari (優しく支えてつかむ(抱く))
-jgari だけだと抱擁の意味での抱くの意味も含むので、持ち上げているというこ
-とを含意させるために ralte をつけた。
-正確には xendo ke ralte jgari だが、意味的に大きな差は出ないように思い
-ke は省略した。
-[k]良国重城:
-no'a によって外側の bridi を参照し、それの x2 である「...する警察官」を
-lo se no'a によって取り出した
-[l]良国重城:
-そもそも: sei xruti pensi se'u
-「もどって考えるわけだが」といったニュアンスを表してみた。
-se'u を入れたのは提案されている新文法でも動くようにとの配慮から。
-[m]良国重城:
-国家システム: gugyci'e
-gugde ciste から。
+[cm]良国重城:
+一元: pa lo jungo rupnu
+「(お金の)一中国単位」といった感じ
+[cn]良国重城:
+中国の成都市: lo jungo .tcend. tcadu
+[co]良国重城:
+se va'u mi (利益者を私として)
+と訳した。
+しかし、これだと「してくれる」との訳し分けができない。
+使役の意味をいれたほうが良いか。
 
 
-=> gugde ciste: tanru を使うことにした
+=> .i'o を使ってみた。
+ただ、.i'o のニュアンスがまだつかみきれてはいない。
+.i'o nai がねたみの意味であることから、ねたみの逆の意味ということになる
+のだろうか。
 
 
-個人: sivni prenu
-[n]良国重城:
-行間: lo na'e selsku (言われる以外のもの)
-[o]良国重城:
-字幕: lo selsku seltcidu
-言われたことに関する書かれたもの
-[p]良国重城:
-意図的に broda する: cu te zu'e broda, te zu'e ku broda
-zo'e を目的として broda する
-[q]良国重城:
-敢えて: fi'o se ranxi (何らかの予想に反して)
-この場合、「字際の会話と字幕とは一致させようとするだろうという予想に反す
-る形で」といったニュアンス
+=> .i'o の意味がつかみかねるので、よりわかりやすい se va'u mi にもどす。
+________________
+gusni kantu:
+gau nenri muvdu se va'u mi > muvduは不要? gau nenri [.i'o]
+気体の移動を強調したい場合は
+lo viska mo'i ne'i lo slasi dakli gau vasxu [.i'o]
+________________
+良国重城:
+ki'e
+確かに、そうですね。
+直しておきます。
+[cp]良国重城:
+積極的に: se tai lo ka to'e cando
+(動く物の持つ性質のような形で)
 
-[guskant.2013-07-13: lo zukte skina pe lo mentu be li ze pi'e nobi > lo tigni skina noi mentu li ze pi'e nobi に変更する方針？]
-[guskant.2013-07-13: {ji'a ri'a lo nu lo du'u xu kau lo selsku seltcidu cu mapti lo da'i nai nuncasnu cu cinri ku se pi'o lo nu te zu'e finti lo tolmapti li'a be lo da'i nai nuncasnu be'o selsku bo seltcidu cu daspo lo da'i nai nuncasnu selci'e} 
-- {ri'a} より {mu'i} : 「興味から」は物理的な因果関係ではなく、話し手の動機
-- {lo da'i nai nuncasnu} （2箇所） より {lo da'i nai jai secu'u casnu} : 「実際の会話」は事象ではなくて、会話で言われた文。その前の {lo la'edi'u nuncasnu} と最後の {lo da'i nai nuncasnu selci'e} はそのままでも可。]
-[guskant.2013-07-13: {mizre} > {mixre}]
-[guskant.2013-07-13: {tcica lo nu jinvi lo nu lo da'i nai pu fasnu cu dunli lo na pu fasnu} : 「混同させる」は「同一と考えるという事象を欺く」のではなく {gau to'e sanji lo nu A B frica} など。> {gau to'e sanji lo nu lo da'i nai pu fasnu lo na pu fasnu cu frica}]
----mo'u pinka---
+
+これはもっといい言い方がないかな?
+[cq]良国重城:
+観客を誘導する: lo viska cu gau frati (見る人に反応させる)
+
+
+「誘導」の持つ方向性のようなものを表現しきれてない気もする。
+gau frati lo se djica なら「望むようなやりかたで反応させる」みたいにな
+るか。
+[cr]良国重城:
+自然発生的に: se tai lo rarna
+(自然という形で)
+[cs]良国重城:
+同額で売買する: mi fo da vecnu gi'e te vecnu
+私が da という値段で売りかつ買う
+---ca'o pinka---
