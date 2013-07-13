@@ -632,10 +632,11 @@ gugykruca jikca dincmu
 いることを示唆する。
 ni'o revo mo'o
 lu zo demonen navni tubnu li'u
+
 [guskant.2013-07-11: タイトルにlo を入れないと、zo demonen をx1 とする
 bridiになってしまう
-lu lo zo demonen navni tubnu li'u
-]
+lu lo zo demonen navni tubnu li'u]
+
 de'i li renopare fi'o vreji lo navni tubnu poi vi'a miltre li vonono
 fa'u li munono
 .i cpedu lo nu zbasu lo navni tubnu poi se tarmi lu'e la demonen lu'u
@@ -646,8 +647,11 @@ fo'e
 .i ku'i ta'i lo nu zbasu lo navni tubnu poi lakne fa lo nu se smuni
 fo'a .e fo'e stidi lo nu lacri fa lo smuni nunjdice fe lo prenu menli
 tcini
+
 23 309words 36種類の言語に翻訳した作品集を出版する [萩原]
+
 2012 プロジェクト
+
 2004年からのすべての作品プロジェクトを36種類の言語に翻訳した作品集を発
 行する。本来、言語は特定の地域間で意思疎通を図る為の道具として発明されたが、
 グローバリズムが加速する現代社会では、多くの先進国で外国語であるはずの英
@@ -658,6 +662,7 @@ tcini
 される世界が広がっていることを証明することは、きっと私たちの抱える空想的
 なアイデンティティーに対する回答になりえる。
 協力: mirror publishing
+
 ni'o reci mo'o
 lu ckupra lo lardai liste poi(1) xe fanva fi lo cixa bangu li'u
 (2)
@@ -675,6 +680,15 @@ fi lo du'e bangu be bu'u lo terdi
 poi lo pa tcidu cu nitcu cu ca preja kei se danfu .ia le xanri sevzi
 poi ma'a ponse
 .i se sarji zoi gy. mirror publishing gy.
+
+[ap]Masato Hagiwara:
+		先進国 (purci farvi gugde)
+		cf. 発展途上国 cabyfarvi gugde
+	Masato Hagiwara:
+		先進国 favli'egu'e 発展途上国 nalfavli'egu'e
+[aq]Masato Hagiwara:
+		グローバリズムの覇権主義
+
 *1: poi か noi か:
 考えれば考えるほどわからなくなるところだ。ただ、「作品集を出版する」とだけ
 言った場合に、すでにひとつのものにしぼりこまれていると考えれば noi だと
@@ -685,12 +699,14 @@ no da zvati と答えると思う。それに対して、ko catlu lo nanmu noi x
 36 の言語に訳されていなかった場合に、素直な反応は、「そんなものはない」で
 はなく「この作品は 36 の言語に訳されてないよ」だと思うので、noi のほうが
 良さげだ。
+
 *2: 「2102 プロジェクト」が訳出されてない?:
 nalteo さんのところで、「プロジェクトの ...」において finpla を seltau
 とした tanru を使っていた。「プロジェクト」ってのはここで使われてる使い
 かたでは何になるのだろうか。計画されて実行される物と考えると te platu な
 のだろうか。finti をつける必要はあるだろうか。
 とりあえず、僕としては de'i renopare se tai lo te platu を提案。
+
 *3: la renonovonanc.: こうするしかないんですよね。
 何年にっていう表現が cmene でしかできないことに、ややわりきれないものを
 感じます。まあ、2004年ってのは「年」につけた名前でしかないと言われれば、そん
