@@ -1796,6 +1796,61 @@ cu gau frati lo se djica .i la'e dei nu zukte fi lo nu se tai lo
 rarna cu gasnu lo fasnu .i ca lo nu vecnu lo melbi ninmu se vasxu kei
 lo nu vecnu jivna pu rarna fasnu .i ba lo fanmo lo tadni poi djica lo
 nu vecnu lo mi se vesxu pu so'i mei klama
+
+---co'a pinka---
+[cm]良国重城:
+一元: pa lo jungo rupnu
+「(お金の)一中国単位」といった感じ
+[cn]良国重城:
+中国の成都市: lo jungo .tcend. tcadu
+[co]良国重城:
+se va'u mi (利益者を私として)
+と訳した。
+しかし、これだと「してくれる」との訳し分けができない。
+使役の意味をいれたほうが良いか。
+
+
+=> .i'o を使ってみた。
+ただ、.i'o のニュアンスがまだつかみきれてはいない。
+.i'o nai がねたみの意味であることから、ねたみの逆の意味ということになる
+のだろうか。
+
+
+=> .i'o の意味がつかみかねるので、よりわかりやすい se va'u mi にもどす。
+________________
+gusni kantu:
+gau nenri muvdu se va'u mi > muvduは不要? gau nenri [.i'o]
+気体の移動を強調したい場合は
+lo viska mo'i ne'i lo slasi dakli gau vasxu [.i'o]
+________________
+良国重城:
+ki'e
+確かに、そうですね。
+直しておきます。
+[cp]良国重城:
+積極的に: se tai lo ka to'e cando
+(動く物の持つ性質のような形で)
+
+
+これはもっといい言い方がないかな?
+[cq]良国重城:
+観客を誘導する: lo viska cu gau frati (見る人に反応させる)
+
+
+「誘導」の持つ方向性のようなものを表現しきれてない気もする。
+gau frati lo se djica なら「望むようなやりかたで反応させる」みたいにな
+るか。
+[cr]良国重城:
+自然発生的に: se tai lo rarna
+(自然という形で)
+[cs]良国重城:
+同額で売買する: mi fo da vecnu gi'e te vecnu
+私が da という値段で売りかつ買う
+---ca'o pinka---
+
+
+
+
 5 247文字/96words [重城]
 野菜との思い出
 2008 パフォーマンス ヴィデオ14'00min
@@ -1821,6 +1876,123 @@ se krasi lo nu troci co djuno[da] lo du'u fi lo nu pa po'o roi penmi
 ku fe ma kau no'u lo te ckini cu ka'e zbasu .i ge lo stagi poi frili
 cpacu ba'e na rirci gi ku'i pu jarco lo du'u lo nu co'a mutce
 vreji[db] lo se morji lo fadni zasti cu cumki
+
+---co'a pinka---
+[ct]良国重城:
+中国の上海: lo jungo .canxain. tcadu
+[cu]良国重城:
+ニンジン: najgenja
+narju + genja (オレンジ色の根)
+[cv]良国重城:
+ブロッコリー: brukobli
+burcu + kobli (ブラシ的な葉菜)
+bruko'i でもいいけど、brukobli だとブロッコリーと音が似てて面白い
+[cw]良国重城:
+タマネギ: bolsluni
+bolci + sluni (球体のネギ)
+[cx]良国重城:
+lo viska だけでも一人一人の意味はある。つまり loi ではなく lo を使ってい
+る時点で個々にという意味となる。しかし、「一人一人」というのをより強調して
+訳したい。そこで群を作ってそれを個にもどしてみた。lu'a loi viska と。
+
+
+=> より普通の表現として、 ro lo viska とする。
+________________
+gusni kantu:
+観客の群れから抽出した個が「一人一人」の意味になるかどうか、わからない
+
+
+たぶん ro lo viska と言うとロジバンらしい表現になる
+(ほかの人とも要相談)
+________________
+良国重城:
+観客全員とはかぎらないので、ro は使いにくい気がする。
+
+
+「一人一人」という言葉は副詞的で、それが無かった場合も意味が変わらないと
+思う。つまり、冗長な表現。
+それを表してみた。
+
+
+lojban の lo broda が複数の broda を表す場合、すでに「それぞれに」という
+意味が含まれているというところを出発点とした。
+________________
+良国重城:
+より、意味に厳密に考えてみると、「観客一人一人」という意味は、lojban で言う
+ところの lo viska に2人以上という意味を足したものと言える。
+ので su'o re lo viska が意味的には正確と思われる。
+
+
+ただし、「一人一人」を強調として取ると「それぞれ別々に」と解釈して、se
+tai lo ka tolxre とか、かな。これはあまり自信がないな。se tai の意味が今いち
+つかみきれていないのと、「別々に」は「混合物の反対のものが持つ性質」なの
+かどうかよくわからない。
+
+
+あるいは、se tai to'e gunma とか。se tai na'e gunma のほうがいいか。
+
+
+しかし、ここでは si'u が se tai na'e gunma なので、
+fi'o sidju be se tai na'e gunma lo viska cu terxra fi lo morji kacma
+pixra となる。
+すこし長過ぎる気もする。
+
+
+「冗長表現」として解釈するか、「正確さ」を取るか、「強調」として解釈するか。
+
+________________
+良国重城:
+ro lo viska が新しい解釈でどういう意味になるのかを考えた。
+たとえば、re lo ci viska は3人の観客のうちの2人という意味だが、新解釈にお
+いては観客は3人だけという意味にはならない、ということだと思う。
+つまり、たくさんいる観客のうちの3人を抽出して、さらにそのうちの2人というこ
+とだ。
+
+
+とすると、ro lo viska は、
+たくさんいる観客のうちの何人かを取り出して、そのうちの全員という意味で、問
+題なく使えるように思う。
+
+
+ただ、英語の each にあるような「全て」の意味は日本語の「一人一人」には無
+いので、すこしひっかかるところがある。
+[cy]良国重城:
+gusyvelvei: lujvo フィルム
+gusni + ve vreji より、光の記録媒体という意味合いで
+[cz]良国重城:
+braxra: lujvo ポスター
+「大きい絵」より
+[da]良国重城:
+模索する: troci co djuno ...
+[db]良国重城:
+lojban では状態と動作の境界が曖昧なところがある。つまり mi te preti で「
+私は質問する」の意味と「何かが私の質問である」の意味とを表せる。とすると、
+vreji は「何かが記録である」の意味と「何かが記録される」の意味との両方
+を表せると考えて良いと思われる。動作であることを明示するために gau を付
+けた。
+
+
+=> gau は消去
+=> co'a によって、記録されていない状態から記録されている状態への変化を表
+現
+________________
+gusni kantu:
+gauは動作主を想定している
+
+
+状態か瞬間的かという区別ならZAhO類でできる
+co'a condi vreji
+________________
+良国重城:
+たしかに、この場合、動作主というものは想定されないので、すくなくとも gau は
+消去したほうが良さげですね。
+________________
+良国重城:
+記録が「深い」というのはある種の文化的な比喩のように感じられたのでより
+中立的な mutce を使ってみた。
+---ca'o pinka---
+
+
 
 
 4 148文字/73words [Limna]
@@ -1914,6 +2086,48 @@ danfu lo vo'a preti noi se du'u lo betri be ma'a cu me jy. mo kau .i
 [dj]se pa'a lo nu na ka'e tavla gi'e se tavla vau lo jipci kei lo
 du'u .ei lo ma'a ka cusku simxu[dk] pe lo cecmu be lo prenu cu mo kau
 cu rapli preti
+
+---co'a pinka---
+[dd]良国重城:
+どういう意味かよくわからない。何かのもじりなのか。
+とりあえず「ヤンキー」の部分は固有名詞として訳しておくことにする。
+________________
+良国重城:
+「ヤンキー」は「不良」という意味とのことなので、そのように訳そう
+________________
+良国重城:
+英語版の辞書で outlaw は flanaltinbe なので、とりあえずそれを使うおうか
+と思う。
+[de]良国重城:
+パフォーマンス: lo se zukte
+としようかな
+
+
+fi'o vreji lo se zukte
+行為を記録とする、ということ。
+________________
+良国重城:
+それよりも、se tai lo se zukte のほうがいいか。
+「行為という形で」
+[df]良国重城:
+黒板: rokpisterci'a
+[dg]良国重城:
+チョーク: rokpinsi
+[dh]良国重城:
+新聞: djekarni
+[di]良国重城:
+台風被害: lo .taifun. vilti'a tolprali
+[dj]良国重城:
+zenba の意味
+[dk]良国重城:
+「コミュニケーション」を lo ka cusku simxu (伝達しあう集合の持つ性質
+)と訳した
+________________
+良国重城:
+lo ka jikca simxu (交際しあう集合の持つ性質) のほうが良いだろうか。
+---ca'o pinka---
+
+
 
 
 1 213文字/94words [Limna]
