@@ -1,153 +1,77 @@
-5 247文字/96words [重城]
-野菜との思い出
-2008 パフォーマンス ヴィデオ14'00min
-中国の上海[ct]にて、ニンジン[cu]やブロッコリー[cv]、タマネギ[cw]などの現地
-で簡単に購入できる野菜をもち、観客一人一人[cx]に協力してもらい記念写真を
-撮っていく。後日、帰国してから、撮影した36枚撮りのフィルムを現像した。こうして
-できあがった36枚の写真からポスターを作成し、参加してもらった人々へ国際郵
-便を使って送り返す。一度きりの出会いの中から、どのような関係を生んでいける
-のかを模索することから始まった。簡単に手に入る野菜は珍しくもなんともない
-が、どこにでもある物が思い出として深く刻み込まれる可能性を示唆した。
-ni'o mu mo'o
-lu lo se morji be fi lo nu kansa lo stagi li'u
-de'i li renonobi fi'o vreji lo zukte skina pe lo mentu be li pavo
-pi'e nono
-.i bu'u lo jungo .canxain. tcadu ge jgari lo najgenja .a lo brukobli
-.a lo bolsluni mu'a no'u lo stagi poi bu'u lo se klama ku frili cpacu
-gi si'u ro lo viska cu terxra fi lo morji kacma pixra .i ba ku ba lo
-nu xruti fi lo gugde .i ba ku ba lo nu xruti fi lo gugde pu zbasu lo
-pixra lo cixa mei gusyvelvei[cy] .i ge fi lo poi pu'e la'e di'u jai
-mulno cixa pixra fe lo braxra[cz] cu zbasu gi fi lo su'o re prenu poi
-cmima zukte se pi'o lo gugykruca xe mrilu cu xruti benji .i la'e dei
-se krasi lo nu troci co djuno[da] lo du'u fi lo nu pa po'o roi penmi
-ku fe ma kau no'u lo te ckini cu ka'e zbasu .i ge lo stagi poi frili
-cpacu ba'e na rirci gi ku'i pu jarco lo du'u lo nu co'a mutce
-vreji[db] lo se morji lo fadni zasti cu cumki
+2 232文字/102words [重城]
+ヤンキー養鶏場[dd]
+2005 パフォーマンス[de]
+日本で鳥インフルエンザ流行した2006年6月から12月までの期間、自宅の近所に
+いる鶏に、黒板[df]とチョーク[dg]を持って会いに行き、彼らに何を話すことがで
+きるのか実験する。新聞を読みきかせたり、世界中で起きるニュースについて彼ら
+に説いたりした。ときにはイラク戦争、アメリカ大統領選、台風被害など。ぼくたちの
+悲劇は彼らにとって何なのかと独り相撲のように自問自答する。鶏との対話が不
+可能であればあるほど、人間社会の私たちのコミュニケーションの在り方が問い
+なおされているようである。
+ni'o re mo'o
+lu lo flanaltinbe jipci molki li'u
+de'i renonomu se tai lo se zukte
+.i ge ca lo nu la cipni .influenz. cu preja lo ponjo kei temci be lo
+se detri be li renonoxa pi'e xa bei lo se detri be li pi'e pare ge fe
+lo jipci poi zvati lo jibni be lo mi zdani ku'o goi jy. fi'o kansa lo
+rokpisterci'a jo'u lo rokpinsi cu klama penmi gi gau cipra lo du'u
+cusku ma jy. .i cusku co tcidu lo djekarni[dh] gi'e ciksi lo nuzba be
+lo fasnu be fi'o se preja lo munje .i se mupli lo rakso jamna .e lo
+merko jatna cuxna .e lo .taifun. vilti'a tolprali[di] (lu'i ny.) .i
+danfu lo vo'a preti noi se du'u lo betri be ma'a cu me jy. mo kau .i
+[dj]se pa'a lo nu na ka'e tavla gi'e se tavla vau lo jipci kei lo
+du'u .ei lo ma'a ka cusku simxu[dk] pe lo cecmu be lo prenu cu mo kau
+cu rapli preti
 
 ---co'a pinka---
-[ct]良国重城:
-中国の上海: lo jungo .canxain. tcadu
-[cu]良国重城:
-ニンジン: najgenja
-narju + genja (オレンジ色の根)
-[cv]良国重城:
-ブロッコリー: brukobli
-burcu + kobli (ブラシ的な葉菜)
-bruko'i でもいいけど、brukobli だとブロッコリーと音が似てて面白い
-[cw]良国重城:
-タマネギ: bolsluni
-bolci + sluni (球体のネギ)
-[cx]良国重城:
-lo viska だけでも一人一人の意味はある。つまり loi ではなく lo を使ってい
-る時点で個々にという意味となる。しかし、「一人一人」というのをより強調して
-訳したい。そこで群を作ってそれを個にもどしてみた。lu'a loi viska と。
-
-
-=> より普通の表現として、 ro lo viska とする。
-________________
-gusni kantu:
-観客の群れから抽出した個が「一人一人」の意味になるかどうか、わからない
-
-
-たぶん ro lo viska と言うとロジバンらしい表現になる
-(ほかの人とも要相談)
+[dd]良国重城:
+どういう意味かよくわからない。何かのもじりなのか。
+とりあえず「ヤンキー」の部分は固有名詞として訳しておくことにする。
 ________________
 良国重城:
-観客全員とはかぎらないので、ro は使いにくい気がする。
-
-
-「一人一人」という言葉は副詞的で、それが無かった場合も意味が変わらないと
-思う。つまり、冗長な表現。
-それを表してみた。
-
-
-lojban の lo broda が複数の broda を表す場合、すでに「それぞれに」という
-意味が含まれているというところを出発点とした。
+「ヤンキー」は「不良」という意味とのことなので、そのように訳そう
 ________________
 良国重城:
-より、意味に厳密に考えてみると、「観客一人一人」という意味は、lojban で言う
-ところの lo viska に2人以上という意味を足したものと言える。
-ので su'o re lo viska が意味的には正確と思われる。
+英語版の辞書で outlaw は flanaltinbe なので、とりあえずそれを使うおうか
+と思う。
+[de]良国重城:
+パフォーマンス: lo se zukte
+としようかな
 
 
-ただし、「一人一人」を強調として取ると「それぞれ別々に」と解釈して、se
-tai lo ka tolxre とか、かな。これはあまり自信がないな。se tai の意味が今いち
-つかみきれていないのと、「別々に」は「混合物の反対のものが持つ性質」なの
-かどうかよくわからない。
-
-
-あるいは、se tai to'e gunma とか。se tai na'e gunma のほうがいいか。
-
-
-しかし、ここでは si'u が se tai na'e gunma なので、
-fi'o sidju be se tai na'e gunma lo viska cu terxra fi lo morji kacma
-pixra となる。
-すこし長過ぎる気もする。
-
-
-「冗長表現」として解釈するか、「正確さ」を取るか、「強調」として解釈するか。
-
+fi'o vreji lo se zukte
+行為を記録とする、ということ。
 ________________
 良国重城:
-ro lo viska が新しい解釈でどういう意味になるのかを考えた。
-たとえば、re lo ci viska は3人の観客のうちの2人という意味だが、新解釈にお
-いては観客は3人だけという意味にはならない、ということだと思う。
-つまり、たくさんいる観客のうちの3人を抽出して、さらにそのうちの2人というこ
-とだ。
-
-
-とすると、ro lo viska は、
-たくさんいる観客のうちの何人かを取り出して、そのうちの全員という意味で、問
-題なく使えるように思う。
-
-
-ただ、英語の each にあるような「全て」の意味は日本語の「一人一人」には無
-いので、すこしひっかかるところがある。
-[cy]良国重城:
-gusyvelvei: lujvo フィルム
-gusni + ve vreji より、光の記録媒体という意味合いで
-[cz]良国重城:
-braxra: lujvo ポスター
-「大きい絵」より
-[da]良国重城:
-模索する: troci co djuno ...
-[db]良国重城:
-lojban では状態と動作の境界が曖昧なところがある。つまり mi te preti で「
-私は質問する」の意味と「何かが私の質問である」の意味とを表せる。とすると、
-vreji は「何かが記録である」の意味と「何かが記録される」の意味との両方
-を表せると考えて良いと思われる。動作であることを明示するために gau を付
-けた。
-
-
-=> gau は消去
-=> co'a によって、記録されていない状態から記録されている状態への変化を表
-現
-________________
-gusni kantu:
-gauは動作主を想定している
-
-
-状態か瞬間的かという区別ならZAhO類でできる
-co'a condi vreji
+それよりも、se tai lo se zukte のほうがいいか。
+「行為という形で」
+[df]良国重城:
+黒板: rokpisterci'a
+[dg]良国重城:
+チョーク: rokpinsi
+[dh]良国重城:
+新聞: djekarni
+[di]良国重城:
+台風被害: lo .taifun. vilti'a tolprali
+[dj]良国重城:
+zenba の意味
+[dk]良国重城:
+「コミュニケーション」を lo ka cusku simxu (伝達しあう集合の持つ性質
+)と訳した
 ________________
 良国重城:
-たしかに、この場合、動作主というものは想定されないので、すくなくとも gau は
-消去したほうが良さげですね。
-________________
-良国重城:
-記録が「深い」というのはある種の文化的な比喩のように感じられたのでより
-中立的な mutce を使ってみた。
+lo ka jikca simxu (交際しあう集合の持つ性質) のほうが良いだろうか。
 
-[guskant.2013-07-13: {lo zukte skina pe lo mentu be li pavo pi'e nono} > {lo tigni skina noi mentu li pavo pi'e nono} とする方針]
-[guskant.2013-07-13: {frili cpacu} > これでも良いが、お金を払っていることを表すなら {frili ke vecnu cpacu}]
-[guskant.2013-07-13: {morji kacma pixra} 「思い出のカメラの絵」というより {morji ke kacma pixra} か]
-[guskant.2013-07-13: {.i ba ku ba lo nu xruti fi lo gugde .i ba ku ba lo nu xruti fi lo gugde} > 消し忘れ]
-[guskant.2013-07-13: {ba lo nu xruti fi lo gugde pu zbasu} > {pu} が nu 内に入ってしまい、メインのbridiが無い。 {cu pu}とする必要がある。]
-[guskant.2013-07-13: {fi lo poi pu'e la'e di'u jai mulno cixa pixra} > ku'o忘れ？ {fi lo poi pu'e la'e di'u jai mulno ku'o cixa pixra}
-[guskant.2013-07-13: {lo su'o re prenu} > 「複数の人」というより {loi no'o prenu} 「あの人数の人の群れ」という方が、ここでの「人々」という意味に近い。多分36人前後。]
-[guskant.2013-07-13: {poi cmima zukte se pi'o lo gugykruca xe mrilu} 
-- 「国際郵便を使って参加した」になっている。 ku'o が必要。
-- {se pi'o} の代わりに {fu} でも言えそう。
- {poi cmima zukte ku'o fu lo gugykruca xe mrilu}]
-[guskant.2013-07-13: {lo fadni zasti} 「平凡な実在物」>  {lo'e zvati be roda} 「どこにでもある物」]
----mo'u pinka---
+[guskant.2013-07-14: {flanaltinbe jipci molki}
+- 鶏がヤンキーだとは言っていない。 {ke} を入れる。
+- 食肉や卵製品の生産より、鶏を育てる方がメイン。工業的な養鶏方法という皮肉を含まないなら {molki} より {cange}
+{flanaltinbe ke jipci cange}]
+[guskant.2013-07-14: {de'i renonomu se tai lo se zukte}
+- {li} 抜け
+- {zukte} を {tigni} にするかどうか]
+[guskant.2013-07-14: {.i ge ca lo nu la cipni .influenz. cu preja lo ponjo kei temci}
+- {ge} が余分にある
+- {.influenz.} は世界共通の表現ではないので {lo cipni .influenz. terbi'a} とする方が親切。]
+[guskant.2013-07-14: 
+
+---ca'o pinka---

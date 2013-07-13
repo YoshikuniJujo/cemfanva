@@ -21,10 +21,8 @@ lu za'ure'u gau draci lo ka gubni sei fe lu'e lo ve ciksi be lo larcu cixa bangu
 ni'o cici mo'o lu .i lo djacu senta xi abu cu gau muvdu lo djacu
 senta xi by li'u
 
-
 de'i li renopare lo relplita vidni ke punji larcu to ro da mentu be
 li papa pi nore ju'u xano toi
-
 
 .i lo djacu senta be fi'o se cpana lo klaji pe la tokion ce'e la
 cinjuk. cu gau muvdu la nara'amatcin. noi jdice lo du'u ke'a zasni ke
@@ -46,6 +44,110 @@ gusni jarco .i ku'i lo ta stura zo'u ri'a lo nu da'a so'u lo nenri
 pluta pe lo cpana cu ganlo kei te tai lo finti ku lo zgana cu tarmgau
 fi'o simsa lo sefta muvdu pe lo tumla[e] gi'a na ka'e zgana
 
+---co'a pinka---
+[a]良国重城:
+試訳:
+
+va'o lo nu te preti lo du'u ta'i ma kau se nabmi lo fatci pe lo na'e
+mutce darno be la tokion be'o foldi
+
+「どのようにして」を ta'i ma kau (どのような方法で、どのようなやりかたで
+) とし、
+「X が Y に向かい合う」を Y se nabmi X (X は Y の遭遇する問題である)
+とした。
+
+「どのようなやりかたで、... の現実を問題とするか」
+といった感じ。
+
+もっと意訳して「... のために何ができるか」とするとより簡単に訳せるが。
+________________
+getgot78:
+より、こなれた訳だと思ったので、ta'i ma kau se nabmiは使わせていただきます。
+なおlo nu te pretiではなくlo nu pretiでいいのでは?。teで交換されるのは
+pretiの第1 項の「質問文字列」と第三項「質問者」で第二項は「題目」のま
+まなので、不要の気がします。
+________________
+良国重城:
+.ie
+確かにそうですね。te は不要です。
+[b]良国重城:
+試訳:
+
+.i la'e dei se klasi lo se pensi be zo'e goi ko'a bei va'o lo nu te
+preti lo du'u ta'i ma kau se nabmi lo fatci pe lo na'e mutce darno be
+la tokion be'o foldi be'o no'u lo du'u xu kau ko'a noi srana .ai gi'e
+ku'i gau canci se tai lo na srana cu kakne lo nu po'o gau muvdu lo
+djacu senta be fi'o se cpana lo klaji
+________________
+良国重城:
+「自分」の訳しかたとして、lo se pensi be zo'e goi ko'a によって考えてい
+る主体を ko'a に代入し、その後の関係節 srana .ai gi'e ku'i gau canci の
+x1 としている。
+________________
+getgot78:
+lo sevziが自分の訳として適切かどうかを脇においても、zo'eをko'aに割り当て
+て「自分」とするのは、少々凝りすぎな気がします。何か特殊なことを言い表そう
+としているような感じを受けます。lo sevzi自体のことも含めて、さてどうしたも
+のか・・・。
+________________
+gusni kantu:
+「関わりを持とうとしても部外者として消去されてしまいそうになる自分には、
+路上の水たまりくらいしか移動させられないのではないか? 」という文の話し
+手を指すので、単に mi とすれば、この「自分」の指示対象を正確に表したことに
+なる。「おれ」でも「わたくし」でも mi と訳すのと同じことで、必ずしも訳し分
+ける必要はないと思う。
+________________
+良国重城:
+僕も mi でいいと思います。
+[c]良国重城:
+試訳:
+
+te tai lo finti lo zgana cu vreta se tai lo nu sefta be lo tumla be'o
+klama gi'a na ka'e zgana
+________________
+良国重城:
+「姿勢」を loj訳できなかったので、より具体的に vreta (もたれる、横たわる)
+を使った。
+[d]良国重城:
+lo sevzi は「自我」や「自己イメージ」といった意味なので、日本語の機能語
+的な「自分」や英語の oneself には使えないはず。
+この意味で使っているのは、多い気がするがこれは誤用と思う。
+
+lo sevzi cu canci と言うと、「自分を見失う」みたいな感じ。
+あるいは「本当の自分を隠す」といった感じ。
+
+ここでの表現はかなり曖昧なものがあるが、「私が無視される」といった感じな
+ので「自我」や「自己イメージ」といった感じではない。
+
+むしろ、ここで使われている「自分」は内容語というよりは、「...ということ」
+や「...というもの」のような形式的な語と思われる。
+[e]良国重城:
+これだと、「陸に関する表面的に動く物と類似したやりかたで」となる。
+だいたいいい気もするが。
+________________
+getgot78:
+この場合、一つは「陸に関して表面的に動く」が「這いつくばる」の訳でいいか
+? ということかと思います。あと、「姿勢」という言葉も定訳が特にないので
+simsaでごまかしていますが、いい訳語があれば変更するのはやぶさかではあり
+ません。たぶん、ロジバンの語彙不足を熟語的表現でしのぐか、語彙を作るかという
+ことですよね。
+________________
+gusni kantu:
+姿勢は lo se tarti あるいは lo seltra と言えます。これには体が動く場合も
+含まれますが、静止している状態であることを明示したければ lo cando
+seltra などでも良いと思います。
+案:
+fi'o seltra lo za'i pe'a cadzu lo tumla lo betfu
+「地表を腹で歩くような状態を姿勢として」
+________________
+gusni kantu:
+「鑑賞者は作家と同様地面を這いつくばるような姿勢にならないと作品が見ら
+れない構造になっている」という論理接続表現に組み込むなら、fi'oより
+selbri扱いの方が良さそうですね。
+stura tai lo za'i lo zgana ku ga tarti sei lo finti ku tamsmi lo za'i
+pe'a cadzu lo tumla lo betfu gi na'e ka'e zgana lo larcu
+---mo'u pinka---
+
 
 
 
@@ -60,10 +162,8 @@ fi'o simsa lo sefta muvdu pe lo tumla[e] gi'a na ka'e zgana
 ni'o cire mo'o lu .i lo ckiku pe lo mi zdani cu gau se fukpi gi'e
 fatri fi'o se cpana lo klaji li'u
 
-
 de'i li renopare fi'o vreji lo tigni skina noi mentu li pamu pi repa
 ju'u xano
-
 
 .i lo nu fukpi lo ckiku pe lo mi zdani cu se cpedu fi lo ckiku zarci
 ije lo fukpi fatri lo to'e djuno prenu fi'o se cpana lo klaji pe la
@@ -74,21 +174,16 @@ cu ze'e se ponse le na'e srana prenu poi mi na'e djuno li'u be'o cu
 stidi li'a le fatci na'e se cumki be lo nu kansa jorne e lo nu gunma
 ponse bei gau le na'e srana prenu be'o(12)
 
-
-
-
+---co'a pinka---
 ki'e do pinka
 *1: lo が必要。pe mi zdani -> pe lo mi zdani
  pu galfi
 
-
 *2: gau があったほうが良い気がする御検討を fukpi -> gau fukpi
  ie
 
-
 *3: typo? ge -> gi'e
  lo se srera se galfi uo
-
 
 *4: lo ckiku pe lo mi zdani cu fukpi gi'e fatri fi'o se cpana lo
 klaji
@@ -101,19 +196,15 @@ klaji としては?
 」なのか、それとも「その複製」なのかという点。日本語の文について補足するな
 ら「自宅の鍵を複製して、*その複製を*配布する」ということだと思います。
 
-
  提案ありがとうございます。ご指摘のようにPSは明らかに間違ってますが
 daに対応する日本語は補足しないでもよいかと思うので、単純にseをつけてみま
 す。
-
 
 *5: 上記「全体に関するコメント」参照
 lo zukte skina と lo tigni skina あるいは lo se tigni skina の3つが今
 のところの僕の候補。
 
-
  i'a vi'o lo tigni skina
-
 
 *6: pe lo mentu ... : 上記「全体に関するコメント:何分何秒という表現
 (2)」参照: すくなくとも pe は良くない。
@@ -123,14 +214,11 @@ mentu の x1 は「時間間隔」なのか、あるいは時間間隔によっ�
 mitre からの類推で、mentu の x1 は「物・事」と考えられる。とすると、noi
 mentu ...  としたほうが良さそう。
 
-
  制限用法でもそんなに違和感がないのですが
  コメントの熱意に押されて、noiにしました。
 
-
 どうも:-) 制限用法と非制限用法の使い分けは難しいです。確かにこの場合どち
 らもありですね。(重城)
-
 
 *7: 上記を考慮した試訳
 de'i li renopare fi'o vreji lo tigni skina noi mentu li pamu pi repa
@@ -139,7 +227,6 @@ ju'u xano
 ckiku zarci
 -> .i lo nu fukpi lo ckiku pe lo mi zdani cu se cpedu fi lo ckiku
 zarci
-
 
 まず、現在では特別な理由がなければ le nu ...  よりも lo nu ...  を選ぶべ
 きと思われる。
@@ -154,7 +241,6 @@ brode は tanru を形成してしまう。
 cpedu は僕の参照している辞書では、 x4 までしかない。また x3 が頼まれる者だ
 と思うので、fu -> fi
 
-
  ue du'e lo mi srera
 *9: le -> lo
 le nanmu だと、心のなかに先に像が形成されている感じ。例のその男といった感
@@ -164,9 +250,7 @@ le nanmu だと、心のなかに先に像が形成されている感じ。例�
 しかし、こと場合はもっとニュートラルに「見知らぬ人」と言っているので lo
 が適当かと思われる。
 
-
  i'a
-
 
 *10: ti -> lo di'u fukpi
 ti だと空間的な「これ」。こういう場合、cy. とかで前の sumti を指すことで解
@@ -177,11 +261,7 @@ ti だと空間的な「これ」。こういう場合、cy. とかで前の sum
 僕の好みは lo di'u fukpi として「前に言ったことに関連した鍵」とするも
 の。
 
-
  galfi zo'e lu lo fukpi zoi li'u
-
-
-
 
 *11: .i lo judri cu na'e te djuno .i je lo ckiku pe lo mi zdani cu
 flecu secau lo datni be lo du'u mokau bei lo ckiku bei fi'o se diklo
@@ -203,7 +283,6 @@ ckiku の2つめの bei は be の typo? いずれにしても lo du'u のなか
 また、fi'o se diklo には se di'o があるのでそっちを使うべきだが、それだけ
 でなく、tu'i (stuzi の modal) の使用も考慮してみてください。stuzi と
 zvati の関係等、なかなか難しいところがありますが。
-
 
 *12: .i lo nu zbasu lo tcini be(13) lu lo ckiku pe lo mi zdani cu
 ze'e(14) se ponse le na'e(15) srana prenu poi mi na'e(16) djuno li'u
@@ -247,11 +326,11 @@ jikca jorne (社交的につながる)はどうか。
 」という意味で良いかと思う。とすると lo drata (be mi)。異質さを言おうとす
 るならば lo frica か lo fange。
 
-
 -> .i ta'i lo nu zbasu lo tcini no'u la'e lu lo ckiku pe lo mi zdani
 cu ru'i se ponse le na srana prenu poi mi na djuno cu klina jarco lo
 fatci ka to'e cumki ku ne lo nu jikca jorne gi'e ponse co kansa vau
 lo drata
+---mo'u pinka---
 
 
 
@@ -344,9 +423,7 @@ se'u を入れたのは提案されている新文法でも動くようにとの
 国家システム: gugyci'e
 gugde ciste から。
 
-
 => gugde ciste: tanru を使うことにした
-
 
 個人: sivni prenu
 [n]良国重城:
@@ -424,7 +501,6 @@ fe'e co'u について。
 でも、そもそもの目的地は首相官邸だったので、富士山頂はとりあえずの停止点と
 考えると co'u もありかと思います。
 
-
 いずれにしても、下に出てくる za'o はいいですね。
 「za'o を使うのは、今でしょ!」
 といった感じがしますよね。
@@ -436,11 +512,9 @@ lo .fujin. cmana
 いう関係を持っている」という意味になり、「ビデオインスタレーションが何か
 (ここでは表現形式)である」という意味を表せないように思います。
 
-
 ti salcarce fi'o gerku do
 と言った場合、意味合いとしては、「これはあなたに引かせる犬ぞりだ」という感
 じになるのではないでしょうか。
-
 
 se tai lo remei se'arvidni としたほうがより標準的かと思います。
 ________________
@@ -458,10 +532,8 @@ metsnidu について。
 pi'e を pi よりも曖昧な小数点として考える、つまり、pi'e 以降の数を不特定の
 値で除するという意味にとらえると、metsnidu ではなく、mentu が使えると思う。
 
-
 もしも metsnidu を作るなら、むしろ、x2 を分、x3 を秒、として、metsnidu li pamu
 li remu とするほうが有用では?
-
 
 また「各」を訳出するなら、
 ro da mentu li pamu pi'e remu
@@ -473,7 +545,6 @@ ba'o go'i
 lo nu cirko lo pante cmima cu dunli lo nu klama kei lo ka zenba
 [ae]良国重城:
 pau nai のほうが標準的かと
-
 
 .i pau nai xu sirji linji ro fasnu po lo vi terdi
 ________________
@@ -492,7 +563,6 @@ ________________
 されているとしたら、やや文化中立性(あるいは、lojban 内での整合性)に問題が
 あるのではないかと思います。
 ただし、現在、そう定義されているのであればしかたないですが。
-
 
 単純に疑問文の形を取っているけれど、疑問ではない、という意味で定義されるべ
 きかと思います。
@@ -516,6 +586,8 @@ lo nicte stodi farna ke cmanfuji stedu cu culno lo visyvi'e を
 visyvi'e
  に変更。意味が取りにくいという指摘があった。]
 ---mo'u pinka---
+
+
 
 
 28
@@ -581,7 +653,6 @@ gubzda li'u
 に変更。fe'eco'u という元の表現に合わせて fe'eco'a lo tertrube'e gubzda
 とした。 gubzda は31との調整による。]
 
-
 *3: 上記を考慮した試訳:
 lu ja'odzu se ka'a lo cmanfuji galrai te ka'a lo tertrube'e gubzda
 li'u
@@ -614,7 +685,6 @@ rafsi + r + ...  の形で作るほうが良いかと思います。ちなみに
 dzi'azoなどにするとcamxesも通る。どちらが正しくチェックしているのか不明。
 ここでは diazonium から取った cmene にしておく(xumrdi,azoは発音しにく
 いので)。]
-
 
 *5: fa'u は mex 同士を結合するのでこの li は不要。
 li musovo fa'u bivopa
@@ -730,7 +800,7 @@ ka zei no'e
 
 [guskant.2013-07-10: miltre の前に vi'a を追加]
 [guskant.2013-07-12: fa'u li を fa'u に(28に合わせた) ]
----ca'o pinka---
+---co'u pinka---
 
 
 
@@ -752,6 +822,10 @@ de'i renopare fi'o vreji lo gungunma skina to mentu li ze pi reno toi
 fo lo se cirko
 .i zbasu lo jdini poi no ponse ta'i lo nu zasni cliva lo nunvecnu
 ciste noi mutce lo ka ciste
+
+
+
+
 25 [萩原]
 モスクワのアパートメントでウラジーミル・レーニンを捜す
 2012, 3チャンネルプロジェクトのドキュメントビデオ(各8min40sec)
@@ -788,6 +862,10 @@ Art from Japan gy. bei de'i li renopare bei bu'u le la maskyVAS.
 tcadu cabycedra larcu muzga
 .i se sarji le la maskyVAS. tcadu cabycedra larcu muzga .e le
 gugykruca jikca dincmu
+
+
+
+
 24 [萩原]
 でもねのネオンサイン
 2012, ネオンチューブ(400mm x 500mm)
@@ -812,6 +890,9 @@ fo'e
 .i ku'i ta'i lo nu zbasu lo navni tubnu poi lakne fa lo nu se smuni
 fo'a .e fo'e stidi lo nu lacri fa lo smuni nunjdice fe lo prenu menli
 tcini
+
+
+
 
 23 309words 36種類の言語に翻訳した作品集を出版する [萩原]
 
@@ -846,6 +927,7 @@ poi lo pa tcidu cu nitcu cu ca preja kei se danfu .ia le xanri sevzi
 poi ma'a ponse
 .i se sarji zoi gy. mirror publishing gy.
 
+---co'a pinka---
 [ap]Masato Hagiwara:
 		先進国 (purci farvi gugde)
 		cf. 発展途上国 cabyfarvi gugde
@@ -904,6 +986,10 @@ poi ma'a ponse
   .i ckupra lo liste be lo'i ro ve ciksi be fi lo lardai te platu poi
   gasnu ke'a ba lo se detri be li renonovo be'o poi fanva fi lo cixa bangu
   fu ke'a
+---mo'u pinka---
+
+
+
 
 22 276words モスクワのアパートメントでウラジーミル・レーニンを捜す [萩
 原]
@@ -935,6 +1021,21 @@ be loi tcadu xabju
 kulnu
 .i se sarji le la maskyVAS. tcadu cabycedra larcu muzga[at] .e le
 gugykruca jikca dincmu[au]
+
+---co'a pinka---
+[ar]Masato Hagiwara:
+「プロパガンダ」=  gubyselji'ipe'a (gubni se jinvi preja)
+[as]Masato Hagiwara:
+「バッジ」= seldasyba'a (se dasni barna)
+[at]Masato Hagiwara:
+「現代美術館」= cabycedra larcu muzga
+[au]Masato Hagiwara:
+「基金」= dincmu (jdini jicmu)
+---co'u pinka---
+
+
+
+
 21 238words イスタンブールで手持ちのお金がなくなるまで、トルコリラとユー
 ロの外貨両替を繰り返す [萩原]
 2011 パフォーマンスのヴィデオドキュメント
@@ -960,6 +1061,17 @@ ku'o tezu'e no da
 .i troci lo nu tigni lo nu prenu jikni criko bu'u le gugdrturkie noi
 te kruca lo zdotu'a lo rontu'a
 .i la'e di'u jarco lo cabna ropno xlajikni
+
+---co'a pinka---
+[av]Masato Hagiwara:
+外貨両替所 fange rupnu zarci
+[aw]Masato Hagiwara:
+観光地 misno selviska
+---co'u pinka---
+
+
+
+
 20 276文字 ベルンで熊を拍手喝采する [萩原]
 2011 プロジェクトのドキュメントヴィデオ
 多くの地域住民に協力してもらい、ベルン市で飼育されている熊に対して拍手喝
@@ -984,6 +1096,56 @@ vreji lo skina
 .i ri'a lo nu ko'a na jimpe lo bangu kei lo no nunfrati cu se cpacu
 .i lo tcini be mu'u la'e di'u cu cafne nabmi fi lo mi'o mivru'e
 .i to'i sa'a se sarji la bon. festival. bu'u le gugdrxelvo toi
+
+---co'a pinka---
+[ax]Masato Hagiwara:
+地域住民 diklo xabju
+[ay]良国重城:
+tarmi は辞書では x1 (意味・性質等)を表すのが x2(具体的なもの) となって
+いるので、この場合、x1 がベルンで x2 が熊になるような気がする。
+ので、noi se tarmi la bern. のほうが良いのかと思います。
+
+
+ただ、僕自身も tarmi の意味を十分には理解していないので、そこのところ、よろ
+しくお願いします。
+________________
+Masato Hagiwara:
+自分もどっちかよく分からなくなりました。そもそもtarmi を使うのが適切かど
+うかも。
+________________
+良国重城:
+僕のコメントはまちがっていたみたいです。
+上記は撤回します。
+noi tarmi la bern. のほうが良さそうです。
+熊という観念がベルンの形である。
+________________
+良国重城:
+tarmi の意味がすこしだけわかった気がします。
+
+
+「円 tarmi ミステリーサークル」 といった感じでしょうか。
+________________
+良国重城:
+あまりすっきりはしませんが、
+noi jai se ckaji la bern.
+
+
+la bern. cu ckaji lo nu lo cribe cu co'e
+「ベルン市は熊が何かであることに特徴づけられる」
+というところから。
+
+
+「象徴的存在」。
+たとえば、「羊がニュージーランドの象徴的存在である」ならば、co'e のところ
+に「多い」が入るといった感じ。
+
+
+まあ、妥当な訳かとは思う。
+---mo'u pinka---
+
+
+
+
 19 289文字 [萩原]
 八甲田山の頂上に海底で拾った石を積む
 2011, プロジェクトのヴィデオドキュメント(24'24min) 3000x3000mmの写真
@@ -1017,6 +1179,19 @@ mu'u lo skori karce [ba].e lo cmana dargu ku te ciksi fe lo nu ke
 rokci bevri ke'e je ke cmana galtu gasnu ke'e kei gi'e cfipu ko'a kei
 pensi lo sidbo be lo rarna bei mi
 .i se sarji le la .a,omoris. gugykruca larcu mijbriju[bb]
+
+---co'a pinka---
+[az]Masato Hagiwara:
+国立公園 gugde jitro panka
+[ba]Masato Hagiwara:
+ケーブルカー skori karce
+[bb]Masato Hagiwara:
+センター mijbriju = midju briju
+---co'u pinka---
+
+
+
+
 18 292文字 [萩原]
 釜山市で何の為でもない集合写真を撮る、そして他人の記念写真に参加する
 2011, 3x6mのビルボードに写真
@@ -1046,6 +1221,19 @@ frili jikca fasnu troci fakci lo ma'a cecmu nenri bo sidbo
 .i ma smuni zo ma'a noi slabu vlasi gi'e so'iroi se cusku ca lo nu
 ma'a crane zgana le ti munje
 .i se sarji le la busan. relna'anunjarco [bd]zu'ekamni[be]
+
+---co'a pinka---
+[bc]Masato Hagiwara:
+ビルボード notci tanbo
+[bd]Masato Hagiwara:
+ビエンナーレ relna'anunjarco (re nanca nunjarco)
+[be]Masato Hagiwara:
+実行委員会 zu'ekamni (=zukte kanmi)
+---co'u pinka---
+
+
+
+
 17 307文字 [萩原]
 ためらうネオンサイン
 2011 ネオンチューブ 250 x 450 mm
@@ -1075,6 +1263,39 @@ ta'i lo ro bangu ja xadni te mifra mu'i lo nu vimcu lo kamseicni
 .i ta'i lo nu tolse'a le valsi poi se venynoi smuni noda zi'e poi
 notci fe lo tolklina sidbo zi'e poi ckaji lo ka cmecau cu mojgau lo
 telcku lo slabu prenu nunckini poi nenri lo ti valsi
+
+---co'a pinka---
+[bf]gusni kantu:
+- 「でもね」のコメントに書いた手法と同様にcmene化すると
+
+
+lu lo zo tamera,un navni tubnu li'u
+
+
+- cmene化の理由は「でもね」のコメント群を参照
+
+
+- 訳注が必要なら sa'a を入れる
+to'i sa'a zo tamera,un no'u lo banjupunu valsi cu se smuni la'e zo
+toljdi toi
+ただし意味は本文で解説されているので不要か
+________________
+Masato Hagiwara:
+含みをもたせるために cmene 化して訳注を入れない形にしようかと思います。
+________________
+Masato Hagiwara:
+ちなみに zo + cmene をこのようにselbri化して使えるのは知りませんでした
+が、どこかに解説があったりしますか?
+________________
+gusni kantu:
+selbri化ではなくて、
+lo pe zo tamera,un navni tubnu
+のpeの省略形です。(CLL8.7)
+---co'u pinka---
+
+
+
+
 16 240文字/88words [萩原]
 自分の所有物を街で購入する
 2011 パフォーマンスのドキュメントビデオ(3チャンネル)
@@ -1099,6 +1320,15 @@ bixygau fi lo selve'u ca'u lo prenu gi'e mulno fa lo jdini nunpleji
 .i jarco le cizra stura bo kevna poi noroi cumki ne'i lo fadni jikni
 nungasnu zi'e poi ku'i roda kakne tu'a ke'a nagi'a djica
 .i .uanai ma'a terve'u ma gi'e cpacu ma
+
+---co'a pinka---
+[bg]Masato Hagiwara:
+週刊誌 jetnu plekarni
+---co'u pinka---
+
+
+
+
 15 228文字/68words [萩原]
 デモ行進を逆走する
 2011 パフォーマンスのドキュメントビデオ(10'01 min), ビデオ画像を印刷し
@@ -1127,6 +1357,19 @@ gunma fasnu lo se cuntu sevzi klani(22)
 .i se finti ji'u lo sidbo noi du'u lo nu cadzu(23) sefa'e lo
 nunja'odzu poi jarco lo pa jecta notci kei ji'a cu(24) drata
 nunja'odzu
+
+---co'a pinka---
+[bh]Masato Hagiwara:
+どう訳す?
+________________
+gusni kantu:
+ru'i po'o ku fi'o pamei [vo'a/ku]
+[fatne farna cadzu/fa'a lo fatne cu cadzu] ?
+[bi]Masato Hagiwara:
+デモ(行進)  nunja'odzu (nu jarco cadzu)
+[bj]Masato Hagiwara:
+原発 = ratdicfanri (ratni dikca fanri)
+
 *1, 2: ダブっている。訳の候補の消し忘れ? 1 の vi'a miltre ...  fa'u ...
  のほうが良さそう(全体への提案にも書くべきか)
 *3: poi vreji prina の vreji は必要? ここらへんは好みの問題なので、訳者
@@ -1290,6 +1533,8 @@ ka'eがあればcuは不要
 jecta notci kei ji'asai ka'e drata nunja'odzu
 ]
 (15のコメント終了)
+---mo'u pinka---
+
 
 
 
@@ -1323,6 +1568,27 @@ bevri renro se salci ku tolse'a lo se cinmo be fi lo tolmo'i bo
 tolcu'i purci jikca siste .e lo zasti se cusku be fa lo diko xabju
 bei fi lo truni
 .i se sarji zoi gy. Pavilion Unicredit, Romania gy.
+
+---co'a pinka---
+[bk]Masato Hagiwara:
+胴上げ bevri renro salci
+[bl]Masato Hagiwara:
+「革命」をjikca binxo と訳したが、何か違う気がする。jikca は「社交的」であ
+って「社会」とは少し違う?
+________________
+gusni kantu:
+革命 ciste nu binxo > ci'ernunbi'o
+$x_1$ nu $x_2$ noi ke'a ciste ku'o binxo $x_3$ noi ke'a ciste ku'o
+$x_4$
+$x_1=n_1$ はシステム $x_2=b_1=c_1$ がシステム $x_3=b_2=c_1$ になる、条件
+$x_3=b_3$の下における革命
+$x_1=n_1$ is a revolution that a system $x_2=b_1=c_1$ becomes
+$x_3=b_2=c_1$ under conditions $x_3=b_3$.
+---co'u pinka---
+
+
+
+
 13 190文字 [萩原]
 許すネオンサイン
 2010 ネオンチューブ 400 x 600 mm
@@ -1481,7 +1747,7 @@ taksido
 speni zei binxo zei nupre
 [bq]nalteon:
 実際か噂か
----ca'o pinka---
+---co'u pinka---
 
 
 
@@ -1513,7 +1779,7 @@ gi ro se pixra ta'i tu'a vo'a sisku lo terzu'e
 ---co'a pinka---
 [br]nalteon:
 misno zei seljvinu
----ca'o pinka---
+---co'u pinka---
 
 
 
@@ -1552,7 +1818,6 @@ ________________
 cidjrspageti 等からの類推で考えると、[rafsi] + r + X の組み合わせは、
 rafsi 部分の x1 を X がしぼりこむという構造だと思う。
 
-
 とすると、もしもこの形を作うならば、sergusni (照明されるもの) を
 pikapikapika でしぼりこむという形で、sergusrpikapikapika とし、さらに gau
 をつけて、
@@ -1563,7 +1828,6 @@ gusni kantu:
 何をするかは本文で説明しているので、題名はそのままで良さそう。
 [bt]良国重城:
 英語版の辞書だと balcu'e = banli zei ckule
-
 
 意味的にも空間的な「大」よりももっと抽象的な「大」なので banli のほう
 が良さそう。
@@ -1615,13 +1879,11 @@ noi kuldi'u と pe la .taman. ...
 のふたつの関係節(句)を、ひとつの sumti (la .kaminogen.) につけるためには
  zi'e が必要。
 
-
 vu'o pe la .kaminogen. noi kuldi'u zi'e pe la .taman. noi larske
 balcu'e
 ________________
 gusni kantu:
 [多摩美術大学[上野毛校舎]] なので、並列よりも ku'o で切るほうが適切
-
 
 ku'o を挿入した
 ________________
@@ -1638,31 +1900,24 @@ fi'o simxu selfri be so'i fityzu'e guncmi: これだと「たくさんのスタ�
 」に含まれる「たくさんのスタッフ」と私とが一緒に経験したという意味がな
 くなってしまう。
 
-
 また、simxu だとお互いにといった感じなので、kansa (一緒に) のほうが良さそ
 う。
-
 
 さらに、sumti を取らない法制を使うと、zo'e の bridi に対する関係の説明とし
 て「体験」という関係を指定していることになる。
 
-
 つまり、「se ka'a ...」が目的地として何かを持ち、... する、というのと同様に、
 体験として何かを持ち ... するといった意味になる。
 
-
 この場合、そうではなく、「体験」という object が「通して」という関係によっ
 て bridi にくっついているので、以下のほうが良さそうだ。
-
 
 ただし、日本語の意味をたとえば「上で言ってきたことを体験として、... を試み
 る」というように意訳するのであれば、現在の構造でも問題ないとは思うが、
 それにしても「通して」という関係性が消えてしまうぶん、いくぶん vague に
 なる。
 
-
 試訳:
-
 
 .i ta'i lo nu lifri fi'o kansa so'i sezmukyzu'e guncmi
 「多くの自我的動機的行為的の仕事的構成員と一緒にする経験というやりかた
@@ -1685,15 +1940,12 @@ ja'e ku は ja'e zo'e と同じ意味だと思う。
 つまり、何かを結果として、という意味になり、文全体としては、むしろ何かの原因と
 いった意味になる。
 
-
 ここは .i ja'e bo が良いと思う。
 CLL 10.23 に X .i BAI bo Y = X BAI le nu Y とある。
-
 
 ただし、この場合、前の文の結果として次の文が来るので、わずかにもとの文意とは
 ずれるが、前の文が「試みる」なので、試みることの結果として、オリジナリティー
 あふれる教室点滅に終わった、というのは意訳としては問題ないと思う。
-
 
 より日本語に忠実に(つまり、より曖昧に)表現したければ、se ja'e ku を使えば、
 「何かを結果のもととして」あるいはよりわかりやすく、ただし不正確に言うな
@@ -1712,7 +1964,6 @@ gusni kantu:
 「他者との」は「共有」にかかっていて、「共同幻想」にはかかっていない。
 また普通に「他者」と言う場合には lo drata かと思う。lo frica だと「異質
 な者」といった感じ。
-
 
 試訳:
 .i ba'o finti fo lo si'o ponse co kansa lo drata .e lo kansa sidbo
@@ -1774,12 +2025,10 @@ se va'u mi (利益者を私として)
 しかし、これだと「してくれる」との訳し分けができない。
 使役の意味をいれたほうが良いか。
 
-
 => .i'o を使ってみた。
 ただ、.i'o のニュアンスがまだつかみきれてはいない。
 .i'o nai がねたみの意味であることから、ねたみの逆の意味ということになる
 のだろうか。
-
 
 => .i'o の意味がつかみかねるので、よりわかりやすい se va'u mi にもどす。
 ________________
@@ -1796,11 +2045,9 @@ ki'e
 積極的に: se tai lo ka to'e cando
 (動く物の持つ性質のような形で)
 
-
 これはもっといい言い方がないかな?
 [cq]良国重城:
 観客を誘導する: lo viska cu gau frati (見る人に反応させる)
-
 
 「誘導」の持つ方向性のようなものを表現しきれてない気もする。
 gau frati lo se djica なら「望むようなやりかたで反応させる」みたいにな
@@ -1874,12 +2121,10 @@ lo viska だけでも一人一人の意味はある。つまり loi ではなく
 る時点で個々にという意味となる。しかし、「一人一人」というのをより強調して
 訳したい。そこで群を作ってそれを個にもどしてみた。lu'a loi viska と。
 
-
 => より普通の表現として、 ro lo viska とする。
 ________________
 gusni kantu:
 観客の群れから抽出した個が「一人一人」の意味になるかどうか、わからない
-
 
 たぶん ro lo viska と言うとロジバンらしい表現になる
 (ほかの人とも要相談)
@@ -1887,11 +2132,9 @@ ________________
 良国重城:
 観客全員とはかぎらないので、ro は使いにくい気がする。
 
-
 「一人一人」という言葉は副詞的で、それが無かった場合も意味が変わらないと
 思う。つまり、冗長な表現。
 それを表してみた。
-
 
 lojban の lo broda が複数の broda を表す場合、すでに「それぞれに」という
 意味が含まれているというところを出発点とした。
@@ -1901,24 +2144,19 @@ ________________
 ところの lo viska に2人以上という意味を足したものと言える。
 ので su'o re lo viska が意味的には正確と思われる。
 
-
 ただし、「一人一人」を強調として取ると「それぞれ別々に」と解釈して、se
 tai lo ka tolxre とか、かな。これはあまり自信がないな。se tai の意味が今いち
 つかみきれていないのと、「別々に」は「混合物の反対のものが持つ性質」なの
 かどうかよくわからない。
 
-
 あるいは、se tai to'e gunma とか。se tai na'e gunma のほうがいいか。
-
 
 しかし、ここでは si'u が se tai na'e gunma なので、
 fi'o sidju be se tai na'e gunma lo viska cu terxra fi lo morji kacma
 pixra となる。
 すこし長過ぎる気もする。
 
-
 「冗長表現」として解釈するか、「正確さ」を取るか、「強調」として解釈するか。
-
 ________________
 良国重城:
 ro lo viska が新しい解釈でどういう意味になるのかを考えた。
@@ -1927,11 +2165,9 @@ ro lo viska が新しい解釈でどういう意味になるのかを考えた�
 つまり、たくさんいる観客のうちの3人を抽出して、さらにそのうちの2人というこ
 とだ。
 
-
 とすると、ro lo viska は、
 たくさんいる観客のうちの何人かを取り出して、そのうちの全員という意味で、問
 題なく使えるように思う。
-
 
 ただ、英語の each にあるような「全て」の意味は日本語の「一人一人」には無
 いので、すこしひっかかるところがある。
@@ -1950,14 +2186,12 @@ vreji は「何かが記録である」の意味と「何かが記録される�
 を表せると考えて良いと思われる。動作であることを明示するために gau を付
 けた。
 
-
 => gau は消去
 => co'a によって、記録されていない状態から記録されている状態への変化を表
 現
 ________________
 gusni kantu:
 gauは動作主を想定している
-
 
 状態か瞬間的かという区別ならZAhO類でできる
 co'a condi vreji
@@ -2021,10 +2255,8 @@ lo bajra pagre e lo jersi be le mlatu
 類似点の多い日本とアメリカの関係を問う。ぼくたちが日々作り出しているゴミ
 はどこから来てどこへ行くのだろうか。
 
-
 ni'o ci mo'o lu .i klama lo festi rinci stuzi pe la sanfransiskon
 mu'i lo rinci be fa lo mi zdani festi be'o li'u
-
 
 de'i li renonoxa fi'o vreji lo tigni skina[dc] pe lo mentu be li paze
 pi cici ju'u xano
@@ -2037,11 +2269,6 @@ lo gugde'usu kei poi ponse teki'i so'i lo ka ckini be ji'u lo jecta
 je jikca stura be'o ku.i pau lo festi poi mi ta'e zbasu cu klama ma
 ma
 
-
-
-
-
-
  Go to San Francisco to throw away the garbage of my house
 2006 Performance Video 17'33min
 Taking Japan's rubbish to America. Taking my household rubbish I
@@ -2052,6 +2279,18 @@ relation between America and Japan, which socially and politically
 seem to have such affinity. The waste produced day by day: where does
 it come from and where does it go?
 (Translated by Ohta Emma)
+
+---co'a pinka---
+[dc]getgot78:
+パフォーマンスヴィデオ zukte + skina ?
+________________
+良国重城:
+今回の翻訳では lo tigni skina で統一しようか、という流れ。
+lo nu tigni が lo nu jarco zukte とほぼ同じというのが僕の考え(場所構造
+等は違うが)。見せるための行為を lo nu tigni と考える。
+---co'u pinka---
+
+
 
 
 2 232文字/102words [重城]
@@ -2094,7 +2333,6 @@ ________________
 パフォーマンス: lo se zukte
 としようかな
 
-
 fi'o vreji lo se zukte
 行為を記録とする、ということ。
 ________________
@@ -2117,7 +2355,7 @@ zenba の意味
 ________________
 良国重城:
 lo ka jikca simxu (交際しあう集合の持つ性質) のほうが良いだろうか。
----ca'o pinka---
+---co'u pinka---
 
 
 
