@@ -52,7 +52,21 @@ xamgu je melbi zmadu .i ba'o galfi (.iocikun.)
 .ie ba'o galfi (.iocikun.)
 ]
 
+30 [重城]
 
+[guskant.2013-07-13: lo zukte skina pe lo mentu be li ze pi'e nobi
+	> lo tigni skina noi mentu li ze pi'e nobi に変更する方針？]
+[guskant.2013-07-13:
+	{ji'a ri'a lo nu lo du'u xu kau lo selsku seltcidu cu mapti lo da'i nai
+	nuncasnu cu cinri ku se pi'o lo nu te zu'e finti lo tolmapti li'a be
+	lo da'i nai nuncasnu be'o selsku bo seltcidu cu daspo lo da'i nai
+	nuncasnu selci'e} 
+	- {ri'a} より {mu'i} : 「興味から」は物理的な因果関係ではなく、話し手の動機
+	- {lo da'i nai nuncasnu} （2箇所） より {lo da'i nai jai secu'u casnu} :
+	「実際の会話」は事象ではなくて、会話で言われた文。その前の
+	{lo la'edi'u nuncasnu} と最後の {lo da'i nai nuncasnu selci'e} は
+	そのままでも可。]
+[guskant.2013-07-13: {mizre} > {mixre}]
 
 
 12 [guskant]
