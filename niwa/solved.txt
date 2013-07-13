@@ -1,0 +1,53 @@
+31 [重城]
+[f]良国重城:
+jajgau: jamji gasnu
+gau jmaji としようかと思ったが、sraku jajgau (掻き集める) や brulu'i
+jajgau (掃き集める) 等が簡単に作れるので jajgau とした。
+[g]良国重城:
+数字は空白をいれないことにした
+pareci や renopaci といった感じ
+[h]良国重城:
+ratnenfanri: ratni nejni fanri 原発
+________________
+良国重城:
+ratni nejni ke dikca fanri
+がよりわかりやすい。
+ratnendicfanri としてもいいが、
+より短くしたい気もする。
+ratnenfanri か ratydicfanri のどちらかになるだろう。
+原発の意味として「原子力工場」と「原子電気工場」後者のほうがぴったり来
+るが、ratnenfanri のほうが語呂がいいので、迷うところだ。
+ただし原子力発電所とくどく言うときの訳としては、ratni nejni ke dikca
+fanri は適しているように思う。
+あるいは、ratni ke dikca fanri か。
+[i]良国重城:
+cnitcebi'o frili gi'e cnimlibi'o frili: 熱しやすく冷めやすい
+cnitcebi'o = cinmo mutce binxo
+cnimlibi'o = cinmo milxe binxo
+
+[guskant.2013-07-12:
+ タイトル: cu gau sraku jajgau
+ gau不要 > cu sraku jajgau
+.ie la .iocikun. ba'o jai galfi
+ lo zukte skina pe lo mentu be li bi pi'e cixa
+ > lo tigni skina noi mentu li bi pi'e cixa に変更する方針?
+go'i .i ba'o galfi to .iocikun. toi
+ ba lo donri
+ > donriは昼間全体なので、正午過ぎの意味なら ba lo dormidju
+ba'o galfi to .iocikun. toi
+ kerfa
+ > 髪?
+kerfa pulce -> cilta pulce
+ほこりを訳出するのに kerfa pulce とし、「髪の毛のようなゴミ」としたが、「
+糸のようなゴミ」のほうがいいと思い直しましたので、cilta pulce にしてみま
+す。(.ioikun.)
+ lo ka mutce lo nuncpe co cmibi'o lo'i pante be tu'a lo ratnenfanri
+ > lo'i pante が mutce x3 になっている。 cmibi'o x2 なら be で繋ぐ。
+.ie ba'o galfi (.iocikun.)
+ ro lo ponse be lo mintu sidbo
+ > ro lo te sidbo be fi lo mintu なら同じ文字数でより精確
+xamgu je melbi zmadu .i ba'o galfi (.iocikun.)
+ cu ba'o se cliva
+ > cu は無くても可
+.ie ba'o galfi (.iocikun.)
+]
