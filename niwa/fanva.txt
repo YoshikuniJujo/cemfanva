@@ -400,7 +400,7 @@ kau lo selsku seltcidu[o] cu mapti lo da'i nai jai se cu'u casnu cu cinri ku
 se pi'o lo nu te zu'e[p] finti lo tolmapti li'a be lo da'i nai
 jai se cu'u casnu be'o selsku bo seltcidu cu daspo lo da'i nai nuncasnu
 selci'e .i se pi'o lo nu ge lo fatci lisri fi'o se ranxi[q] ku lo
-cfika cu gau mixre gi tcica lo nu jinvi lo nu lo da'i nai pu fasnu cu
+cfika cu gau mixre gi tcica fi lo nu jinvi lo nu lo da'i nai pu fasnu cu
 dunli lo na pu fasnu cu jarco lo preti be lo du'u xu kau lo smuni poi
 lo pulji cu spuda cu mapti lo smuni poi lo tersku cu djica
 
@@ -445,7 +445,8 @@ zo'e を目的として broda する
 	> {gau to'e sanji lo nu lo da'i nai pu fasnu lo na pu fasnu cu frica}]
 [iocikun.2013-07-14: {tcica fi lo nu jinvi lo nu lo da'i nai pu fasnu cu dunli
 	lo na pu fasnu} のつもりでした。
-	「だまして、同じと思わせる」といった感じです。]
+	「だまして、同じと思わせる」といった感じです。
+	guskant さんの訳案とどちらを使うかを考え中。]
 ---mo'u pinka---
 
 
