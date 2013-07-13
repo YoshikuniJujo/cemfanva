@@ -1,0 +1,815 @@
+﻿伝達事項
+入稿について:
+*1 参照。
+github の private repository をまずは作成する必要がある。
+出来るなら、以下のようにしたい。
+この document を、テキスト形式に変換し、対訳の txt と note.txt に分ける。
+github にコミュニティ翻訳用の repository を作る。
+そこに niwa ディレクトリを作成し、上記2つのファイルを追加する。
+とりあえず、github の僕のアカウント (YoshikuniJujo) に cemfanva という directory を作って、上記の作業をしておきますので、それが可能であれば、ponjbogri に fork してもらい以降それで作業したい。
+そうすれば、既出の問題点であるシングルクォートの一括変換が可能であるだけでなく、spell check 等も簡単に行える。
+僕のパーサが完成してれば文法チェックもできたのだが、まだそれはできない。しかし、lojban の単語のうち一回しか出てきていないものを抽出することでスペルミスの簡易的なチェックも可能。
+とりあえず、今の段階のドキュメントについて、以上の作業をしておくので YoshikuniJujo/cemfanva を見てください。
+また、もしも、今後も、コミュニティ翻訳を行うことがあったなら、github (他のサービスでもいいが git を使いたい) + txt ファイルで行いたい。
+最終的なテキストの並びについて丹羽さんに聞いていただけないでしょうか。それ(la’e di’e)を採用するしないに関らず、テキストの並びを前提とした構成が可能かどうか知っておくのは意味があると思いますので(重城)
+丹羽さんに確認しましたら、最終チェックはあと１週間でお願いしたいということでした。あと、作品の並び順ですが、「デザインの都合上、まだ正確にはお答えできないですが新しい作品（つまり数が大きい）ものから古い作品の順番で掲載することを考えています。つまり、お渡した書類の順番通りで考えて頂いてよろしいと思います。」とのことでした。最後にタイトルですが、「その後、タイトルが変更されまして、「公共性を再演する｜作品の解説を36種類の言語に翻訳する」となりました。ご連絡しようと思っていたのですが、タイトルをロジバンへ翻訳できるでしょうか？詩的なタイトルですので、これ以上説明はできないのですが、公共性という演じられていない概念を言語を使って演じる（演劇のように）という意味です。」だそうです。 - H
+一週間ですか。がんばってみます(重城)
+ちなみに、いつから数えて一週間ですか?(重城)
+連絡した時（7日）から数えて、だと理解しています。明確な締め切りは無いが、出版がずれ込むので、早めに欲しいのだと理解しています。日本時間の14日いっぱいまででいかがでしょう。 - H
+[guskant.2013-07-10: nalteoさんの文には手を加えておいて良いと思う。nalteoさんには、12日以降にまとめて事後報告すれば、脱稿直前に元に戻すことも可能。]
+よろしくお願いします。僕のほうのチェックは今までと同じ形でさせていただきます。僕ひとりの判断で変更してしまうのは不安があるので。ただしスペルミス等は直接変更します。(重城)
+
+[guskant.2013-07-09: タイトルの訳案
+lu za'ure'u gau draci lo ka gubni sei fe lu'e lo ve ciksi be lo larcu cixa bangu cu fanva li'u
+下記タイトルの下に、この案を入れておきます。適当に直してください。]
+
+
+見直しについてのコメント [重城]
+見直しをさせてもらってます。下の表で見直しずみのものに * をつけていきます。また、それぞれの章の見直しが終わった段階でそれぞれの訳者にメールを送ろうかと思っています。よろしくお願いします。
+現在見直し中のものについては、- をつけておくことにします。
+[guskant.2013-07-12: 見直し後の修正が終わったものにmo’uを付ける]
+また、12 は途中だったので「コメント」としましたが、これ以降は本文の下にコメントをつけていくことにします。
+ちなみに「短い手紙を書く時間が無かったから長い手紙を書いた(パスカル)」。長くて冗長な表現やしぼり込めていないコメントをお許しください。
+15 / 33
+1. 33 *
+2. 32 *
+3. 31 * mo’u
+4. 30 *
+5. 29 * mo’u
+6. 28 * mo’u
+7. 27
+8. 26
+9. 25
+10. 24
+11. 23 -
+12. 22
+13. 21
+14. 20 *
+15. 19
+16. 18
+17. 17
+18. 16
+19. 15 *
+20. 14
+21. 13
+22. 12 * mo’u
+23. 11 * mo’u
+24. 10 * mo’u
+25. 9
+26. 8
+27. 7 * mo’u
+28. 6 *
+29. 5 *
+30. 4
+31. 3
+32. 2 *
+33. 1
+全体に関する提案 [重城]
+新宿: .cindjuk. -> .cinjuk. (下記参照)
+.cinjuk. .cindjukun. .cinjukus. のような表記がありましたが、とくに他の理由が無ければ、上記で統一しませんか? 根拠は、僕自身の発音をふりかえったときに cindjuku ではなく、cindjuky かもしくは cindjuk と発音しているように思ったからです。つまり最後のウが曖昧母音y となるか、あるいは「じゅ」のウが響いているだけで、音節を形成していないように感じたからです。ここらへんは関西と関東の差もありそうですが。(関東では英語に近い子音で終了する発音や母音の弱い発音となり、関西ではフランス語(あるいはイタリア語)的に母音が強調される気がします)
+[
+guskant.2013-07-09:
+cindjuk: "ndj" という子音の連続は、 cmene の語中であっても禁止されています (CLL3.7)。
+e'u zo cinjuk
+]
+原発: ratnenfanri または ratydicfanri
+-> 初出だけ ratni nejni ke dikca fanri とし、以降は ratnenfanri という方針で良いでしょうか?
+初出だけ ratni nejni ke dikca fanri とし、その後は ratnenfanri を使うことを提案する。ratydicfanri とどちらがいいか迷うところだが、ここで僕が(主観的に)考える3つの因子として「美」と「わかりやすさ」と「正確さ」がある。ここで言う「美」は「発音のしやすさ」に近い。まずは「正確さ」について。「原子力工場」と「原子電気工場」だと後者のほうが「正確」である。しかし ratnenfanri が ratni nejni fanri をそのまま lujvo にしたのに対して、ratydicfanri は ratni ke dikca fanri の ke を省略した形である。ここを考えると「正確さ」については同等であると思われる。次に「わかりやすさ」だが、これは ratydicfanri のほうに軍配が上がる。そして最後に主観的な言いかたになるが、ある程度の普遍性のある尺度として「美」だある。これは ratnenfanri のほうが上だと思う。まず ratydicfanri には緩衝母音が必要な点がある。これは「美」的ポイントを低下させると思う。次に ratnenfanri に出てくる二重母音はすべて n を含む二重母音であるということがある。2重母音のなかでも、n, m, r, l を含む二重母音は他の二重母音よりも美しい、あるいは発音しやすい。ということで、ratnenfanri と ratydicfanri は「正確さ」では同等であり、「発音しやすさ」の ratnenfanri を取るか、「わかりやすさ」の ratydicfanri を取るかという選択となる。僕は今の段階では ratnenfanri のほうを押しているが、いかがでしょうか。また考えが変わるかもしれませんが。
+[guskant.2013-07-10: zo ratnenfanri mapti .ie]
+パフォーマンスのヴィデオドキュメント, パフォーマンスのドキュメントヴィデオ, パフォーマンスヴィデオ: lo tigni skina が今のところ一番の候補。ただし、lo zukte skina と lo se tigni skina も考慮する必要あり。
+-> lo tigni skina で統一ということで良いでしょうか?
+lo zukte skina, lo tigni skina, lo nuntigni skina 等の訳がありました。まず、第一に統一しない、という選択肢があると思います。そもそも日本語が統一されていないという点を重視するということ。統一する場合、lo nu tigni = lo nu jarco zukte と考えれば、tigni を採ったほうが良いように思います。nun をつけて lujvo 化するべきかどうかは難しいところです。nu による意味のしぼり込みが lujvo 化による意味の「恣意化」に打ち消される感じもします。ここらへんには、tanru の意味論のなかで場所構造がどのように影響してくるのかという、不明確な問題がからんできます。lo nu tigni kei skina と lo tigni skina はどの程度同じものとなるか、あるいは lo se tigni skina と lo tigni skina は同じか違うのか。nuntigni より seltigni のほうが良いようにも思うし、それならば lo se tigni skina で問題は無いはずだし、もしも seltau の場所構造が tanru の意味に「ニュアンス」以上の意味の違いを与えないのならば、se をつけて繁雑にする必要は無いようにも思います。ということで現時点での僕の推奨は lo tigni skina としておきます。
+[guskant.2013-07-10: .ie 私の担当の部分も lo tigni skina に変えておきます。]
+i. i’a vi’o lo tigni skina .i. mi’e la limna
+何分何秒という表現(1) 数字の部分(例として 20分15秒を使う): li reno pi’e pamu か li reno pi pamu ju’u xano か
+これに関しては、敢えて、統一しない、という方針もありかと。「正確さ」と「簡潔性」のトレードオフを考えるとどちらも捨てがたいので。統一するなら、僕なら「簡潔性」を取り li reno pi’e pamu としますが。
+何分何秒という表現(2): ... to mentu li … toi という表現と … noi mentu li … という表現の二者を推します
+noi を使うほうは、mentu の x1 は mitre の x1 と同様に「物(・事)」であるとの考えから。これも、敢えて、統一しない、という方針を推します。ただし、to noi mentu li … toi はあまり良くないと思います。to … toi のなかは独立した構造である必要があると思うので。日本語のように(このように)括弧を構文に影響せずに使えるのではない、と考えます。pe lo mentu be li … は制限用法なので良くない。ne lo mentu be li …  は、mentu の x1 を「物・事」として考えるならば、「正確さ」と「簡潔性」の両者について劣るので良くない。
+
+
+sedu’u と cusku について: cusku の x2 と sedu’u をより広く「表現」として、今回の翻訳で利用する
+このコメントは今回の翻訳よりも広く、できたら後々は lojban メーリングリストに転記したいところだが、sedu’u と cusku について感じるところがある。cusku の x2 は単に「言葉として言ったこと」に限らず、「表現」であるべきだと思う。そうしておけば、「言葉として言ったこと」は tavla cusku とすることができ、表情で示すことは flira cusku とできる。で、cusku のほうは実際にそう考えていいと思われる。そして、それに関連して、sedu’u を … を意味する表現、という意味でとらえるべきなのではないかと思う。そうすれば、たとえば「僕があのとき不適切なことをしたじゃないかという表情」等を非常に simple に表現することができる。CLL では、du’u:  x1 is the predication (the bridi) expressed in sentence x2 となっているが、x1 is the predication (the bridi) expressed in expression x2 とした方が良いと思われる。そして、その定義を使えば、簡潔にできる表現が今回の訳文のなかにある。
+上記が問題無く、今後の lojban の方向性として望ましいと、今回の翻訳のメンバーの同意が得られれば、先取り的にこの機能を利用しても良いと思うが、いかがだろうか。本家のメーリングリストで機能を提案するときにも実際の使用例があったほうが説得力があると思うし。
+基本的に、狭い意味を拡げて広い意味を作るよりも、広い意味をせばめて狭い意味を作るほうが簡単であるという考えかたに依っている。また、se du’u の x1 はもともと「文」であったとしても、日本語の文かもしれないし、英語の文かもしれないし、手話かもしれない。そのような多様な「文」の延長として「言語」に限らない「表現」を採ることは自然な拡張に思える。
+このようにすると、「Xであることは Y ということを意味/表現する」は単に lo nu X se du’u Y とできる。
+もしも、より多くの議論が必要であると思う方がいれば、今回のようにしめきりのある場では使用しないことにしたほうがいいだろうとは思う。
+[guskant.2013-07-10: du’u の英語定義は曖昧ですが、jbovlasteのロジバン定義で
+galfi lo bridi lo brivla .i x1 bridi gi'e se sinxa le bridi .i x2 selsku gi'e se sinxa le bridi
+となっているので、その用法で問題ないと思います。ロジバン定義では、どこにも「lo sedu’u が文／言語表現である」とは書いてありません。]
+ki’e sai 疑問が解決しました。CLL で、sentence となっていたので、その恣意的な限定に美しくなさを感じていました。とすると、メーリングリストに投稿等もより軽い形で、変更という形ではなく意味の明確化という形で、ドキュメント上の表現に関して、言うようにしたほうが良いですね。(重城)
+首相官邸, 官邸: 初出だけ tertrube’e gubzda とし、以降、「官邸」との略称の部分は gubzda とする。初出以外で「首相官邸」となっている部分については、未定。-> nalteon さんのところで zdani となっているところは gubzda に書き換えてしまうことにする。
+プロジェクト: lo te platu か
+「計画された結果として行われること」のような意味。nalteo さんのところでは finpla としてあったが、finti と platu の関係がいまいちつかみづらい。
+*1:
+[guskant.2013-07-09: この文書を編集するとき、アポストロフィ ' がシングルクウォーテーション ’ に変化することがあるので、脱稿直前に全部アポストロフィに変換しておく必要があると思います。]
+lojban にとってアポストロフィ ‘ はアルファベットのひとつなので、けっこう問題あるかもしれない。場合によっては、一度テキストファイルに直して、一括変換する必要があるかもしれない。もし、そうするならシングルクウォーテーションをアポストロフィに変換するプログラムなら、5分で書けるので、やりますが。そうするとテキストファイルでの入稿となりますが、その方が先方も加工しやすいかも。テキストファイルの編集なら得意ですので、もし必要ならやらせてください。(重城)
+[guskant.2013-07-11: .ie 入稿はテキストファイルの方が良いと思う。docxだと、知らないうちに余計な情報やフォーマットが入っていそうで怖い。]
+
+
+タイトル: 公共性を再演する｜作品の解説を36種類の言語に翻訳する
+lu za'ure'u gau draci lo ka gubni sei fe lu'e lo ve ciksi be lo larcu cixa bangu cu fanva li'u
+[guskant. 案]
+
+
+
+[a]良国重城:
+試訳:
+
+
+va'o lo nu te preti lo du'u ta'i ma kau se nabmi lo fatci pe lo na'e mutce darno be la tokion be'o foldi
+
+
+「どのようにして」を ta'i ma kau (どのような方法で、どのようなやりかたで) とし、
+「X が Y に向かい合う」を Y se nabmi X (X は Y の遭遇する問題である) とした。
+
+
+「どのようなやりかたで、... の現実を問題とするか」
+といった感じ。
+
+
+もっと意訳して「... のために何ができるか」とするとより簡単に訳せるが。
+________________
+getgot78:
+より、こなれた訳だと思ったので、ta'i ma kau se nabmiは使わせていただきます。なおlo nu te pretiではなくlo nu pretiでいいのでは？。teで交換されるのはpretiの第１項の「質問文字列」と第三項「質問者」で第二項は「題目」のままなので、不要の気がします。
+________________
+良国重城:
+.ie
+確かにそうですね。te は不要です。
+[b]良国重城:
+試訳:
+
+
+.i la'e dei se klasi lo se pensi be zo'e goi ko'a bei va'o lo nu te preti lo du'u ta'i ma kau se nabmi lo fatci pe lo na'e mutce darno be la tokion be'o foldi be'o no'u lo du'u xu kau ko'a noi srana .ai gi'e ku'i gau canci se tai lo na srana cu kakne lo nu po'o gau muvdu lo djacu senta be fi'o se cpana lo klaji
+________________
+良国重城:
+「自分」の訳しかたとして、lo se pensi be zo'e goi ko'a によって考えている主体を ko'a に代入し、その後の関係節 srana .ai gi'e ku'i gau canci の x1 としている。
+________________
+getgot78:
+lo sevziが自分の訳として適切かどうかを脇においても、zo'eをko'aに割り当てて「自分」とするのは、少々凝りすぎな気がします。何か特殊なことを言い表そうとしているような感じを受けます。lo sevzi自体のことも含めて、さてどうしたものか・・・。
+________________
+gusni kantu:
+「関わりを持とうとしても部外者として消去されてしまいそうになる自分には、路上の水たまりくらいしか移動させられないのではないか？」という文の話し手を指すので、単に mi とすれば、この「自分」の指示対象を正確に表したことになる。「おれ」でも「わたくし」でも mi と訳すのと同じことで、必ずしも訳し分ける必要はないと思う。
+________________
+良国重城:
+僕も mi でいいと思います。
+[c]良国重城:
+試訳:
+
+
+te tai lo finti lo zgana cu vreta se tai lo nu sefta be lo tumla be'o klama gi'a na ka'e zgana
+________________
+良国重城:
+「姿勢」を loj訳できなかったので、より具体的に vreta (もたれる、横たわる) を使った。
+[d]良国重城:
+lo sevzi は「自我」や「自己イメージ」といった意味なので、日本語の機能語的な「自分」や英語の oneself には使えないはず。
+この意味で使っているのは、多い気がするがこれは誤用と思う。
+
+
+lo sevzi cu canci と言うと、「自分を見失う」みたいな感じ。
+あるいは「本当の自分を隠す」といった感じ。
+
+
+ここでの表現はかなり曖昧なものがあるが、「私が無視される」といった感じなので「自我」や「自己イメージ」といった感じではない。
+
+
+むしろ、ここで使われている「自分」は内容語というよりは、「...ということ」や「...というもの」のような形式的な語と思われる。
+[e]良国重城:
+これだと、「陸に関する表面的に動く物と類似したやりかたで」となる。
+だいたいいい気もするが。
+________________
+getgot78:
+この場合、一つは「陸に関して表面的に動く」が「這いつくばる」の訳でいいか？ということかと思います。あと、「姿勢」という言葉も定訳が特にないのでsimsaでごまかしていますが、いい訳語があれば変更するのはやぶさかではありません。たぶん、ロジバンの語彙不足を熟語的表現でしのぐか、語彙を作るかということですよね。
+________________
+gusni kantu:
+姿勢は lo se tarti あるいは lo seltra と言えます。これには体が動く場合も含まれますが、静止している状態であることを明示したければ lo cando seltra などでも良いと思います。
+案：
+fi'o seltra lo za'i pe'a cadzu lo tumla lo betfu
+「地表を腹で歩くような状態を姿勢として」
+________________
+gusni kantu:
+「鑑賞者は作家と同様地面を這いつくばるような姿勢にならないと作品が見られない構造になっている」という論理接続表現に組み込むなら、fi'oよりselbri扱いの方が良さそうですね。
+stura tai lo za'i lo zgana ku ga tarti sei lo finti ku tamsmi lo za'i pe'a cadzu lo tumla lo betfu gi na'e ka'e zgana lo larcu
+[f]良国重城:
+jajgau: jamji gasnu
+gau jmaji としようかと思ったが、sraku jajgau (掻き集める) や brulu'i jajgau (掃き集める) 等が簡単に作れるので jajgau とした。
+[g]良国重城:
+数字は空白をいれないことにした
+pareci や renopaci といった感じ
+[h]良国重城:
+ratnenfanri: ratni nejni fanri 原発
+________________
+良国重城:
+ratni nejni ke dikca fanri
+がよりわかりやすい。
+ratnendicfanri としてもいいが、
+より短くしたい気もする。
+ratnenfanri か ratydicfanri のどちらかになるだろう。
+原発の意味として「原子力工場」と「原子電気工場」後者のほうがぴったり来るが、ratnenfanri のほうが語呂がいいので、迷うところだ。
+ただし原子力発電所とくどく言うときの訳としては、ratni nejni ke dikca fanri は適しているように思う。
+あるいは、ratni ke dikca fanri か。
+[i]良国重城:
+cnitcebi'o frili gi'e cnimlibi'o frili: 熱しやすく冷めやすい
+cnitcebi'o = cinmo mutce binxo
+cnimlibi'o = cinmo milxe binxo
+[j]良国重城:
+だっこ: xedra'ejai
+xendo ralte jgari (優しく支えてつかむ(抱く))
+jgari だけだと抱擁の意味での抱くの意味も含むので、持ち上げているということを含意させるために ralte をつけた。
+正確には xendo ke ralte jgari だが、意味的に大きな差は出ないように思い ke は省略した。
+[k]良国重城:
+no'a によって外側の bridi を参照し、それの x2 である「...する警察官」を lo se no'a によって取り出した
+[l]良国重城:
+そもそも: sei xruti pensi se'u
+「もどって考えるわけだが」といったニュアンスを表してみた。
+se'u を入れたのは提案されている新文法でも動くようにとの配慮から。
+[m]良国重城:
+国家システム: gugyci'e
+gugde ciste から。
+
+
+=> gugde ciste: tanru を使うことにした
+
+
+個人: sivni prenu
+[n]良国重城:
+行間: lo na'e selsku (言われる以外のもの)
+[o]良国重城:
+字幕: lo selsku seltcidu
+言われたことに関する書かれたもの
+[p]良国重城:
+意図的に broda する: cu te zu'e broda, te zu'e ku broda 
+zo'e を目的として broda する
+[q]良国重城:
+敢えて: fi'o se ranxi (何らかの予想に反して)
+この場合、「字際の会話と字幕とは一致させようとするだろうという予想に反する形で」といったニュアンス
+[r]nalteon:
+setca zei vidni
+[s]nalteon:
+ratni zei dikca zei fanri
+ratni zei nejni zei fanri
+[t]nalteon:
+bredi zei bevri
+[u]nalteon:
+pagbu zei binxo
+[v]nalteon:
+viska zei vitke
+[w]nalteon:
+ka zei gunma
+[x]nalteon:
+nu zei jadni zei spoja
+[y]nalteon:
+ka zei ranxi
+[z]良国重城:
+fe'e co'u について。
+どちらでもいいのですが、
+富士山頂を目指して、そこに到着した、といった感じを出すのなら、mo'u かなと。
+でも、そもそもの目的地は首相官邸だったので、富士山頂はとりあえずの停止点と考えると co'u もありかと思います。
+
+
+いずれにしても、下に出てくる za'o はいいですね。
+「za'o を使うのは、今でしょ!」
+といった感じがしますよね。
+[aa]nalteon:
+lo .fujin. cmana
+[ab]良国重城:
+法制は bridi に対する関係を表すのだと思います。
+なので、これだと「何かがブリディに対してビデオインスタレーションであるという関係を持っている」という意味になり、「ビデオインスタレーションが何か(ここでは表現形式)である」という意味を表せないように思います。
+
+
+ti salcarce fi'o gerku do
+と言った場合、意味合いとしては、「これはあなたに引かせる犬ぞりだ」という感じになるのではないでしょうか。
+
+
+se tai lo remei se'arvidni としたほうがより標準的かと思います。
+________________
+gusni kantu:
+標準的かどうかわからないが、変える必要も無さそう。
+cusku la'e lu ja'odzu li'o li'u fi'o relplita vidni ke punji larcu zo'e
+あるものを2面ビデオインスタレーションとして、「...行進する」を表現する
+ということなので、原文の訳として妥当な表現の1つ。
+________________
+良国重城:
+.ie
+[ac]良国重城:
+metsnidu について。
+pi'e を pi よりも曖昧な小数点として考える、つまり、pi'e 以降の数を不特定の値で除するという意味にとらえると、metsnidu ではなく、mentu が使えると思う。
+
+
+もしも metsnidu を作るなら、むしろ、x2 を分、x3 を秒、として、metsnidu li pamu li remu とするほうが有用では?
+
+
+また「各」を訳出するなら、
+ro da mentu li pamu pi'e remu
+か。
+________________
+gusni kantu:
+ba'o go'i
+[ad]nalteon:
+lo nu cirko lo pante cmima cu dunli lo nu klama kei lo ka zenba
+[ae]良国重城:
+pau nai のほうが標準的かと
+
+
+.i pau nai xu sirji linji ro fasnu po lo vi terdi
+________________
+gusni kantu:
+paunaiだと皮肉や反語になってしまうが、この文は答のわからない疑問を投げかけていて、疑問文であるという意味合い自体は残っているように見える。そうであれば
+[na'e djuno lo du'u] xukau sirji linji...
+の省略形として、この表現は妥当。
+省略していることを明示するなら
+li'o xukau ...
+でも良さそう。
+________________
+良国重城:
+あとでもっと良く考えてみますが、とりあえず、pau nai が皮肉や反語として定義されているとしたら、やや文化中立性(あるいは、lojban 内での整合性)に問題があるのではないかと思います。
+ただし、現在、そう定義されているのであればしかたないですが。
+
+
+単純に疑問文の形を取っているけれど、疑問ではない、という意味で定義されるべきかと思います。
+ここらへんは lojban を改造する必要があるかと。
+________________
+gusni kantu:
+paunai は皮肉や反語だけに限らないが、件の文は疑問の意味を保持しているので paunai とは言えない。
+[af]nalteon:
+blanu zei prina
+prindiazo
+[ag]nalteon:
+grasu zei penbi
+[ah]nalteon:
+ka zei nabmi zei sanji
+[ai]nalteon:
+「印刷用」を訳すなら
+cartu bredi blapri
+[aj]nalteon:
+jetce zei xinmo zei prina
+[ak]nalteon:
+fatci zei ni zei barda
+[al]nalteon:
+cando zei jgari
+[am]nalteon:
+tumla zei jvinu zei korbi
+[an]nalteon:
+danfu zei nandu
+jetnu zei nandu
+[ao]nalteon:
+ka zei no'e zei lakne
+ka zei no'e
+[ap]Masato Hagiwara:
+先進国 (purci farvi gugde)
+cf. 発展途上国 cabyfarvi gugde
+________________
+Masato Hagiwara:
+先進国 favli'egu'e 発展途上国 nalfavli'egu'e
+[aq]Masato Hagiwara:
+グローバリズムの覇権主義
+[ar]Masato Hagiwara:
+「プロパガンダ」＝ gubyselji'ipe'a (gubni se jinvi preja)
+[as]Masato Hagiwara:
+「バッジ」＝seldasyba'a (se dasni barna)
+[at]Masato Hagiwara:
+「現代美術館」＝cabycedra larcu muzga
+[au]Masato Hagiwara:
+「基金」＝dincmu (jdini jicmu)
+[av]Masato Hagiwara:
+外貨両替所 fange rupnu zarci
+[aw]Masato Hagiwara:
+観光地 misno selviska
+[ax]Masato Hagiwara:
+地域住民 diklo xabju
+[ay]良国重城:
+tarmi は辞書では x1 (意味・性質等)を表すのが x2(具体的なもの) となっているので、この場合、x1 がベルンで x2 が熊になるような気がする。
+ので、noi se tarmi la bern. のほうが良いのかと思います。
+
+
+ただ、僕自身も tarmi の意味を十分には理解していないので、そこのところ、よろしくお願いします。
+________________
+Masato Hagiwara:
+自分もどっちかよく分からなくなりました。そもそもtarmi を使うのが適切かどうかも。
+________________
+良国重城:
+僕のコメントはまちがっていたみたいです。
+上記は撤回します。
+noi tarmi la bern. のほうが良さそうです。
+熊という観念がベルンの形である。
+________________
+良国重城:
+tarmi の意味がすこしだけわかった気がします。
+
+
+「円 tarmi ミステリーサークル」 といった感じでしょうか。
+________________
+良国重城:
+あまりすっきりはしませんが、
+noi jai se ckaji la bern.
+
+
+la bern. cu ckaji lo nu lo cribe cu co'e
+「ベルン市は熊が何かであることに特徴づけられる」
+というところから。
+
+
+「象徴的存在」。
+たとえば、「羊がニュージーランドの象徴的存在である」ならば、co'e のところに「多い」が入るといった感じ。
+
+
+まあ、妥当な訳かとは思う。
+[az]Masato Hagiwara:
+国立公園 gugde jitro panka
+[ba]Masato Hagiwara:
+ケーブルカー skori karce
+[bb]Masato Hagiwara:
+センター mijbriju = midju briju
+[bc]Masato Hagiwara:
+ビルボード notci tanbo
+[bd]Masato Hagiwara:
+ビエンナーレ relna'anunjarco (re nanca nunjarco)
+[be]Masato Hagiwara:
+実行委員会 zu'ekamni (=zukte kanmi)
+[bf]gusni kantu:
+- 「でもね」のコメントに書いた手法と同様にcmene化すると
+
+
+lu lo zo tamera,un navni tubnu li'u
+
+
+- cmene化の理由は「でもね」のコメント群を参照
+
+
+- 訳注が必要なら sa'a を入れる
+to'i sa'a zo tamera,un no'u lo banjupunu valsi cu se smuni la'e zo toljdi toi 
+ただし意味は本文で解説されているので不要か
+________________
+Masato Hagiwara:
+含みをもたせるために cmene 化して訳注を入れない形にしようかと思います。
+________________
+Masato Hagiwara:
+ちなみに zo + cmene をこのようにselbri化して使えるのは知りませんでしたが、どこかに解説があったりしますか？
+________________
+gusni kantu:
+selbri化ではなくて、 
+lo pe zo tamera,un navni tubnu 
+のpeの省略形です。(CLL8.7)
+[bg]Masato Hagiwara:
+週刊誌 jetnu plekarni
+[bh]Masato Hagiwara:
+どう訳す？
+________________
+gusni kantu:
+ru'i po'o ku fi'o pamei [vo'a/ku]
+[fatne farna cadzu/fa'a lo fatne cu cadzu] ?
+[bi]Masato Hagiwara:
+デモ（行進） nunja'odzu (nu jarco cadzu)
+[bj]Masato Hagiwara:
+原発 = ratdicfanri (ratni dikca fanri)
+[bk]Masato Hagiwara:
+胴上げ bevri renro salci
+[bl]Masato Hagiwara:
+「革命」をjikca binxo と訳したが、何か違う気がする。jikca は「社交的」であって「社会」とは少し違う？
+________________
+gusni kantu:
+革命 ciste nu binxo > ci'ernunbi'o
+$x_1$ nu $x_2$ noi ke'a ciste ku'o binxo $x_3$ noi ke'a ciste ku'o $x_4$
+$x_1=n_1$ はシステム $x_2=b_1=c_1$ がシステム $x_3=b_2=c_1$ になる、条件$x_3=b_3$の下における革命
+$x_1=n_1$ is a revolution that a system $x_2=b_1=c_1$ becomes $x_3=b_2=c_1$ under conditions $x_3=b_3$.
+[bm]nalteon:
+prinlamda
+[bn]nalteon:
+fetsi ke nunspebi'o zei taxfu
+.uendidrese
+[bo]nalteon:
+taksido
+[bp]nalteon:
+speni zei binxo zei nupre
+[bq]nalteon:
+実際か噂か
+[br]nalteon:
+misno zei seljvinu
+[bs]nalteon:
+gaurpikapikapika
+gau dircydircydirce
+________________
+良国重城:
+cidjrspageti 等からの類推で考えると、[rafsi] + r + X の組み合わせは、rafsi 部分の x1 を X がしぼりこむという構造だと思う。
+
+
+とすると、もしもこの形を作うならば、sergusni (照明されるもの) を pikapikapika でしぼりこむという形で、sergusrpikapikapika とし、さらに gau をつけて、
+lu la .taman. noi larske balcu'e gau sergusrpikapikapika li'u といった形になる気がする。
+________________
+gusni kantu:
+何をするかは本文で説明しているので、題名はそのままで良さそう。
+[bt]良国重城:
+英語版の辞書だと balcu'e = banli zei ckule
+
+
+意味的にも空間的な「大」よりももっと抽象的な「大」なので banli のほうが良さそう。
+________________
+gusni kantu:
+ba'o stika
+[bu]nalteon:
+ckule zei dinju
+[bv]nalteon:
+nunctuca zei kumfa
+[bw]nalteon:
+lanli zei kumfa
+[bx]nalteon:
+nenri zei klaji
+[by]nalteon:
+klaji zei tergu'i
+[bz]nalteon:
+bartu zei junla
+[ca]nalteon:
+rapli zei dirce
+[cb]nalteon:
+gunka zei cmima
+[cc]nalteon:
+ka zei panra zei claxu
+________________
+良国重城:
+kamni'o: ka cnino でも良さそう
+________________
+gusni kantu:
+ここでの意味はむしろ ka zei panra zei claxu の方が正確
+[cd]nalteon:
+la .taman. ke larske bracu'e
+[ce]良国重城:
+pe -> vu'o pe
+
+
+論理的または非論理的に接続された sumti 全体を関係節(句)で修飾するには vu'o が必要。
+________________
+gusni kantu:
+sumti は接続していない。tanru内の接続。vu'oは不要。
+________________
+良国重城:
+確かにそうですね。tanru の面白い使いかたですね。
+[cf]nalteon:
+.kaminogen. kuldi'u
+[cg]良国重城:
+noi kuldi'u と pe la .taman. ...
+のふたつの関係節(句)を、ひとつの sumti (la .kaminogen.) につけるためには zi'e が必要。
+
+
+vu'o pe la .kaminogen. noi kuldi'u zi'e pe la .taman. noi larske balcu'e
+________________
+gusni kantu:
+[多摩美術大学[上野毛校舎]] なので、並列よりも ku'o で切るほうが適切
+
+
+ku'o を挿入した
+________________
+gusni kantu:
+報告：
+la .kaminogen. noi kuldi'u ku'o pe la .taman. noi larske balcu'e
+これはcamxesでエラーになる。
+kaminogenをbroda に変えるとエラー回避
+新文法なら kaminogen でもエラーにならない？
+[ch]良国重城:
+fi'o simxu selfri be so'i fityzu'e guncmi: これだと「たくさんのスタッフの相互的体験として何かがあり、」といった感じ。
+一番の問題は selfri の x2 が so'i ... guncmi なので、原文にある「...との」に含まれる「たくさんのスタッフ」と私とが一緒に経験したという意味がなくなってしまう。
+
+
+また、simxu だとお互いにといった感じなので、kansa (一緒に) のほうが良さそう。
+
+
+さらに、sumti を取らない法制を使うと、zo'e の bridi に対する関係の説明として「体験」という関係を指定していることになる。
+
+
+つまり、「se ka'a ...」が目的地として何かを持ち、... する、というのと同様に、体験として何かを持ち ... するといった意味になる。
+
+
+この場合、そうではなく、「体験」という object が「通して」という関係によって bridi にくっついているので、以下のほうが良さそうだ。
+
+
+ただし、日本語の意味をたとえば「上で言ってきたことを体験として、... を試みる」というように意訳するのであれば、現在の構造でも問題ないとは思うが、
+それにしても「通して」という関係性が消えてしまうぶん、いくぶん vague になる。
+
+
+試訳:
+
+
+.i ta'i lo nu lifri fi'o kansa so'i sezmukyzu'e guncmi
+「多くの自我的動機的行為的の仕事的構成員と一緒にする経験というやりかたで」
+________________
+gusni kantu:
+ほぼ採用して変更済
+va'o lo se lifri be fi'o kansa so'i mukyzu'e guncmi
+[ci]良国重城:
+lo basycau nunji'e pluka
+ここらへんは日本語の解釈の問題なので、どちらでもいいと思いますが、「かけがえのない(生の悦び)」と僕は読みましたが、「(かけがえのない生)の悦び」の可能性もありますね。
+前者なら lo basycau ke nunji'e pluka  となりますが。
+________________
+gusni kantu:
+後者として保持
+[cj]良国重城:
+ja'e ku は ja'e zo'e と同じ意味だと思う。
+つまり、何かを結果として、という意味になり、文全体としては、むしろ何かの原因といった意味になる。
+
+
+ここは .i ja'e bo が良いと思う。
+CLL 10.23 に X .i BAI bo Y = X BAI le nu Y とある。
+
+
+ただし、この場合、前の文の結果として次の文が来るので、わずかにもとの文意とはずれるが、前の文が「試みる」なので、試みることの結果として、オリジナリティーあふれる教室点滅に終わった、というのは意訳としては問題ないと思う。
+
+
+より日本語に忠実に(つまり、より曖昧に)表現したければ、se ja'e ku を使えば、「何かを結果のもととして」あるいはよりわかりやすく、ただし不正確に言うならば「何かを原因として」と言える。
+________________
+gusni kantu:
+seja'eku を採用
+[ck]良国重城:
+ba'o ではなく、pu'i を作った理由は何ですか。
+pu'i の意味が今いちつかめないので。
+________________
+gusni kantu:
+「実施」は「潜在的に可能性があったことを実現させる」ということを表していると思う > pu'i
+[cl]良国重城:
+「他者との」は「共有」にかかっていて、「共同幻想」にはかかっていない。
+また普通に「他者」と言う場合には lo drata かと思う。lo frica だと「異質な者」といった感じ。
+
+
+試訳:
+.i ba'o finti fo lo si'o ponse co kansa lo drata .e lo kansa sidbo
+________________
+gusni kantu:
+drata を採用。kanpo'e と te kansi'o の x1 を lo drata とすれば、意味上の問題はない
+________________
+良国重城:
+.ie
+[cm]良国重城:
+一元: pa lo jungo rupnu
+「(お金の)一中国単位」といった感じ
+[cn]良国重城:
+中国の成都市: lo jungo .tcend. tcadu
+[co]良国重城:
+se va'u mi (利益者を私として)
+と訳した。
+しかし、これだと「してくれる」との訳し分けができない。
+使役の意味をいれたほうが良いか。
+
+
+=> .i'o を使ってみた。
+ただ、.i'o のニュアンスがまだつかみきれてはいない。
+.i'o nai がねたみの意味であることから、ねたみの逆の意味ということになるのだろうか。
+
+
+=> .i'o の意味がつかみかねるので、よりわかりやすい se va'u mi にもどす。
+________________
+gusni kantu:
+gau nenri muvdu se va'u mi > muvduは不要? gau nenri [.i'o]
+気体の移動を強調したい場合は
+lo viska mo'i ne'i lo slasi dakli gau vasxu [.i'o]
+________________
+良国重城:
+ki'e
+確かに、そうですね。
+直しておきます。
+[cp]良国重城:
+積極的に: se tai lo ka to'e cando
+(動く物の持つ性質のような形で)
+
+
+これはもっといい言い方がないかな?
+[cq]良国重城:
+観客を誘導する: lo viska cu gau frati (見る人に反応させる)
+
+
+「誘導」の持つ方向性のようなものを表現しきれてない気もする。
+gau frati lo se djica なら「望むようなやりかたで反応させる」みたいになるか。
+[cr]良国重城:
+自然発生的に: se tai lo rarna
+(自然という形で)
+[cs]良国重城:
+同額で売買する: mi fo da vecnu gi'e te vecnu
+私が da という値段で売りかつ買う
+[ct]良国重城:
+中国の上海: lo jungo .canxain. tcadu
+[cu]良国重城:
+ニンジン: najgenja
+narju + genja (オレンジ色の根)
+[cv]良国重城:
+ブロッコリー: brukobli
+burcu + kobli (ブラシ的な葉菜)
+bruko'i でもいいけど、brukobli だとブロッコリーと音が似てて面白い
+[cw]良国重城:
+タマネギ: bolsluni
+bolci + sluni (球体のネギ)
+[cx]良国重城:
+lo viska だけでも一人一人の意味はある。つまり loi ではなく lo を使っている時点で個々にという意味となる。しかし、「一人一人」というのをより強調して訳したい。そこで群を作ってそれを個にもどしてみた。lu'a loi viska と。
+
+
+=> より普通の表現として、 ro lo viska とする。
+________________
+gusni kantu:
+観客の群れから抽出した個が「一人一人」の意味になるかどうか、わからない
+
+
+たぶん ro lo viska と言うとロジバンらしい表現になる
+（ほかの人とも要相談）
+________________
+良国重城:
+観客全員とはかぎらないので、ro は使いにくい気がする。
+
+
+「一人一人」という言葉は副詞的で、それが無かった場合も意味が変わらないと思う。つまり、冗長な表現。
+それを表してみた。
+
+
+lojban の lo broda が複数の broda を表す場合、すでに「それぞれに」という意味が含まれているというところを出発点とした。
+________________
+良国重城:
+より、意味に厳密に考えてみると、「観客一人一人」という意味は、lojban で言うところの lo viska に2人以上という意味を足したものと言える。
+ので su'o re lo viska が意味的には正確と思われる。
+
+
+ただし、「一人一人」を強調として取ると「それぞれ別々に」と解釈して、se tai lo ka tolxre とか、かな。これはあまり自信がないな。se tai の意味が今いちつかみきれていないのと、「別々に」は「混合物の反対のものが持つ性質」なのかどうかよくわからない。
+
+
+あるいは、se tai to'e gunma とか。se tai na'e gunma のほうがいいか。
+
+
+しかし、ここでは si'u が se tai na'e gunma なので、
+fi'o sidju be se tai na'e gunma lo viska cu terxra fi lo morji kacma pixra となる。
+すこし長過ぎる気もする。
+
+
+「冗長表現」として解釈するか、「正確さ」を取るか、「強調」として解釈するか。
+________________
+良国重城:
+ro lo viska が新しい解釈でどういう意味になるのかを考えた。
+たとえば、re lo ci viska は3人の観客のうちの2人という意味だが、新解釈においては観客は3人だけという意味にはならない、ということだと思う。
+つまり、たくさんいる観客のうちの3人を抽出して、さらにそのうちの2人ということだ。
+
+
+とすると、ro lo viska は、
+たくさんいる観客のうちの何人かを取り出して、そのうちの全員という意味で、問題なく使えるように思う。
+
+
+ただ、英語の each にあるような「全て」の意味は日本語の「一人一人」には無いので、すこしひっかかるところがある。
+[cy]良国重城:
+gusyvelvei: lujvo フィルム
+gusni + ve vreji より、光の記録媒体という意味合いで
+[cz]良国重城:
+braxra: lujvo ポスター
+「大きい絵」より
+[da]良国重城:
+模索する: troci co djuno ...
+[db]良国重城:
+lojban では状態と動作の境界が曖昧なところがある。つまり mi te preti で「私は質問する」の意味と「何かが私の質問である」の意味とを表せる。とすると、vreji は「何かが記録である」の意味と「何かが記録される」の意味との両方を表せると考えて良いと思われる。動作であることを明示するために gau を付けた。
+
+
+=> gau は消去
+=> co'a によって、記録されていない状態から記録されている状態への変化を表現
+________________
+gusni kantu:
+gauは動作主を想定している
+
+
+状態か瞬間的かという区別ならZAhO類でできる
+co'a condi vreji
+________________
+良国重城:
+たしかに、この場合、動作主というものは想定されないので、すくなくとも gau は消去したほうが良さげですね。
+________________
+良国重城:
+記録が「深い」というのはある種の文化的な比喩のように感じられたのでより中立的な mutce を使ってみた。
+[dc]getgot78:
+パフォーマンスヴィデオ zukte + skina ?
+________________
+良国重城:
+今回の翻訳では lo tigni skina で統一しようか、という流れ。
+lo nu tigni が lo nu jarco zukte とほぼ同じというのが僕の考え(場所構造等は違うが)。見せるための行為を lo nu tigni と考える。
+[dd]良国重城:
+どういう意味かよくわからない。何かのもじりなのか。
+とりあえず「ヤンキー」の部分は固有名詞として訳しておくことにする。
+________________
+良国重城:
+「ヤンキー」は「不良」という意味とのことなので、そのように訳そう
+________________
+良国重城:
+英語版の辞書で outlaw は flanaltinbe なので、とりあえずそれを使うおうかと思う。
+[de]良国重城:
+パフォーマンス: lo se zukte
+としようかな
+
+
+fi'o vreji lo se zukte
+行為を記録とする、ということ。
+________________
+良国重城:
+それよりも、se tai lo se zukte のほうがいいか。
+「行為という形で」
+[df]良国重城:
+黒板: rokpisterci'a
+[dg]良国重城:
+チョーク: rokpinsi
+[dh]良国重城:
+新聞: djekarni
+[di]良国重城:
+台風被害: lo .taifun. vilti'a tolprali
+[dj]良国重城:
+zenba の意味
+[dk]良国重城:
+「コミュニケーション」を lo ka cusku simxu  (伝達しあう集合の持つ性質)と訳した
+________________
+良国重城:
+lo ka jikca simxu (交際しあう集合の持つ性質) のほうが良いだろうか。
