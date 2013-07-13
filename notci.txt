@@ -8,6 +8,10 @@
 		spell check ができる、等々]
 
 [iocikun.2013-07-13: github の edit の zen mode も便利。
-         tab が使えないのが(僕にとっては)問題だけど、このコメントは github で
-        直接 edit した場合にどんな感じで使えるのかの test。
-        この機能をうまく使えば、掲示板的に使えるかもしれない]
+	tab が使えないのが(僕にとっては)問題だけど、このコメントは github で
+	直接 edit した場合にどんな感じで使えるのかの test。
+	この機能をうまく使えば、掲示板的に使えるかもしれない]
+
+[iocikun.2013-07-13: それぞれのプロジェクトにそれぞれの notci.txt を作る。
+	今の niwa/notci.txt は niwa/messages.txt に移動し、
+	project niwa に関する伝達事項は niwa/notci.txt ですることにしよう]
