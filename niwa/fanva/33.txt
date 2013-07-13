@@ -1,0 +1,148 @@
+33
+水たまりAを水たまりBに移しかえる [Limna]
+2012, 2面ビデオインスタレーション (各11min02sec)
+東京・新宿の路上の水たまりを、2011年の東日本大震災の影響で破損した福島第
+一原子力発電所から20km圏内にあり、一時的に警戒区域に指定された福島県双葉
+郡楢葉町へ移動させる。全村避難させられた楢葉町は、2012年夏に警戒区域を解除
+され往来が可能になったが、放射能の不安やインフラの壊滅的ダメージにより戻
+ってくる市民は未だ少なく、往来がない路上には雑草が茂るばかりである。東京か
+らさほど遠くない地域の現実といかに向き合いかと問う時、[a]関わりを持とう
+としても部外者として消去されてしまいそうになる自分には、路上の水たまりく
+らいしか移動させられないのではないか? という思いから出発している。[b]輸
+送物の残骸である廃段ボールを張り合わせて立方体を作り、その中に2面の映像
+を投影したが、床面のわずかな隙間を残して入り口が塞がれているため、鑑賞者は
+作家と同様地面を這いつくばるような姿勢にならないと作品が見られない構造
+になっている。[c]
+ni'o cici mo'o lu .i lo djacu senta xi abu cu gau muvdu lo djacu
+senta xi by li'u
+
+de'i li renopare lo relplita vidni ke punji larcu to ro da mentu be
+li papa pi nore ju'u xano toi
+
+.i lo djacu senta be fi'o se cpana lo klaji pe la tokion ce'e la
+cinjuk. cu gau muvdu la nara'amatcin. noi jdice lo du'u ke'a zasni ke
+kajde tutra zi'e noi li su'e reno cu kilto se mitre lo ke'a ni darno
+be le fukuciman. pamoi ke ratni nejni ke dikca fanri noi le stuna
+gugdejupu ke barda terdi bo desku pe de'i li renopapa cu xlura ke'a
+le za'i spufu .i la nara'amatcin. noi ro lo ke'a xabju cu rivbi muvdu
+zo'u ca lo crisa be de'i li renopare ge binxo na'e lo kajde tutra gi
+lo nu klama cu cumki .i ku'i so'u xabju prenu se xruti mu'i lo nu
+dunku be lo nu dirce kakne be'o e lo nu mulno daspo lo jmive jicmu ku
+.ije lo cilce srasu cu ze'u banro po'o fi'o se cpana lo klaji noi
+ji'i no da klama .i va'o lo nu preti lo du'u ta'i ma kau se nabmi lo
+fatci pe lo naldu'e darno be la tokion be'o foldi ku lo nu lo
+sevzi[d] cu canci ba'a gau zo'e zo'u se krasi lo se pensi no'u xu kau
+lo djacu senta be fi'o se cpana lo klaji be'o gau muvdu e'e po'o .i
+lo vikmi bonjarple poi ka'a temfesti pe lo benji ge gau pencu jorne
+gi te zbasu lo kubli ije ne'i ri lo tivni pe lo re fliracu cu renro
+gusni jarco .i ku'i lo ta stura zo'u ri'a lo nu da'a so'u lo nenri
+pluta pe lo cpana cu ganlo kei te tai lo finti ku lo zgana cu tarmgau
+fi'o simsa lo sefta muvdu pe lo tumla[e] gi'a na ka'e zgana
+
+---co'a pinka---
+[a]良国重城:
+試訳:
+
+va'o lo nu te preti lo du'u ta'i ma kau se nabmi lo fatci pe lo na'e
+mutce darno be la tokion be'o foldi
+
+「どのようにして」を ta'i ma kau (どのような方法で、どのようなやりかたで
+) とし、
+「X が Y に向かい合う」を Y se nabmi X (X は Y の遭遇する問題である)
+とした。
+
+「どのようなやりかたで、... の現実を問題とするか」
+といった感じ。
+
+もっと意訳して「... のために何ができるか」とするとより簡単に訳せるが。
+________________
+getgot78:
+より、こなれた訳だと思ったので、ta'i ma kau se nabmiは使わせていただきます。
+なおlo nu te pretiではなくlo nu pretiでいいのでは?。teで交換されるのは
+pretiの第1 項の「質問文字列」と第三項「質問者」で第二項は「題目」のま
+まなので、不要の気がします。
+________________
+良国重城:
+.ie
+確かにそうですね。te は不要です。
+[b]良国重城:
+試訳:
+
+.i la'e dei se klasi lo se pensi be zo'e goi ko'a bei va'o lo nu te
+preti lo du'u ta'i ma kau se nabmi lo fatci pe lo na'e mutce darno be
+la tokion be'o foldi be'o no'u lo du'u xu kau ko'a noi srana .ai gi'e
+ku'i gau canci se tai lo na srana cu kakne lo nu po'o gau muvdu lo
+djacu senta be fi'o se cpana lo klaji
+________________
+良国重城:
+「自分」の訳しかたとして、lo se pensi be zo'e goi ko'a によって考えてい
+る主体を ko'a に代入し、その後の関係節 srana .ai gi'e ku'i gau canci の
+x1 としている。
+________________
+getgot78:
+lo sevziが自分の訳として適切かどうかを脇においても、zo'eをko'aに割り当て
+て「自分」とするのは、少々凝りすぎな気がします。何か特殊なことを言い表そう
+としているような感じを受けます。lo sevzi自体のことも含めて、さてどうしたも
+のか・・・。
+________________
+gusni kantu:
+「関わりを持とうとしても部外者として消去されてしまいそうになる自分には、
+路上の水たまりくらいしか移動させられないのではないか? 」という文の話し
+手を指すので、単に mi とすれば、この「自分」の指示対象を正確に表したことに
+なる。「おれ」でも「わたくし」でも mi と訳すのと同じことで、必ずしも訳し分
+ける必要はないと思う。
+________________
+良国重城:
+僕も mi でいいと思います。
+[c]良国重城:
+試訳:
+
+te tai lo finti lo zgana cu vreta se tai lo nu sefta be lo tumla be'o
+klama gi'a na ka'e zgana
+________________
+良国重城:
+「姿勢」を loj訳できなかったので、より具体的に vreta (もたれる、横たわる)
+を使った。
+[d]良国重城:
+lo sevzi は「自我」や「自己イメージ」といった意味なので、日本語の機能語
+的な「自分」や英語の oneself には使えないはず。
+この意味で使っているのは、多い気がするがこれは誤用と思う。
+
+lo sevzi cu canci と言うと、「自分を見失う」みたいな感じ。
+あるいは「本当の自分を隠す」といった感じ。
+
+ここでの表現はかなり曖昧なものがあるが、「私が無視される」といった感じな
+ので「自我」や「自己イメージ」といった感じではない。
+
+むしろ、ここで使われている「自分」は内容語というよりは、「...ということ」
+や「...というもの」のような形式的な語と思われる。
+[e]良国重城:
+これだと、「陸に関する表面的に動く物と類似したやりかたで」となる。
+だいたいいい気もするが。
+________________
+getgot78:
+この場合、一つは「陸に関して表面的に動く」が「這いつくばる」の訳でいいか
+? ということかと思います。あと、「姿勢」という言葉も定訳が特にないので
+simsaでごまかしていますが、いい訳語があれば変更するのはやぶさかではあり
+ません。たぶん、ロジバンの語彙不足を熟語的表現でしのぐか、語彙を作るかという
+ことですよね。
+________________
+gusni kantu:
+姿勢は lo se tarti あるいは lo seltra と言えます。これには体が動く場合も
+含まれますが、静止している状態であることを明示したければ lo cando
+seltra などでも良いと思います。
+案:
+fi'o seltra lo za'i pe'a cadzu lo tumla lo betfu
+「地表を腹で歩くような状態を姿勢として」
+________________
+gusni kantu:
+「鑑賞者は作家と同様地面を這いつくばるような姿勢にならないと作品が見ら
+れない構造になっている」という論理接続表現に組み込むなら、fi'oより
+selbri扱いの方が良さそうですね。
+stura tai lo za'i lo zgana ku ga tarti sei lo finti ku tamsmi lo za'i
+pe'a cadzu lo tumla lo betfu gi na'e ka'e zgana lo larcu
+---mo'u pinka---
+
+
+
+

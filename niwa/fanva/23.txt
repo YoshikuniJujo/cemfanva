@@ -1,0 +1,98 @@
+23
+309words 36種類の言語に翻訳した作品集を出版する [萩原]
+
+2012 プロジェクト
+
+2004年からのすべての作品プロジェクトを36種類の言語に翻訳した作品集を発
+行する。本来、言語は特定の地域間で意思疎通を図る為の道具として発明されたが、
+グローバリズムが加速する現代社会では、多くの先進国で外国語であるはずの英
+語が平均的に通じるようになった。そのグローバリズムの覇権主義に対抗して、ど
+の国にも属さない世界共通語としてのエスペラント語などの人工言語の開発も
+されてきた。この作品集では、地球上に無数に存在する言語の中から無作為に選ん
+だ36種類の言語に翻訳する。ひとりの読者が必要とする言語以外にも、無数に翻訳
+される世界が広がっていることを証明することは、きっと私たちの抱える空想的
+なアイデンティティーに対する回答になりえる。
+協力: mirror publishing
+
+ni'o reci mo'o
+lu ckupra lo lardai liste poi(*1) xe fanva fi lo cixa bangu li'u
+(*2)
+.i ckupra lo liste be lo'i ro lardai gungunma(*5) be ba'o(*4) la
+renonovonanc.(*3) ku poi xe fanva(*6) fi lo cixa bangu(*7)
+.i lo bangu sei krasi se finti zo'e lo nu lo'i stuzi cu simxu lo nu
+casnu
+.i ku'i va'o lo cabna kluce'u noi ca'o gugykruca ku bu'u so'i
+purfarvi gugde [ap]lo glibau no'u le fange bangu ca'o fadni se jimpe
+.i fi'o se fapro le nu gugykruca bapli turni [aq]lo runbau be mu'u la
+.esperantos. pu ca'o se finti
+.i lo vi lardai liste cu xe fanva fi lo cixa bangu poi cunso se cuxna
+fi lo du'e bangu be bu'u lo terdi
+.i lo nu jarco lo nu le munje be lo ci'i bangu co drata be lo bangu
+poi lo pa tcidu cu nitcu cu ca preja kei se danfu .ia le xanri sevzi
+poi ma'a ponse
+.i se sarji zoi gy. mirror publishing gy.
+
+---co'a pinka---
+[ap]Masato Hagiwara:
+		先進国 (purci farvi gugde)
+		cf. 発展途上国 cabyfarvi gugde
+	Masato Hagiwara:
+		先進国 favli'egu'e 発展途上国 nalfavli'egu'e
+[aq]Masato Hagiwara:
+		グローバリズムの覇権主義
+
+*1: poi か noi か:
+	考えれば考えるほどわからなくなるところだ。ただ、「作品集を出版する」とだけ
+	言った場合に、すでにひとつのものにしぼりこまれていると考えれば noi だと
+	思う。「赤い男を見て」と言うとき、その場には黄色い男しかいなかった場合につ
+	いて考えてみる。ko catlu lo nanmu poi xunre と言った場合に言われたほうは、
+	no da zvati と答えると思う。それに対して、ko catlu lo nanmu noi xunre と言
+	った場合には答えは、ny. na xunre となると思う。この場合、たとえば、この作
+	品が 36 の言語に訳されていなかった場合に、素直な反応は、「そんなものはな
+	い」ではなく「この作品は 36 の言語に訳されてないよ」だと思うので、noi の
+	ほうが良さげだ。
+
+*2: 「2102 プロジェクト」が訳出されてない?:
+	nalteo さんのところで、「プロジェクトの ...」において finpla を seltau
+	とした tanru を使っていた。「プロジェクト」ってのはここで使われてる使い
+	かたでは何になるのだろうか。計画されて実行される物と考えると te platu な
+	のだろうか。finti をつける必要はあるだろうか。
+	とりあえず、僕としては de'i renopare se tai lo te platu を提案。
+
+*3: la renonovonanc.: -> lo se detri be li renonovo
+	2004年ってのは「年」につけた名前でしかないと言われれば、
+	そんな気もしますが。detri を使ったほうが意味がはっきりします。
+
+*4: ba'o la renonovonanc.: ba と ba'o は BAI として使ったときには同意では?
+  mi ba'o citka (私は食べ終わった)
+  というのはつまりこの bridi の時点が citka という行為よりも後ということ。
+  つまり、la'e lo bridi cu balvi lo nu citka といった感じ。
+  それに対して mi ba citka (私は食べるだろう)
+  というのはつまりこの bridi の時点が cabna よりも後ということ。
+  つまり、la'e lo bridi cu balvi lo cabna といった感じ。
+  ということは、ba と ba'o の違いは、直接、selbri についたときに、
+  比較の対称とするものが lo cabna なのか、lo nu citka なのかが違うだけで、
+  BAI 的な使いかたをしたときには違いは無いはずだ。
+  ここらへんの考察を /niwa/others/tense.txt で行っている。
+  唯一違いがあるとすれば ba'o da では da が時間的な幅があることが暗示されて
+  いるくらいだが、そう解釈すると la renonovonanc. に幅があることが暗示される
+  ので、ここでの、むしろ点(起点)としての時間を表現している「2004年から」の
+  訳として余計不適切かと。
+
+*5: プロジェクト: lo gungunma -> lo te platu
+  この場合、「仕事の(結果の)群れ」よりも「計画されて行われること」のほうが
+  適切かと思われる。
+  しかし、lo te platu とした場合、以降の be ba'o ... は使いにくい。
+
+*6: fanva: 実際に翻訳されているのはプロジェクトそのものではなく
+  「プロジェクトの説明」
+
+*7: 上記を考慮した試訳
+  .i ckupra lo liste be lo'i ro ve ciksi be fi lo lardai te platu poi
+  gasnu ke'a ba lo se detri be li renonovo be'o poi fanva fi lo cixa bangu
+  fu ke'a
+---mo'u pinka---
+
+
+
+

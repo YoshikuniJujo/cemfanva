@@ -1,0 +1,163 @@
+28
+首相官邸前から富士山頂上までデモ行進する [nalteo]
+2012, 青焼き印刷に油性マーカー (16枚組で各594mm x 841mm)
+同プロジェクトのヴィデオフッテージから抜き出された静止画像を、図面印刷用
+の青焼きにし、さらに油性インクでドローイングを施した。プロジェクトの過程で
+浮かび上がった問題意識を、言葉としてそのまま定着させている。経年劣化し
+て青焼きは退色していくが、言葉だけが残っていく。
+ni'o rebi mo'o
+lu ja'odzu fe'eco'u lo .fujin. cmana stedu fe'eco'a lo tertrube'e
+gubzda li'u
+de'i li renopare
+fi'o .diazon. blapri jo'u jacre'ipenbi to paxa mei fi lo vi'a miltre
+be li musovo fa'u bivopa toi
+.i cartu bredi blapri fi lo cando pixra po'e lo mintu finpla
+skina gi'e te jmina lo jacre'ipenbi xraci'a
+.i to'e stika punji lo kamnamsanji pe ra'i lo finpla pruce tai lo
+valsi
+.i lo blapri ganai zenba lo temci gi jdika lo skari fi'o stali lo
+po'o valsi
+
+---co'a pinka---
+[af]nalteon:
+blanu zei prina
+prindiazo
+[ag]nalteon:
+grasu zei penbi
+[ah]nalteon:
+ka zei nabmi zei sanji
+[ai]nalteon:
+「印刷用」を訳すなら
+cartu bredi blapri
+
+[guskant.2013-07-10: raspenbi (2箇所)  > 油は関係ない。有機溶剤に色を溶
+かしたインクを使う。耐水性に着目し jacre'ipenbi < djacu zei renvi zei
+penbi に変更
+miltre の前に vi'a を追加]
+油性マーカーは親油性のインクを使っているから「油性」と呼ぶのだと思って
+いましたが、ちょっと調べただけでは、その事実が出て来ませんね。親水性と親油性
+で訳し分けられるかとも思いますが。でも、一番の違いは「耐水性」の違いなので、
+上記の訳で良さそうですね。(重城)
+*1: stedu: stedu だと pe'a があったほうが良いように思う。
+しかし、それよりも lo cmanfuji galrai (フジ的山的な最も高いもの)のほうが
+良いように思う。
+[guskant.2013-07-12: steduの定義自体が漠然としている。[1.感覚器が集中す
+る部分 > 2.神経中枢的なものがある部分 > 3.標準的な進行方向の先端 >
+4.標準的な状態で上の部分]という条件の優先順位でsteduと呼ぶような気がす
+る。熊のぬいぐるみをcribeと呼べるなら、富士山頂もsteduと呼んで良いだろう。ゴ
+ルフクラブの丸い部分は、さすがにpe'aが要るような気がする。
+galraiの方が意味が狭められるが、steduでも正しいので保持]
+*2: ja'odzu: この文だと ja'odzu の x2 が lo tertrube'e zdani になって
+いる。
+共有されている lujvo や ...gau や ...rai 等の一見して場所構造がわかる
+もの以外では lujvo の場所構造をあてにしすぎないほうが良いと思う。また、
+ja'odzu の x2 が自然な解釈で目的地になるということもないだろう。よって
+te ka'a lo tertrube'e zdani としたほうが良い。また、そうすると対称性の観点
+からは se ka'a lo cmanfuji ...  としたほうが、美しいように思う。
+[guskant.2013-07-12: lu ja'odzu fe'eco'u lo cmanfuji stedu lo
+tertrube'e zdani li'u を
+lu ja'odzu fe'eco'u lo .fujin. cmana stedu fe'eco'a lo tertrube'e
+gubzda li'u
+に変更。fe'eco'u という元の表現に合わせて fe'eco'a lo tertrube'e gubzda
+とした。 gubzda は31との調整による。]
+
+*3: 上記を考慮した試訳:
+lu ja'odzu se ka'a lo cmanfuji galrai te ka'a lo tertrube'e gubzda
+li'u
+[guskant.2013-07-12:上記返信参照]
+*4: dziao -> xumrdi,azo: もとの文を知らないで lojban だけを読んだとき
+に理解するのは難しいかと。xumrdi,azo のほうがいいかもしれない。また理由は
+わかりません(fu'ivla についてはよく知らないので)が dziao は camxes も
+僕が作ったパーサも通りません。CLL ざっと見たところ type 4 fu'ivla は、
+CCVVCV の形である必要があるようです。dziazo ならいいのかな。これでも
+camxes は通りませんが。以下は type 4 fu'ivla を濫用せずに、type 3 fu'ivla
+や cmene を使ったほうが良いのではという話。
+CLL 4.7 にも type 4 fu'ivla について、 " are used where a fu'ivla has
+become so common or so important that it must be made as short as
+possible"  とあり、今回のような場合に使うべきかどうかは疑問が残ります。
+わかりやすさから言うと、たいていの場合、fu'ivla よりも cmene のほうが上か
+と。cmene のほうがもとの音に近く作れますし。lo .di,azon. blapri のほうが理
+解しやすいと思います。x1 のみを持つ単なる名前であれば cmene を選択するほ
+うが合理的。これは僕個人の考えですが、御一考を。ちなみに「ジアゾ」の本来の発
+音について調べてないので、上記が最適かどうかはわかりません。好みの問題かも
+しれませんが、fu'ivla よりも lujvo か cmene を使ったほうが、文化中立性や
+lojban の独立性を保てるように思います。借用語が多いと、多く借用している言
+語への依存度が高まりそうです。fu'ivla は x2, x3 ...  が必要でなおかつ、固
+有名詞的な広く浅い単語群を作る時に使うのが適切かと。また、そのときにも
+rafsi + r + ...  の形で作るほうが良いかと思います。ちなみに、lujvo に関し
+ては、on the fly で作って良いということが、CLL に明記してあるが fu'ivla に
+ついてはそのような記述は読んだ覚えがありません。
+[guskant.2013-07-12: dziao を diazon に変更。
+ 最低4文字でslinku'i testは通る。例:  anji「漢字」camxesは、CLLに明記され
+ていない母音の連続に厳しく、iaoを許さない。jbovlasteは通る。dzi'auや
+dzi'azoなどにするとcamxesも通る。どちらが正しくチェックしているのか不明。
+ここでは diazonium から取った cmene にしておく(xumrdi,azoは発音しにく
+いので)。]
+
+*5: fa'u は mex 同士を結合するのでこの li は不要。
+li musovo fa'u bivopa
+[guskant.2013-07-12: li musovo fa'u li bivopa をli musovo fa'u bivopa
+に変更]
+*6: mintu: 同プロジェクトの訳として mintu はやや意味的に違うように思う。
+
+-> (la'e) de'u
+もちろん tanru なのだから、どのような関係でもいいのではあり、この mintu は
+ x2 に 29 のプロジェクトを取る、とも言えるかもしれないが、そんなことを言っ
+たら何でも言えてしまう。僕なら、de'u を使うかな。
+[guskant.2013-07-12: 29のプロジェクトを指すとは明記されていない。
+ 28だけを読んでもわかるようにするために、「同種のプロジェクト」であるこ
+とを言わなければいけない。mintuを保持。]
+なるほど、わかりました。(重城)
+*7: finpla: *これは問題ないと思うが後で思い直したときのためそのままに
+してある*
+ [guskant.2013-07-12: je'e]
+以下は後で読み直して消す。
+on the fly で作る lujvo では場所構造が想像しやすく作る必要がある。一番想
+像されやすいのは、tanru と同じ場所構造ということで、この場合 platu の x1
+は agent となる。計画そのものを x1 にしたければ、finselpla とするか se
+finpla としたほうが良いだろう。
+*8: 上記を考慮した試訳: 違いは mintu -> de'u だけ
+.i cartu bredi blapri fi lo cando pixra po'e lo *de'u* finpla skina
+gi'e te jmina lo jacre'ipenbi xraci'a
+[guskant.2013-07-12: コメント6の返信参照。mintu保持]
+*9: no'u -> ne:
+「言語」と「意識」が同一物であるはずが無いので。「言葉として」の「として
+」を訳したいのならば、se tai lo valsi とするか、no'u を使うならば no'u
+pe'a として「たとえ」とする必要があるだろう。
+[guskant.2013-07-12: je'e]
+*10: そのままが訳出されてない: punji -> to'e galfi punji
+ [guskant.2013-07-12: je'e ただし galfi の代わりに stika とする]
+*11: 上記を考慮した試訳:
+.i to'e galfi punji se tai lo valsi lo kamnamsanji pe ra'i lo finpla
+pruce
+[guskant.2013-07-12: punji lo valsi no'u lo kamnamsanji pe ra'i lo
+finpla pruce を
+to'e stika punji lo kamnamsanji pe ra'i lo finpla pruce tai lo valsi
+に変更]
+*12: ga nai temci zmadu について
+これだと「時間的に X が Y より多い」となる。X に経過時間を、Y に色が保持さ
+れている時間を入れれば意味通りになるが、あまりに恣意的に思える。また、ga
+nai ...  gi ...  による論理的な「X ならば Y」ということではなくむしろ
+rinka に表される因果関係と考えたほうが正しいと思われる。また、「...してい
+く」は ba で訳出できるかと。 以下試訳:
+.i ri'a lo nu lo niltei cu zenba ku lo blapri ba skari jdika fi'o
+stali lo po'o valsi
+(「時が流れる」や「時が経つ」を pe'a 的でないやりかたで表現するのはけ
+っこうやっかいだということに気づく。)
+[guskant.2013-07-12: 時間の経過自体は事象の枠組であって事象ではないか
+ら、物理的な因果関係はあてはまらない(原因はアルカリ性の環境や紫外線の照
+射など)。
+jdikaという表現に合わせて、zmaduをzenbaに変更。
+lo blapriをzenbaとjdikaの共通のx1とする。
+lo blapri作成以来の経過時間をlo temciとしてzenba x2 とする。
+接続はpa'agiが良さそうだが、ganaiでも問題ない。
+ganai temci zmadu gi lo blapri cu skari jdika fi'o stali lo po'o
+valsi を
+lo blapri ganai zenba lo temci gi jdika lo skari fi'o stali lo po'o
+valsi
+に変更]
+---mo'u pinka---
+
+
+
+

@@ -1,0 +1,90 @@
+6
+215文字/75words [重城]
+1元であなたの息を買い取ります、誰かの息も1元[cm]で売ります
+2008 パフォーマンス
+中国の成都市[cn]にて、観客に一元であなたの息を買い取ると宣言し、息をビニル
+袋にパックしてもらう[co]。また、その息も誰か欲しい人に一元で売る。同額で売買
+する為に、利益が出ないことは明白であって、ぼくは純粋にやりとりの媒体として
+の役割を演じて、積極的に[cp]観客を誘導する[cq]ことを模索する。いわば自然発
+生的に[cr]出来事を起こす為のパフォーマンス。かわいい女の子の息を売る時に
+は、自然とオークションまで生まれた。終了後、ぼくの息を購入したい学生が殺到し
+た。
+ ni'o xa mo'o
+lu .i .ai vecnu lo do se vasxu mi pa lo jungo rupnu .i ji'a .ai mi
+vecnu lo da se vasxu fo pa lo jungo rupnu li'u
+de'i li renonobi se tai lo se zukte
+bu'u lo jungo .tcend. tcadu ge fi lo viska cu gubni cusku lo nu .ai
+vecnu lo ri se vasxu mi pa lo jungo rupnu gi lo se vasxu lo slasi
+dakli cu gau nenri se va'u mi .i ji'a fe lo bi'u nai se vasxu lo
+djica pa lo jungo rupnu cu vecnu .i ge li'a ni'i lo nu mi fo da vecnu
+gi'e te vecnu[cs] ku no da prali gi ge po'o mi jbini loi canja gi'e
+gasnu lo nu canja gi se tai lo ka to'e cando cu troci lo nu lo viska
+cu gau frati lo se djica .i la'e dei nu zukte fi lo nu se tai lo
+rarna cu gasnu lo fasnu .i ca lo nu vecnu lo melbi ninmu se vasxu kei
+lo nu vecnu jivna pu rarna fasnu .i ba lo fanmo lo tadni poi djica lo
+nu vecnu lo mi se vesxu pu so'i mei klama
+
+---co'a pinka---
+[cm]良国重城:
+一元: pa lo jungo rupnu
+「(お金の)一中国単位」といった感じ
+[cn]良国重城:
+中国の成都市: lo jungo .tcend. tcadu
+[co]良国重城:
+se va'u mi (利益者を私として)
+と訳した。
+しかし、これだと「してくれる」との訳し分けができない。
+使役の意味をいれたほうが良いか。
+
+=> .i'o を使ってみた。
+ただ、.i'o のニュアンスがまだつかみきれてはいない。
+.i'o nai がねたみの意味であることから、ねたみの逆の意味ということになる
+のだろうか。
+
+=> .i'o の意味がつかみかねるので、よりわかりやすい se va'u mi にもどす。
+________________
+gusni kantu:
+gau nenri muvdu se va'u mi > muvduは不要? gau nenri [.i'o]
+気体の移動を強調したい場合は
+lo viska mo'i ne'i lo slasi dakli gau vasxu [.i'o]
+________________
+良国重城:
+ki'e
+確かに、そうですね。
+直しておきます。
+[cp]良国重城:
+積極的に: se tai lo ka to'e cando
+(動く物の持つ性質のような形で)
+
+これはもっといい言い方がないかな?
+[cq]良国重城:
+観客を誘導する: lo viska cu gau frati (見る人に反応させる)
+
+「誘導」の持つ方向性のようなものを表現しきれてない気もする。
+gau frati lo se djica なら「望むようなやりかたで反応させる」みたいにな
+るか。
+[cr]良国重城:
+自然発生的に: se tai lo rarna
+(自然という形で)
+[cs]良国重城:
+同額で売買する: mi fo da vecnu gi'e te vecnu
+私が da という値段で売りかつ買う
+
+[guskant.2013-07-13: タイトル {lu .i .ai...} この .i は何のために？]
+[guskant.2013-07-13: {zukte} （2箇所）> 「パフォーマンス」を tigni にするかどうか]
+[guskant.2013-07-13: {bu'u lo jungo...} 題と区切るために文頭の i が必要]
+[guskant.2013-07-13: {fo da vecnu gi'e te vecnu}={fe zo'e fo su'o da vecnu gi'e te vecnu} なので、息によって異なる値段で売買する可能性を含意する。 {pa da} か {zu'i} の方が良い。]
+[guskant.2013-07-13: {mi jbini loi canja gi'e gasnu lo nu canja} > 「やりとりの媒体としての役割を演じ」なら {mi tigni lo jai va'o canja} あるいは {mi tigni lo jai xebe'i canja}]
+[guskant.2013-07-13: {se tai lo ka to'e cando cu} 「うごめく性質に似て」 > mi が「積極的」なので {.ai} でも良さそう。あるいは {temu'i mi} 「私が動機をもって」]
+[guskant.2013-07-13: {lo viska cu gau frati} > gauがあればcuは不要]
+[guskant.2013-07-13: {vesxu} > {vasxu}]
+[guskant.2013-07-13: {ca lo nu vecnu lo melbi ninmu se vasxu kei lo nu vecnu jivna pu rarna fasnu} 
+- {pu} が nu 内に入っていてメインの selbri が無くなってしまう。 {cu pu} とする必要がある。]
+[guskant.2013-07-13: {ba lo fanmo lo tadni poi djica lo nu vecnu lo mi se vesxu pu so'i mei klama} 
+- {pu} が nu 内に入っていてメインの selbri が無くなってしまう。 {cu pu} とする必要がある。
+- 「殺到」と言っても、実際に往来していないので {klama} は不要か。近づいてくる様子を出すなら {mo'i zo'i so'i mei}]
+---mo'u pinka---
+
+
+
+

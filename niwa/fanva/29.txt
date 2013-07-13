@@ -1,0 +1,140 @@
+29
+首相官邸前から富士山頂上までデモ行進する [nalteo]
+2012, 2面ビデオインスタレーション(各15min25sec)
+毎週金曜日に行われる首相官邸前での原発抗議活動に大きな旗を持参し
+て参加し、その足で富士山の頂上までひとりでデモ行進を続ける。移動するに
+つれて抗議活動の参加者の姿は消え去り、夜を徹して目指した富士山頂は観光客
+で埋め尽くされていた。果たしてこの地球のすべての物事が一直線上に存在
+しているのだろうか? 抗議活動への参加の経験から、抗議の予定時刻を過ぎれば、
+一瞬にして場の一体感は消え去り、あたかも花火大会の帰り道のような様
+相を示すことへの違和感より制作された。
+ni'o reso mo'o
+lu ja'odzu fe'eco'u lo .fujin. cmana stedu lo tertrube'e
+gubzda li'u
+de'i li renopare
+fi'o relplita vidni ke punji larcu to roda mentu li pamu pi'e
+remu toi
+.i brebei lo barda lanci gi'e pagbi'o lo ratnenfanri nunpante be ca'u
+lo tertrube'e zdani bei ca ro mumdei be'o gi'e za'o ja'odzu fe'eco'u
+lo .fujin. cmana stedu
+.i pa'agi klama gi cirko lo pante cmima
+.ibo lo .fujin. cmana stedu noi ru'i lo nitcu cu farna ke'a cu culno
+lo visyvi'e
+.i xukau sirji linji ro fasnu po lo vi terdi
+.i finti fo lo kamranxi pe lo li'i pagbi'o lo nunpante fau lo nu zi
+co'u lo selpla tcika lo vanbi kamgunma cu canci tai lo nu xruti fo lo nunjadypo'a
+
+---co'a pinka---
+[r]nalteon:
+setca zei vidni
+[s]nalteon:
+ratni zei dikca zei fanri
+ratni zei nejni zei fanri
+[t]nalteon:
+bredi zei bevri
+[u]nalteon:
+pagbu zei binxo
+[v]nalteon:
+viska zei vitke
+[w]nalteon:
+ka zei gunma
+[x]nalteon:
+nu zei jadni zei spoja
+[y]nalteon:
+ka zei ranxi
+[z]良国重城:
+fe'e co'u について。
+どちらでもいいのですが、
+富士山頂を目指して、そこに到着した、といった感じを出すのなら、mo'u かなと。
+でも、そもそもの目的地は首相官邸だったので、富士山頂はとりあえずの停止点と
+考えると co'u もありかと思います。
+
+いずれにしても、下に出てくる za'o はいいですね。
+「za'o を使うのは、今でしょ!」
+といった感じがしますよね。
+[aa]nalteon:
+lo .fujin. cmana
+[ab]良国重城:
+法制は bridi に対する関係を表すのだと思います。
+なので、これだと「何かがブリディに対してビデオインスタレーションであると
+いう関係を持っている」という意味になり、「ビデオインスタレーションが何か
+(ここでは表現形式)である」という意味を表せないように思います。
+
+ti salcarce fi'o gerku do
+と言った場合、意味合いとしては、「これはあなたに引かせる犬ぞりだ」という感
+じになるのではないでしょうか。
+
+se tai lo remei se'arvidni としたほうがより標準的かと思います。
+________________
+gusni kantu:
+標準的かどうかわからないが、変える必要も無さそう。
+cusku la'e lu ja'odzu li'o li'u fi'o relplita vidni ke punji larcu
+zo'e
+あるものを2面ビデオインスタレーションとして、「...行進する」を表現する
+ということなので、原文の訳として妥当な表現の1つ。
+________________
+良国重城:
+.ie
+[ac]良国重城:
+metsnidu について。
+pi'e を pi よりも曖昧な小数点として考える、つまり、pi'e 以降の数を不特定の
+値で除するという意味にとらえると、metsnidu ではなく、mentu が使えると思う。
+
+もしも metsnidu を作るなら、むしろ、x2 を分、x3 を秒、として、metsnidu li pamu
+li remu とするほうが有用では?
+
+また「各」を訳出するなら、
+ro da mentu li pamu pi'e remu
+か。
+________________
+gusni kantu:
+ba'o go'i
+[ad]nalteon:
+lo nu cirko lo pante cmima cu dunli lo nu klama kei lo ka zenba
+[ae]良国重城:
+pau nai のほうが標準的かと
+
+.i pau nai xu sirji linji ro fasnu po lo vi terdi
+________________
+gusni kantu:
+paunaiだと皮肉や反語になってしまうが、この文は答のわからない疑問を投げか
+けていて、疑問文であるという意味合い自体は残っているように見える。そうであ
+れば
+[na'e djuno lo du'u] xukau sirji linji...
+の省略形として、この表現は妥当。
+省略していることを明示するなら
+li'o xukau ...
+でも良さそう。
+________________
+良国重城:
+あとでもっと良く考えてみますが、とりあえず、pau nai が皮肉や反語として定義
+されているとしたら、やや文化中立性(あるいは、lojban 内での整合性)に問題が
+あるのではないかと思います。
+ただし、現在、そう定義されているのであればしかたないですが。
+
+単純に疑問文の形を取っているけれど、疑問ではない、という意味で定義されるべ
+きかと思います。
+ここらへんは lojban を改造する必要があるかと。
+________________
+gusni kantu:
+paunai は皮肉や反語だけに限らないが、件の文は疑問の意味を保持しているの
+で paunai とは言えない。
+
+[ponjbogri.2013-07-07: remei se'arvidni を relplita vidni ke punji
+larcu に変更]
+[guskant.2013-07-10: to metsnidu li pamu pi'e remu toi を to roda
+mentu li..に変更
+linjiの前に sirji を追加
+tertrube'e zdani を tertrube'e gubzda に変更(31との調整による) ]
+[guskant.2013-07-11: typo: cmanfunji > cmanfuji ]
+[guskant.2013-07-12: cmanfuji はcmaがcmaluのrafsiであるため、「山」の意
+味が入らないようだ。代替案として出されているlo .fujin. cmanaに変更
+lo nicte stodi farna ke cmanfuji stedu cu culno lo visyvi'e を
+ lo .fujin. cmana stedu noi ru'i lo nitcu cu farna ke'a cu culno lo
+visyvi'e
+ に変更。意味が取りにくいという指摘があった。]
+---mo'u pinka---
+
+
+
+

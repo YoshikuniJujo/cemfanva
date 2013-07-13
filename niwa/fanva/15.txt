@@ -1,0 +1,210 @@
+15
+228文字/68words [萩原]
+デモ行進を逆走する
+2011 パフォーマンスのドキュメントビデオ(10'01 min), ビデオ画像を印刷し
+た布(2600mm x 1450mm)
+新宿で行われた大規模な反原発デモ行進の先頭から最後尾までを、ひたすら
+[bh]一人で逆走する。一人の男がデモの主張とは何ら関わりをもっていないかの
+ような素振りで人々の中を逆走する過程で得られる、参加者のささいな表情やメ
+ッセージを捉えていく。そうすることで集合体の現象としてのデモを、参加者個人
+のレベルに解体することを試みた。あるひとつの政治的なメッセージを掲げたデ
+モ行進を逆走することで、それすらもう一つのデモ行進となり得るのではないか
+という発想の基に制作された。
+ni'o pamu mo'o
+lu cadzu sefa'e lo nunja'odzu [bi]li'u
+de'i li renopapa fi'o vreji lo nuntigni(4) skina to goi(5) mentu li
+pano pi(6) nopa toi .e lo bukpu poi vreji(3) prina to lo(7) vi'a
+miltre li rexanono fa'u li pavomuno toi (1) .e lo bukpu poi vreji
+prina to lo miltre li rexanono pi'u li pavomuno toi (2)
+.i nunkansa(11) cadzu(8) lo krasi(9) bi'o lo fanmo(10) sefa'o lo ke
+toltugni(12) ratdicfanri(14) [bj]ke'e barda nunja'odzu bu'u la
+cinjukus(13). (15)
+.i viska lo ralci se cusku je nunfirsku(16) be loi se cuntu poi se
+cpasu ca lo nu le pa nanmu goi ko'a cu fadri(17) cadzu seru'u lo
+prenu gi'e(18) tarti lo nu ko'a na ckini lo nunja'odzu selcku(19)
+.i ta'i lo nu go'i(20) ku troci lo nu porpi(21) le nunja'odzu noi
+gunma fasnu lo se cuntu sevzi klani(22)
+.i se finti ji'u lo sidbo noi du'u lo nu cadzu(23) sefa'e lo
+nunja'odzu poi jarco lo pa jecta notci kei ji'a cu(24) drata
+nunja'odzu
+
+---co'a pinka---
+[bh]Masato Hagiwara:
+どう訳す?
+________________
+gusni kantu:
+ru'i po'o ku fi'o pamei [vo'a/ku]
+[fatne farna cadzu/fa'a lo fatne cu cadzu] ?
+[bi]Masato Hagiwara:
+デモ(行進)  nunja'odzu (nu jarco cadzu)
+[bj]Masato Hagiwara:
+原発 = ratdicfanri (ratni dikca fanri)
+
+*1, 2: ダブっている。訳の候補の消し忘れ? 1 の vi'a miltre ...  fa'u ...
+ のほうが良さそう(全体への提案にも書くべきか)
+*3: poi vreji prina の vreji は必要? ここらへんは好みの問題なので、訳者
+の判断にまかせますが。
+*4: 「パフォーマンス」に tigni を使うか zukte を使うかは悩ましい問題で
+すね。
+「行為」なのか「演技」なのか。「見せるための行為」をすべて演技と考えるな
+らば tigni のほうが良さそうではあります。lo nu tigni = lo nu jarco
+zukte と考えることができるか。また、nu の必要性ですが、あったほうが意味が明
+確になりますが無くてもいい。「正確さ」と「簡潔性」のトレードオフがありま
+す。ただし、この場合、tanru を選択した時点で「正確さ」は大きく損われています。
+よって「簡潔性」を重視して、nu を使わずに、lo tigni skina が良いかと思いま
+す。僕のところと guskant さんのところでは lo zukte skina を使ってますが、
+僕としては、lo tigni skina のほうに傾きはじめています。guskant さんの意見
+も聞いて、zukte とするか、tigni とするか、また nun をつけて lujvo 化するかど
+うかについて考えてみたいと思います。(これも後で全体への提案に移動させる
+)
+*5: typo? goi -> go'i? そして go'i だったら、lo go'i cu mentu ...  とい
+うこと?
+上の解釈にそって、論を展開します。まず、go'i の定義から。go'i は直前の
+*sentence* bridi を repeat します。「直前の bridi」ではありません。CLL
+7.6 の例文6.13 の直前の " no'a" , unlike the other members of the
+go'i-series, can repeat non-sentence bridi が根拠です。そして、ここでは
+to ...  toi のなかで使われていて、その to ...  toi は文のなかにうめこま
+れています。よって、ここでの go'i は前の段落の文を指すことになります。よって、
+nei を使うことになりますが ...  (それでもうまくいかないという話が続く
+)
+上の論は goi が go'i の typo という前提での話ですが、それよりも noi の
+typo と考えた ほうが考えやすいと思い、途中でやめました。to のなかで noi を
+使った場合にどういう意味になるかは、僕にはよくわかりません。to が日本語で
+(たとえばこんなふうに)かっこを使うのと同じように使えるのならば、to noi
+mentu ...  toi は正当ですが、多分、lojban の to ...  toi はより独立性が高
+いのではと思われます。なのでより保守的に単に to mentu ...  toi と書いて
+おいたほうが良いように思います。
+*6: lo mentu li pano pi'e nopa とするか li pano pi nopa ju'u xano とす
+るか
+pi は default では10進数の小数点となるのではないでしょうか。どちらにする
+かは難しい問題です。片方は簡潔だが不正確、もう一方は正確だが、煩雑。この「正確
+さ」と「簡潔性」のトレードオフは永遠のテーマだと思います。今回のこのケー
+スでの僕の提案は、この2者を混合させたままにする、というものです。4つの観点か
+らそれを支持します。まずはすでに述べたように「正確さ」と「簡潔性」のトレ
+ードオフを考えたときに、両者には甲乙つけがたいという点。2つ目に、そもそも原
+文に表記揺れがあり、見ようによってはこれも作品の味と考えることができると
+いうこと。3つ目には、今回の場合、意味が明確であり「同じことを指している」と
+いうことが、だいたいわかるということ。4つ目には、lojban の様々な表記を紹介で
+きるということ。「多様性は善」とする考えかたと「多様性は罪」とする考えか
+たにはどちらにも、正文性があります。よってケースバイケースで「統一」するか
+ as-is としておくかを選ぶ必要があります。(これは後で全体への提案に移動)
+*7: to lo vi'a miltre li ...  toi の lo は不要と思われる。または、lo を入
+れるなら be が必要。
+ 疑問文の答え以外の smuti だけの文をどう解釈するかは決められていないと
+思われますが、selbri として暗黙の co'e を持つと考えるのは無理のない見方
+かと思います。それを前提に論を進めますが、lo をつけた場合 lo vi'a miltre
+be ...  cu co'e となり、「... 分である物が何かである」という意味になりま
+す。それに対して lo をつけずに to vi'a miltre li ...  toi とした場合、「
+zo'e が ...  分である」という意味になります。これは日本語の文を一見して
+感じる以上に後者のほうが strict です。わかりやすい例を挙げるなら、前者では
+「... 分である物が存在しない」という可能性もあります。そして、これは比較的
+自然な解釈です(以下と比べて)。「存在しないものが ...  分である」とも言え
+るとの反論も許されますが、これはあまり自然な解釈ではありません。ここでは、
+mo と ma では ma のほうがより strict と言えるのではないか、という感覚に
+訴えることにします。この場合 lo と be を vimcu することで「正確さ」と「
+簡潔性」の両者が増すので、そうするべきだと思います。100歩ゆずって、「正確さ
+」が同程度であるとしても「簡潔性」が増すので、結論は同じです。(これも全体
+への提案に移動すべきか)
+*8: cadzu の場所構造について
+すくなくとも僕の参照している辞書には cadzu の場所構造として目的地、出発
+点はない。cadzu klama か単に klama を使う必要があるのでは? cadzu の x2
+は 「...  の表面を」なので、X から Y までを x2 に取るのは無理があるので
+は?
+[guskant2013-07-11: 元の訳文のlo krasi bi'o lo fanmoは、cadzu x2 と見て
+問題ない。lo krasi bi'o lo fanmoという表面を表す。]
+*9*10: lo krasi と lo fanmo について
+krasi は何かの「起源」ということで、先頭というよりは「出発点」といった感
+じがする。同様に fanmo は終了なので「最後尾」というより「目的地」といっ
+た感じか。先頭と最後尾なら一案としては lo stedu pe'a と lo rebla pe'a と
+するか、より正確には、lo li'enrai (lidne + traji) を先頭とし、lo
+tolyli'enrai (to'e lidne traji) または lo selyli'enrai (se lidne
+traji) としたらどうか。
+*11: typo?: nunkansa -> nonkansa
+*12: toltugni について
+tugni は命題が真であるということへの同意なので、原発が存在することが正当
+かどうかという意味での同意ではない。たとえば「地球が自転している」という
+ことへの反対のような科学的な反論には使えるが。今回のような使いかただと、「
+原発の存在」そのものを否認しているというニュアンスがある。ここでは
+pante のほうが良いように思う。
+*13: 新宿: 上記「全体への提案」参照のこと
+*14: 原発: 上記「全体への提案」参照のこと
+*15: 上記を考慮した試訳
+.i nonkansa klama lo selyli'enrai lo li'enrai sefa'o lo ke pante
+ratnenfanri ke'e barda nunja'ozu bu'u la cindjuk.
+[guskant.2013-07-11: - klama のx2, x3 としても良いが、移動過程に重点を置
+くcazduの方が「逆走」に近い意味になる
+- 「ひたすら一人で」はbridiを修飾するので、nonkansaをseltauとするよりも、
+sumtcitaでtermを作って入れると意味が明確になる。
+ru'i po'o ku 「ひたすら」
+fi'o pamei mi 「ひとりで」mi を省略してkuで切っても良い
+- 造語をせずに「先頭から最後尾までを」をca'u bi'o ti'aというsumtcitaで
+表すと、意味が明確になる。
+この場合、「前方・後方」が意味を持つのは「デモ行進」という事象ではなく「
+デモ行進者たち」という人々だから、 loi ... ja'odzu というsumtiを使う。
+人を指すから、bardaの代わりにloi so'i...とする > ke ke'eは不要になる
+この場合「逆走」の「逆」は「先頭から最後尾まで」と同義なので、両方を1つ
+のbridiに入れると、逆の逆で正方向であると解釈できる恐れがある。
+「逆」を訳出するならsei va'i fatne [se'u] などの形で、bridiの意味への影
+響を避ける方が良い。
+.i ru'i po'o ku fi'o pamei mi cadzu ca'u bi'o ti'a sei va'i fatne
+se'u loi so'i pante ratnenfanri ja'odzu be bu'u la cinjuk
+]
+*16: lo ralci se cusku je nunfirsku について(順番と nunfirsku 自体につ
+いて)
+とくに理由がなければ原文の「表情やメッセージ」に合わせて lo ralci
+nunfirsku je se cusku のほうが良さそう。また、辞書には expression が
+nunfirsku になっているが、これは firselsku のほうが良いのでは。cusku の
+x2 は se du'u となっているが、これは du'u 以下の内容を表す「文」という意
+味であり、その「文」というものは表現としての「文」なので、x2 を表現そのも
+のと考えることは無理のない拡張だと思う。cusku の x2 は「文」にかぎらない
+「表現」と考えることは、一貫性のある美しい拡張に思われる。
+*17: typo?: fadri -> fatne
+*18: 「...  かのような素振りで」: tarti の cadzu への修飾関係をどう訳
+出するか
+どちらがいいかわかりませんが、gi'e でつなぐと「逆走」と「ふるまい」が並
+列な関係に見えてしまう。僕ならば、fau lo nu tarti または、fi'o se tarti lo
+nu ...  とする。
+*19: 上記を考慮した試訳
+.i viska lo ralci filselsku je se cusku be loi se cuntu poi se cpasu
+ca lo nu le pa nanmu goi ko'a cu fatne cadzu seru'u lo prenu fi'o se
+tarti lo nu ko'a na ckini lo nunja'odzu selcku
+*20: go'i だと直前の文を指すので「...を捉えていったことで」となってし
+まう
+この場合「表情やメッセージを捉えていったこと」というよりは、ここまで述べ
+てきたこと全体、あるいはここで述べていること全体によって、ということだと思
+うので go'i 類よりもより vague な la'e di'u や la'e dei を使ってもっと
+曖昧に表現したほうが良さそう。di'u や dei は sentence に限らず、もっと範囲
+が不明瞭な utterance を指す、と CLL にある。
+*21: porpi は x1 が x2 に分解する だと思うので、
+porpi fa lo ...  のように fa が必要。また、ここはどっちがいいか決めかねる
+が porpi の前に gau を置くことも検討してみては? ただし、僕の見ている辞書
+と異なる定義があり agent ありの porpi の定義も存在するのだとしたら、どち
+らを選択するかは訳者におまかせします。
+*22: 上記を考慮した試訳
+.i ta'i la'e di'u troci lo nu gau porpi fa le nunja'odzu noi gunma
+fasnu lo se cuntu sevzi klani
+*23: 「それすら」を訳出するのに、ここに po'o を入れるという案
+「逆走することだけで」といったニュアンスで
+*24: 「なり得る」を訳出するなら、ここに ka'e を入れたらどうだろうか
+ただし、意図的に訳出していないのならばこのかぎりではない
+*25: 上記を考慮した試訳
+.i se finti ji'u lo sidbo noi du'u lo nu cadzu po'o sefa'e lo
+nunja'odzu poi jarco lo pa jecta notci kei ji'a cu ka'e drata
+nunja'odzu
+[guskant.2013-07-11: lo sidbo noi du'u > lo si'o (概念抽象) で良さそう
+
+「それすら」をlo nu cadzu po'o にすると、歩く以外のことはもうひとつのデ
+モ行進になれないことを表す。これは原文の意味と異なる。
+元の訳文にあるji'a は、すでに追加のデモ行進「それも」を表している。これに
+saiまたはba'eを加え、ji'asaiまたはba'eji'aとすれば「すら」という強調を表
+せる。
+ka'eがあればcuは不要
+.i se finti lo si'o lo nu cadzu sefa'e lo nunja'odzu poi jarco lo pa
+jecta notci kei ji'asai ka'e drata nunja'odzu
+]
+(15のコメント終了)
+---mo'u pinka---
+
+
+
+

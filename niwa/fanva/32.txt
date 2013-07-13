@@ -1,0 +1,185 @@
+32
+[Limna]
+自宅の鍵を複製して路上で配布する
+2012, パフォーマンスのヴィデオドキュメント(15min21sec)
+自宅の鍵をカギ屋に頼み複製してもらい、それを秋葉原の路上で見ず知らずの他
+人に配布する。住所は明かされていないので、それがどこのどういった鍵なのかは
+不明であるまま、ぼく家の鍵が流通することになる。「ぼくの家の鍵は常に誰か第
+三者が持っている」という状況を作り出すことで、他者との連帯や共有の現実的
+な不可能性を明示する。
+ni'o cire mo'o lu .i lo ckiku pe lo mi zdani cu gau se fukpi gi'e
+fatri fi'o se cpana lo klaji li'u
+
+de'i li renopare fi'o vreji lo tigni skina noi mentu li pamu pi repa
+ju'u xano
+
+.i lo nu fukpi lo ckiku pe lo mi zdani cu se cpedu fi lo ckiku zarci
+ije lo fukpi fatri lo to'e djuno prenu fi'o se cpana lo klaji pe la
+akixabaran .i lo judri cu na'e te djuno .ije lo ckiku pe lo mi zdani
+cu flecu secau lo datni be lo du'u mokau bei lo ckiku bei fi'o se
+diklo makau(11) .i lo nu zbasu lo tcini be lu lo ckiku pe lo mi zdani
+cu ze'e se ponse le na'e srana prenu poi mi na'e djuno li'u be'o cu
+stidi li'a le fatci na'e se cumki be lo nu kansa jorne e lo nu gunma
+ponse bei gau le na'e srana prenu be'o(12)
+
+---co'a pinka---
+ki'e do pinka
+*1: lo が必要。pe mi zdani -> pe lo mi zdani
+ pu galfi
+
+*2: gau があったほうが良い気がする御検討を fukpi -> gau fukpi
+ ie
+
+*3: typo? ge -> gi'e
+ lo se srera se galfi uo
+
+*4: lo ckiku pe lo mi zdani cu fukpi gi'e fatri fi'o se cpana lo
+klaji
+これだと「自宅の鍵が(何かの)コピーで、それを配る」という意味。
+もちろん「複製された鍵」も「自宅の鍵」であることには違いないが、日本語の
+文の意味とはずれる。
+da gau fukpi lo ckiku pe lo mi zdani gi'e fatri fi'o se cpana lo
+klaji としては?
+問題は、「A が B の複製」なのかその逆なのか、という点と、配るのは「自宅の鍵
+」なのか、それとも「その複製」なのかという点。日本語の文について補足するな
+ら「自宅の鍵を複製して、*その複製を*配布する」ということだと思います。
+
+ 提案ありがとうございます。ご指摘のようにPSは明らかに間違ってますが
+daに対応する日本語は補足しないでもよいかと思うので、単純にseをつけてみま
+す。
+
+*5: 上記「全体に関するコメント」参照
+lo zukte skina と lo tigni skina あるいは lo se tigni skina の3つが今
+のところの僕の候補。
+
+ i'a vi'o lo tigni skina
+
+*6: pe lo mentu ... : 上記「全体に関するコメント:何分何秒という表現
+(2)」参照: すくなくとも pe は良くない。
+または noi mentu ...  とできないか?
+mentu の x1 は「時間間隔」なのか、あるいは時間間隔によって測られる「物・
+事」なのか。
+mitre からの類推で、mentu の x1 は「物・事」と考えられる。とすると、noi
+mentu ...  としたほうが良さそう。
+
+ 制限用法でもそんなに違和感がないのですが
+ コメントの熱意に押されて、noiにしました。
+
+どうも:-) 制限用法と非制限用法の使い分けは難しいです。確かにこの場合どち
+らもありですね。(重城)
+
+*7: 上記を考慮した試訳
+de'i li renopare fi'o vreji lo tigni skina noi mentu li pamu pi repa
+ju'u xano
+*8: .i le nu fukpi be lo ckiku pe mi zdani be'o kei se cpedu fu lo
+ckiku zarci
+-> .i lo nu fukpi lo ckiku pe lo mi zdani cu se cpedu fi lo ckiku
+zarci
+
+まず、現在では特別な理由がなければ le nu ...  よりも lo nu ...  を選ぶべ
+きと思われる。
+僕の理解では le は心のなかにあるものを描写によって指し示すのに対して、
+lo は描写によって心のなかに像を作る、といったニュアンス。le は描写によるあ
+る種の「名づけ」であり lo は「定義」といった感じがする。
+次に fukpi be lo ckiku の be は不要。
+pe mi zdani ではなく pe lo mi zdani。
+lo nu broda kei brode は lo (nu broda kei) brode となり nu broda と
+brode は tanru を形成してしまう。
+よって ku を追加するか、あるいは cu で大きく切る必要がある。
+cpedu は僕の参照している辞書では、 x4 までしかない。また x3 が頼まれる者だ
+と思うので、fu -> fi
+
+ ue du'e lo mi srera
+*9: le -> lo
+le nanmu だと、心のなかに先に像が形成されている感じ。例のその男といった感
+じ。
+この場合、話者が鍵を配っているときのことを思い出して、あの人とあの人に配っ
+たな、という感じで言っているのなら le。
+しかし、こと場合はもっとニュートラルに「見知らぬ人」と言っているので lo
+が適当かと思われる。
+
+ i'a
+
+*10: ti -> lo di'u fukpi
+ti だと空間的な「これ」。こういう場合、cy. とかで前の sumti を指すことで解
+決することが多いが、今回はダメ。cy だとマスターを配ることになってしまうの
+でコピーの方を指す必要がある。
+単に lo fukpi とするか le fukpi とするか、または lo bi'u nai fukpi とす
+るか。
+僕の好みは lo di'u fukpi として「前に言ったことに関連した鍵」とするも
+の。
+
+ galfi zo'e lu lo fukpi zoi li'u
+
+*11: .i lo judri cu na'e te djuno .i je lo ckiku pe lo mi zdani cu
+flecu secau lo datni be lo du'u mokau bei lo ckiku bei fi'o se diklo
+makau
+-> .i lo judri na te djuno .i se ni'i bo lo ckiku pe lo mi zdani cu
+canja se flecu secau lo datni be lo du'u lo ckiku mo kau tu'i ma kau
+まず、多分 na'e は直後の語にかかるので、na'e te だと「te 以外」となってし
+まう。
+te na'e djuno としても、「知る以外」ということで、たとえば「知ってはいない
+けど推測はできる」等の含意を持ってしまうかもしれない。つまり mi na'e
+cadzu だと「歩く以外」で「走った」のかもしれない。ここら素直に na te
+djuno としておいたほうが無難だろう。
+また、「ので、」が訳出されてない。ここはまさに「ni'i を使うのはいつ?今でしょ
+」といった感じ。flecu の x1 は「流れ」で x2 が「流れる物」なので se が必
+要。また「流通」だと canja をつけたほうが良い気がする。da canja se flecu
+で da が流通する、といった感じになるか。lo datni be lo du'u mokau bei lo
+ckiku の2つめの bei は be の typo? いずれにしても lo du'u のなかで、be
+等は不要かと。
+また、fi'o se diklo には se di'o があるのでそっちを使うべきだが、それだけ
+でなく、tu'i (stuzi の modal) の使用も考慮してみてください。stuzi と
+zvati の関係等、なかなか難しいところがありますが。
+
+*12: .i lo nu zbasu lo tcini be(13) lu lo ckiku pe lo mi zdani cu
+ze'e(14) se ponse le na'e(15) srana prenu poi mi na'e(16) djuno li'u
+be'o cu stidi(17) li'a(18) le fatci na'e se cumki(19) be lo nu kansa
+jorne(20) e lo nu gunma ponse(21) bei gau(22) le na'e srana prenu(23)
+be'o
+*13: tcini の x2 はその状況に置かれた物で、状況そのものは x1 なので be
+でなく no'u la'e lu ...  とすべきかと。
+*14: ze'e は 時間間隔の全てを示す。ze'e pa roi klama はだいたい「生涯一
+度だけ行く」を表す。この場合、ある時間間隔のなかでの「常に」=「持続して」
+なので ru'i のほうが良いと思う。
+*15: na'e は「...以外」なので srana 以外の何かがあることを暗示する。na
+srana のほうが良いと思う。
+*16: ここも na'e より素直に na を使ったほうが良いかと。「『知っている』
+ではない」だと下手すると「『知っている』どころではない」->「親しくつき
+あっている」と解釈することさえできそう。(ただし親しくつきあっているなら
+ば「知っている」はずなので、やや無理はあるが、理解しやすさのための嘘という
+ことで、ニュアンスを伝えたいということ)とにかく、na'e で余計なニュアンスを
+入れるよりは na を使ったほうが良さそう。
+*17: stidi は「x1 が x3 に x2 をさせようとふるまう」といった感じ。「示唆
+する」の意味のうち「そそのかす」のほう。「暗に示す」のほうではない。
+*18: li'a は談話系なので「明らかに示す」ではなく「明らかに、示す」のほう。
+つまり、文全体を修飾するのであり、selbri を修飾するのではない。これは、文のど
+こについていても同じ。文のなかのどこが明らかであるかは場所によって示せる
+が、全体の意味は「明らかに私の主張は正しい」といった意味。その正しさの焦点
+は変えられるが。「この事実は X を明らかに示している」と「この事実は X を、
+明らかに、示している」の違い。
+*19: cumki の x2 は条件であり「あり得る、あり得ない」の対象となる事では
+ない。「現実的な不可能性」は lo fatci ka to'e cumki あたりでどうだろうか。
+ka na cumki とどっちがいいかはわからないが、na'e cumki はまずい。可能性以
+外ということで、もしかすると実現しているということを示している可能性すら
+ある。(これには上記で述べたような問題点はあるが)
+*20: kansa jorne だと「(何か他のものに)一緒に結合している」感じがする。
+jikca jorne (社交的につながる)はどうか。
+*21: gunma ponse よりも、「他者*との*」に注目すれば、kansa ponse のほうが
+良さそう。僕の試訳では ponse co kansa によって co の力を生かしてみた。
+*22: gau は agent を示すので、これだと「他者がなしている(実現している)共
+有」等になってしまう。つまり gau X の場合、その bridi を成立させている者が
+ X であるということだろう。
+*23: 単に他者と言っているので「関係無い者」と言うよりは「自分でない者
+」という意味で良いかと思う。とすると lo drata (be mi)。異質さを言おうとす
+るならば lo frica か lo fange。
+
+-> .i ta'i lo nu zbasu lo tcini no'u la'e lu lo ckiku pe lo mi zdani
+cu ru'i se ponse le na srana prenu poi mi na djuno cu klina jarco lo
+fatci ka to'e cumki ku ne lo nu jikca jorne gi'e ponse co kansa vau
+lo drata
+---mo'u pinka---
+
+
+
+

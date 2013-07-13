@@ -1,0 +1,205 @@
+7
+195文字/100words [nalteo]
+多摩美術大学をぴかぴかぴかにする[bs]
+2008 パフォーマンス ヴィデオ14'11min
+およそ30分間にわたり、多摩美術大学[bt]上野毛校舎[bu]内のすべての教室
+[bv]・研究室[bw]・廊下[bx]・街路灯[by]・野外時計[bz]などの電灯を5秒間
+隔で点滅[ca]させる。大勢のボランティアスタッフ[cb]との共同体験を通して、一
+瞬にして消え去る" 点滅現象" をかけがえのない生の悦びに変換する試み。最終
+的には、5秒単位を無視したオリジナリティー[cc]溢れる学生の教室点滅が見ら
+れた。他者との共有や共同幻想といったことをテーマに実施されたプロジェクト。
+
+ni'o ze mo'o
+lu gaurpikapikapika la .taman. noi larske balcu'e[cd] li'u
+de'i li renonobi
+fi'o tigni skina to mentu li pavo pi'e papa
+.i ze'a lo mentu be li ji'i cino gasnu lo nu rapydi'e di'i lo snidu
+be li mu fa ro tergu'i pe lo nunctuku'a ju'e lalku'a ju'e nerklaji
+ju'e lajytergu'i ju'e barjunla pe[ce] la .kaminogen. noi kuldi'u[cf]
+ku'o pe[cg] la .taman. noi larske balcu'e
+.i va'o lo se lifri be fi'o kansa so'i mukyzu'e guncmi[ch] cu troci
+lo nu galfi lo zi zei canci ba'e nunrapydi'e lo basycau nunji'e
+pluka[ci]
+.i seja'eku[cj] jvinu lo poi toltinbe lo mu zei snidu gradu ku'o
+kampanrycau carmi ke velcu'e ke ctuku'a nunrapydi'e
+.i pu'i[ck] finti fo lo si'o lo drata cu kanpo'e ja te kansi'o[cl]
+
+---co'a pinka---
+[bs]nalteon:
+gaurpikapikapika
+gau dircydircydirce
+________________
+良国重城:
+cidjrspageti 等からの類推で考えると、[rafsi] + r + X の組み合わせは、
+rafsi 部分の x1 を X がしぼりこむという構造だと思う。
+
+とすると、もしもこの形を作うならば、sergusni (照明されるもの) を
+pikapikapika でしぼりこむという形で、sergusrpikapikapika とし、さらに gau
+をつけて、
+lu la .taman. noi larske balcu'e gau sergusrpikapikapika li'u といった
+形になる気がする。
+________________
+gusni kantu:
+何をするかは本文で説明しているので、題名はそのままで良さそう。
+[bt]良国重城:
+英語版の辞書だと balcu'e = banli zei ckule
+
+意味的にも空間的な「大」よりももっと抽象的な「大」なので banli のほう
+が良さそう。
+________________
+gusni kantu:
+ba'o stika
+[bu]nalteon:
+ckule zei dinju
+[bv]nalteon:
+nunctuca zei kumfa
+[bw]nalteon:
+lanli zei kumfa
+[bx]nalteon:
+nenri zei klaji
+[by]nalteon:
+klaji zei tergu'i
+[bz]nalteon:
+bartu zei junla
+[ca]nalteon:
+rapli zei dirce
+[cb]nalteon:
+gunka zei cmima
+[cc]nalteon:
+ka zei panra zei claxu
+________________
+良国重城:
+kamni'o: ka cnino でも良さそう
+________________
+gusni kantu:
+ここでの意味はむしろ ka zei panra zei claxu の方が正確
+[cd]nalteon:
+la .taman. ke larske bracu'e
+[ce]良国重城:
+pe -> vu'o pe
+
+
+論理的または非論理的に接続された sumti 全体を関係節(句)で修飾するには
+vu'o が必要。
+________________
+gusni kantu:
+sumti は接続していない。tanru内の接続。vu'oは不要。
+________________
+良国重城:
+確かにそうですね。tanru の面白い使いかたですね。
+[cf]nalteon:
+.kaminogen. kuldi'u
+[cg]良国重城:
+noi kuldi'u と pe la .taman. ...
+のふたつの関係節(句)を、ひとつの sumti (la .kaminogen.) につけるためには
+ zi'e が必要。
+
+vu'o pe la .kaminogen. noi kuldi'u zi'e pe la .taman. noi larske
+balcu'e
+________________
+gusni kantu:
+[多摩美術大学[上野毛校舎]] なので、並列よりも ku'o で切るほうが適切
+
+ku'o を挿入した
+________________
+gusni kantu:
+報告:
+la .kaminogen. noi kuldi'u ku'o pe la .taman. noi larske balcu'e
+これはcamxesでエラーになる。
+kaminogenをbroda に変えるとエラー回避
+新文法なら kaminogen でもエラーにならない?
+[ch]良国重城:
+fi'o simxu selfri be so'i fityzu'e guncmi: これだと「たくさんのスタッ
+フの相互的体験として何かがあり、」といった感じ。
+一番の問題は selfri の x2 が so'i ... guncmi なので、原文にある「...との
+」に含まれる「たくさんのスタッフ」と私とが一緒に経験したという意味がな
+くなってしまう。
+
+また、simxu だとお互いにといった感じなので、kansa (一緒に) のほうが良さそ
+う。
+
+さらに、sumti を取らない法制を使うと、zo'e の bridi に対する関係の説明とし
+て「体験」という関係を指定していることになる。
+
+つまり、「se ka'a ...」が目的地として何かを持ち、... する、というのと同様に、
+体験として何かを持ち ... するといった意味になる。
+
+この場合、そうではなく、「体験」という object が「通して」という関係によっ
+て bridi にくっついているので、以下のほうが良さそうだ。
+
+ただし、日本語の意味をたとえば「上で言ってきたことを体験として、... を試み
+る」というように意訳するのであれば、現在の構造でも問題ないとは思うが、
+それにしても「通して」という関係性が消えてしまうぶん、いくぶん vague に
+なる。
+
+試訳:
+
+.i ta'i lo nu lifri fi'o kansa so'i sezmukyzu'e guncmi
+「多くの自我的動機的行為的の仕事的構成員と一緒にする経験というやりかた
+で」
+________________
+gusni kantu:
+ほぼ採用して変更済
+va'o lo se lifri be fi'o kansa so'i mukyzu'e guncmi
+[ci]良国重城:
+lo basycau nunji'e pluka
+ここらへんは日本語の解釈の問題なので、どちらでもいいと思いますが、「かけが
+えのない(生の悦び)」と僕は読みましたが、「(かけがえのない生)の悦び」の可
+能性もありますね。
+前者なら lo basycau ke nunji'e pluka となりますが。
+________________
+gusni kantu:
+後者として保持
+[cj]良国重城:
+ja'e ku は ja'e zo'e と同じ意味だと思う。
+つまり、何かを結果として、という意味になり、文全体としては、むしろ何かの原因と
+いった意味になる。
+
+ここは .i ja'e bo が良いと思う。
+CLL 10.23 に X .i BAI bo Y = X BAI le nu Y とある。
+
+ただし、この場合、前の文の結果として次の文が来るので、わずかにもとの文意とは
+ずれるが、前の文が「試みる」なので、試みることの結果として、オリジナリティー
+あふれる教室点滅に終わった、というのは意訳としては問題ないと思う。
+
+より日本語に忠実に(つまり、より曖昧に)表現したければ、se ja'e ku を使えば、
+「何かを結果のもととして」あるいはよりわかりやすく、ただし不正確に言うな
+らば「何かを原因として」と言える。
+________________
+gusni kantu:
+seja'eku を採用
+[ck]良国重城:
+ba'o ではなく、pu'i を作った理由は何ですか。
+pu'i の意味が今いちつかめないので。
+________________
+gusni kantu:
+「実施」は「潜在的に可能性があったことを実現させる」ということを表して
+いると思う > pu'i
+[cl]良国重城:
+「他者との」は「共有」にかかっていて、「共同幻想」にはかかっていない。
+また普通に「他者」と言う場合には lo drata かと思う。lo frica だと「異質
+な者」といった感じ。
+
+試訳:
+.i ba'o finti fo lo si'o ponse co kansa lo drata .e lo kansa sidbo
+________________
+gusni kantu:
+drata を採用。kanpo'e と te kansi'o の x1 を lo drata とすれば、意味上の問
+題はない
+________________
+良国重城:
+.ie
+
+[guskant.2013-07-10: bracu'e 2箇所を balcu'e に変更
+fityzu'e を mukyzu'e に変更
+simpo'e ja simsi'o を kanpo'e ja te kansi'o に変更
+noi kuldi'u の後に ku'o を挿入(camxesでエラーになるが、おそらく新文法で
+は回避されるか? )
+fi'o simxu selfri be を va'o lo se lifri be fi'o kansa に変更
+frica を drata に変更]
+[guskant.2013-07-12: ja'eku の前に se を追加]
+---mo'u pinka---
+
+
+
+
