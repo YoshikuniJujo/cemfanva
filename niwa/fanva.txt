@@ -326,6 +326,45 @@ cfika cu gau mizre gi tcica lo nu jinvi lo nu lo da'i nai pu fasnu cu
 dunli lo na pu fasnu cu jarco lo preti be lo du'u xu kau lo smuni poi
 lo pulji cu spuda cu mapti lo smuni poi lo tersku cu djica
 
+[j]良国重城:
+だっこ: xedra'ejai
+xendo ralte jgari (優しく支えてつかむ(抱く))
+jgari だけだと抱擁の意味での抱くの意味も含むので、持ち上げているというこ
+とを含意させるために ralte をつけた。
+正確には xendo ke ralte jgari だが、意味的に大きな差は出ないように思い
+ke は省略した。
+[k]良国重城:
+no'a によって外側の bridi を参照し、それの x2 である「...する警察官」を
+lo se no'a によって取り出した
+[l]良国重城:
+そもそも: sei xruti pensi se'u
+「もどって考えるわけだが」といったニュアンスを表してみた。
+se'u を入れたのは提案されている新文法でも動くようにとの配慮から。
+[m]良国重城:
+国家システム: gugyci'e
+gugde ciste から。
+
+
+=> gugde ciste: tanru を使うことにした
+
+
+個人: sivni prenu
+[n]良国重城:
+行間: lo na'e selsku (言われる以外のもの)
+[o]良国重城:
+字幕: lo selsku seltcidu
+言われたことに関する書かれたもの
+[p]良国重城:
+意図的に broda する: cu te zu'e broda, te zu'e ku broda
+zo'e を目的として broda する
+[q]良国重城:
+敢えて: fi'o se ranxi (何らかの予想に反して)
+この場合、「字際の会話と字幕とは一致させようとするだろうという予想に反す
+る形で」といったニュアンス
+
+[guskant.2013-07-13: lo zukte skina pe lo mentu be li ze pi'e nobi > lo tigni skina noi mentu li ze pi'e nobi に変更する方針？]
+
+
 
 29
 首相官邸前から富士山頂上までデモ行進する [nalteo]
