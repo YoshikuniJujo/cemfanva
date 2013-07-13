@@ -1,87 +1,153 @@
-6 215文字/75words [重城]
-1元であなたの息を買い取ります、誰かの息も1元[cm]で売ります
-2008 パフォーマンス
-中国の成都市[cn]にて、観客に一元であなたの息を買い取ると宣言し、息をビニル
-袋にパックしてもらう[co]。また、その息も誰か欲しい人に一元で売る。同額で売買
-する為に、利益が出ないことは明白であって、ぼくは純粋にやりとりの媒体として
-の役割を演じて、積極的に[cp]観客を誘導する[cq]ことを模索する。いわば自然発
-生的に[cr]出来事を起こす為のパフォーマンス。かわいい女の子の息を売る時に
-は、自然とオークションまで生まれた。終了後、ぼくの息を購入したい学生が殺到し
-た。
- ni'o xa mo'o
-lu .i .ai vecnu lo do se vasxu mi pa lo jungo rupnu .i ji'a .ai mi
-vecnu lo da se vasxu fo pa lo jungo rupnu li'u
-de'i li renonobi se tai lo se zukte
-bu'u lo jungo .tcend. tcadu ge fi lo viska cu gubni cusku lo nu .ai
-vecnu lo ri se vasxu mi pa lo jungo rupnu gi lo se vasxu lo slasi
-dakli cu gau nenri se va'u mi .i ji'a fe lo bi'u nai se vasxu lo
-djica pa lo jungo rupnu cu vecnu .i ge li'a ni'i lo nu mi fo da vecnu
-gi'e te vecnu[cs] ku no da prali gi ge po'o mi jbini loi canja gi'e
-gasnu lo nu canja gi se tai lo ka to'e cando cu troci lo nu lo viska
-cu gau frati lo se djica .i la'e dei nu zukte fi lo nu se tai lo
-rarna cu gasnu lo fasnu .i ca lo nu vecnu lo melbi ninmu se vasxu kei
-lo nu vecnu jivna pu rarna fasnu .i ba lo fanmo lo tadni poi djica lo
-nu vecnu lo mi se vesxu pu so'i mei klama
+5 247文字/96words [重城]
+野菜との思い出
+2008 パフォーマンス ヴィデオ14'00min
+中国の上海[ct]にて、ニンジン[cu]やブロッコリー[cv]、タマネギ[cw]などの現地
+で簡単に購入できる野菜をもち、観客一人一人[cx]に協力してもらい記念写真を
+撮っていく。後日、帰国してから、撮影した36枚撮りのフィルムを現像した。こうして
+できあがった36枚の写真からポスターを作成し、参加してもらった人々へ国際郵
+便を使って送り返す。一度きりの出会いの中から、どのような関係を生んでいける
+のかを模索することから始まった。簡単に手に入る野菜は珍しくもなんともない
+が、どこにでもある物が思い出として深く刻み込まれる可能性を示唆した。
+ni'o mu mo'o
+lu lo se morji be fi lo nu kansa lo stagi li'u
+de'i li renonobi fi'o vreji lo zukte skina pe lo mentu be li pavo
+pi'e nono
+.i bu'u lo jungo .canxain. tcadu ge jgari lo najgenja .a lo brukobli
+.a lo bolsluni mu'a no'u lo stagi poi bu'u lo se klama ku frili cpacu
+gi si'u ro lo viska cu terxra fi lo morji kacma pixra .i ba ku ba lo
+nu xruti fi lo gugde .i ba ku ba lo nu xruti fi lo gugde pu zbasu lo
+pixra lo cixa mei gusyvelvei[cy] .i ge fi lo poi pu'e la'e di'u jai
+mulno cixa pixra fe lo braxra[cz] cu zbasu gi fi lo su'o re prenu poi
+cmima zukte se pi'o lo gugykruca xe mrilu cu xruti benji .i la'e dei
+se krasi lo nu troci co djuno[da] lo du'u fi lo nu pa po'o roi penmi
+ku fe ma kau no'u lo te ckini cu ka'e zbasu .i ge lo stagi poi frili
+cpacu ba'e na rirci gi ku'i pu jarco lo du'u lo nu co'a mutce
+vreji[db] lo se morji lo fadni zasti cu cumki
 
 ---co'a pinka---
-[cm]良国重城:
-一元: pa lo jungo rupnu
-「(お金の)一中国単位」といった感じ
-[cn]良国重城:
-中国の成都市: lo jungo .tcend. tcadu
-[co]良国重城:
-se va'u mi (利益者を私として)
-と訳した。
-しかし、これだと「してくれる」との訳し分けができない。
-使役の意味をいれたほうが良いか。
+[ct]良国重城:
+中国の上海: lo jungo .canxain. tcadu
+[cu]良国重城:
+ニンジン: najgenja
+narju + genja (オレンジ色の根)
+[cv]良国重城:
+ブロッコリー: brukobli
+burcu + kobli (ブラシ的な葉菜)
+bruko'i でもいいけど、brukobli だとブロッコリーと音が似てて面白い
+[cw]良国重城:
+タマネギ: bolsluni
+bolci + sluni (球体のネギ)
+[cx]良国重城:
+lo viska だけでも一人一人の意味はある。つまり loi ではなく lo を使ってい
+る時点で個々にという意味となる。しかし、「一人一人」というのをより強調して
+訳したい。そこで群を作ってそれを個にもどしてみた。lu'a loi viska と。
 
 
-=> .i'o を使ってみた。
-ただ、.i'o のニュアンスがまだつかみきれてはいない。
-.i'o nai がねたみの意味であることから、ねたみの逆の意味ということになる
-のだろうか。
-
-
-=> .i'o の意味がつかみかねるので、よりわかりやすい se va'u mi にもどす。
+=> より普通の表現として、 ro lo viska とする。
 ________________
 gusni kantu:
-gau nenri muvdu se va'u mi > muvduは不要? gau nenri [.i'o]
-気体の移動を強調したい場合は
-lo viska mo'i ne'i lo slasi dakli gau vasxu [.i'o]
+観客の群れから抽出した個が「一人一人」の意味になるかどうか、わからない
+
+
+たぶん ro lo viska と言うとロジバンらしい表現になる
+(ほかの人とも要相談)
 ________________
 良国重城:
-ki'e
-確かに、そうですね。
-直しておきます。
-[cp]良国重城:
-積極的に: se tai lo ka to'e cando
-(動く物の持つ性質のような形で)
+観客全員とはかぎらないので、ro は使いにくい気がする。
 
 
-これはもっといい言い方がないかな?
-[cq]良国重城:
-観客を誘導する: lo viska cu gau frati (見る人に反応させる)
+「一人一人」という言葉は副詞的で、それが無かった場合も意味が変わらないと
+思う。つまり、冗長な表現。
+それを表してみた。
 
 
-「誘導」の持つ方向性のようなものを表現しきれてない気もする。
-gau frati lo se djica なら「望むようなやりかたで反応させる」みたいにな
-るか。
-[cr]良国重城:
-自然発生的に: se tai lo rarna
-(自然という形で)
-[cs]良国重城:
-同額で売買する: mi fo da vecnu gi'e te vecnu
-私が da という値段で売りかつ買う
+lojban の lo broda が複数の broda を表す場合、すでに「それぞれに」という
+意味が含まれているというところを出発点とした。
+________________
+良国重城:
+より、意味に厳密に考えてみると、「観客一人一人」という意味は、lojban で言う
+ところの lo viska に2人以上という意味を足したものと言える。
+ので su'o re lo viska が意味的には正確と思われる。
 
-[guskant.2013-07-13: タイトル {lu .i .ai...} この .i は何のために？]
-[guskant.2013-07-13: {zukte} （2箇所）> 「パフォーマンス」を tigni にするかどうか]
-[guskant.2013-07-13: {bu'u lo jungo...} 題と区切るために文頭の i が必要]
-[guskant.2013-07-13: {fo da vecnu gi'e te vecnu}={fe zo'e fo su'o da vecnu gi'e te vecnu} なので、息によって異なる値段で売買する可能性を含意する。 {pa da} か {zu'i} の方が良い。]
-[guskant.2013-07-13: {mi jbini loi canja gi'e gasnu lo nu canja} > 「やりとりの媒体としての役割を演じ」なら {mi tigni lo jai va'o canja} あるいは {mi tigni lo jai xebe'i canja}]
-[guskant.2013-07-13: {se tai lo ka to'e cando cu} 「うごめく性質に似て」 > mi が「積極的」なので {.ai} でも良さそう。あるいは {temu'i mi} 「私が動機をもって」]
-[guskant.2013-07-13: {lo viska cu gau frati} > gauがあればcuは不要]
-[guskant.2013-07-13: {vesxu} > {vasxu}]
-[{ba lo fanmo lo tadni poi djica lo nu vecnu lo mi se vesxu pu so'i mei klama} 
-- {pu} が nu 内に入っていてメインの selbri が無くなってしまう。 {cu pu} とする必要がある。
-- 「殺到」と言っても、実際に往来していないので {klama} は不要か。近づいてくる様子を出すなら {mo'i zo'i so'i mei}]
+
+ただし、「一人一人」を強調として取ると「それぞれ別々に」と解釈して、se
+tai lo ka tolxre とか、かな。これはあまり自信がないな。se tai の意味が今いち
+つかみきれていないのと、「別々に」は「混合物の反対のものが持つ性質」なの
+かどうかよくわからない。
+
+
+あるいは、se tai to'e gunma とか。se tai na'e gunma のほうがいいか。
+
+
+しかし、ここでは si'u が se tai na'e gunma なので、
+fi'o sidju be se tai na'e gunma lo viska cu terxra fi lo morji kacma
+pixra となる。
+すこし長過ぎる気もする。
+
+
+「冗長表現」として解釈するか、「正確さ」を取るか、「強調」として解釈するか。
+
+________________
+良国重城:
+ro lo viska が新しい解釈でどういう意味になるのかを考えた。
+たとえば、re lo ci viska は3人の観客のうちの2人という意味だが、新解釈にお
+いては観客は3人だけという意味にはならない、ということだと思う。
+つまり、たくさんいる観客のうちの3人を抽出して、さらにそのうちの2人というこ
+とだ。
+
+
+とすると、ro lo viska は、
+たくさんいる観客のうちの何人かを取り出して、そのうちの全員という意味で、問
+題なく使えるように思う。
+
+
+ただ、英語の each にあるような「全て」の意味は日本語の「一人一人」には無
+いので、すこしひっかかるところがある。
+[cy]良国重城:
+gusyvelvei: lujvo フィルム
+gusni + ve vreji より、光の記録媒体という意味合いで
+[cz]良国重城:
+braxra: lujvo ポスター
+「大きい絵」より
+[da]良国重城:
+模索する: troci co djuno ...
+[db]良国重城:
+lojban では状態と動作の境界が曖昧なところがある。つまり mi te preti で「
+私は質問する」の意味と「何かが私の質問である」の意味とを表せる。とすると、
+vreji は「何かが記録である」の意味と「何かが記録される」の意味との両方
+を表せると考えて良いと思われる。動作であることを明示するために gau を付
+けた。
+
+
+=> gau は消去
+=> co'a によって、記録されていない状態から記録されている状態への変化を表
+現
+________________
+gusni kantu:
+gauは動作主を想定している
+
+
+状態か瞬間的かという区別ならZAhO類でできる
+co'a condi vreji
+________________
+良国重城:
+たしかに、この場合、動作主というものは想定されないので、すくなくとも gau は
+消去したほうが良さげですね。
+________________
+良国重城:
+記録が「深い」というのはある種の文化的な比喩のように感じられたのでより
+中立的な mutce を使ってみた。
+
+[guskant.2013-07-13: {lo zukte skina pe lo mentu be li pavo pi'e nono} > {lo tigni skina noi mentu li pavo pi'e nono} とする方針]
+[guskant.2013-07-13: {frili cpacu} > これでも良いが、お金を払っていることを表すなら {frili ke vecnu cpacu}]
+[guskant.2013-07-13: {morji kacma pixra} 「思い出のカメラの絵」というより {morji ke kacma pixra} か]
+[guskant.2013-07-13: {.i ba ku ba lo nu xruti fi lo gugde .i ba ku ba lo nu xruti fi lo gugde} > 消し忘れ]
+[guskant.2013-07-13: {ba lo nu xruti fi lo gugde pu zbasu} > {pu} が nu 内に入ってしまい、メインのbridiが無い。 {cu pu}とする必要がある。]
+[guskant.2013-07-13: {fi lo poi pu'e la'e di'u jai mulno cixa pixra} > ku'o忘れ？ {fi lo poi pu'e la'e di'u jai mulno ku'o cixa pixra}
+[guskant.2013-07-13: {lo su'o re prenu} > 「複数の人」というより {loi no'o prenu} 「あの人数の人の群れ」という方が、ここでの「人々」という意味に近い。多分36人前後。]
+[guskant.2013-07-13: {poi cmima zukte se pi'o lo gugykruca xe mrilu} 
+- 「国際郵便を使って参加した」になっている。 ku'o が必要。
+- {se pi'o} の代わりに {fu} でも言えそう。
+ {poi cmima zukte ku'o fu lo gugykruca xe mrilu}]
+[guskant.2013-07-13: {lo fadni zasti} 「平凡な実在物」>  {lo'e zvati be roda} 「どこにでもある物」]
 ---mo'u pinka---

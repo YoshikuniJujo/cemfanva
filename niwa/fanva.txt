@@ -1969,7 +1969,20 @@ ________________
 良国重城:
 記録が「深い」というのはある種の文化的な比喩のように感じられたのでより
 中立的な mutce を使ってみた。
----ca'o pinka---
+
+[guskant.2013-07-13: {lo zukte skina pe lo mentu be li pavo pi'e nono} > {lo tigni skina noi mentu li pavo pi'e nono} とする方針]
+[guskant.2013-07-13: {frili cpacu} > これでも良いが、お金を払っていることを表すなら {frili ke vecnu cpacu}]
+[guskant.2013-07-13: {morji kacma pixra} 「思い出のカメラの絵」というより {morji ke kacma pixra} か]
+[guskant.2013-07-13: {.i ba ku ba lo nu xruti fi lo gugde .i ba ku ba lo nu xruti fi lo gugde} > 消し忘れ]
+[guskant.2013-07-13: {ba lo nu xruti fi lo gugde pu zbasu} > {pu} が nu 内に入ってしまい、メインのbridiが無い。 {cu pu}とする必要がある。]
+[guskant.2013-07-13: {fi lo poi pu'e la'e di'u jai mulno cixa pixra} > ku'o忘れ？ {fi lo poi pu'e la'e di'u jai mulno ku'o cixa pixra}
+[guskant.2013-07-13: {lo su'o re prenu} > 「複数の人」というより {loi no'o prenu} 「あの人数の人の群れ」という方が、ここでの「人々」という意味に近い。多分36人前後。]
+[guskant.2013-07-13: {poi cmima zukte se pi'o lo gugykruca xe mrilu} 
+- 「国際郵便を使って参加した」になっている。 ku'o が必要。
+- {se pi'o} の代わりに {fu} でも言えそう。
+ {poi cmima zukte ku'o fu lo gugykruca xe mrilu}]
+[guskant.2013-07-13: {lo fadni zasti} 「平凡な実在物」>  {lo'e zvati be roda} 「どこにでもある物」]
+---mo'u pinka---
 
 
 
