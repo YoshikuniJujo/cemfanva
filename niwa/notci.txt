@@ -71,3 +71,8 @@ project niwa に関する伝達事項:
 	mutce prami do .i do mutce mutce mutce mutce prami
 	mi
 	のような形に整形し直す機能]
+
+[iocikun.2013-07-14: 「協力:」の訳の部分に .i to'i sa'a ... toi をつけた
+	何となく .i をつけないと、最後の文だけにつけられたコメントのよう
+	な気がしてしまうので .i もつけた。
+	もし正しくなければ簡単に一括置換でもどせます。]

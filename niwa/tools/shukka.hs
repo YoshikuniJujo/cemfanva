@@ -62,6 +62,7 @@ spanLIhU (w : ws) = let (niho, body) = spanLIhU ws in (w : niho, body)
 
 spanTOhISAhA :: [String] -> ([String], [String])
 spanTOhISAhA [] = ([], [])
+spanTOhISAhA (".i" : "to'i" : "sa'a" : ws) = ([], ".i" : "to'i" : "sa'a" : ws)
 spanTOhISAhA ("to'i" : "sa'a" : ws) = ([], "to'i" : "sa'a" : ws)
 spanTOhISAhA (w : ws) = let (body, tohi) = spanTOhISAhA ws in (w : body, tohi)
 
