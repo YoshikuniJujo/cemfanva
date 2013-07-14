@@ -10,21 +10,109 @@
 可能であればあるほど、人間社会の私たちのコミュニケーションの在り方が問い
 なおされているようである。
 ni'o re mo'o
-lu lo flanaltinbe jipci molki li'u
-de'i renonomu se tai lo se zukte
-.i ge ca lo nu la cipni .influenz. cu preja lo ponjo kei temci be lo
-se detri be li renonoxa pi'e xa bei lo se detri be li pi'e pare ge fe
+lu lo flanaltinbe ke jipci cange li'u
+de'i li renonomu se tai lo se tigni
+.i ge ca lo nu la cipni .influenz. terbi'a cu preja lo ponjo kei temci be lo
+se detri be li renonoxa pi'e xa bei lo se detri be li pi'e pare gi fe
 lo jipci poi zvati lo jibni be lo mi zdani ku'o goi jy. fi'o kansa lo
 rokpisterci'a jo'u lo rokpinsi cu klama penmi gi gau cipra lo du'u
-cusku ma jy. .i cusku co tcidu lo djekarni[dh] gi'e ciksi lo nuzba be
-lo fasnu be fi'o se preja lo munje .i se mupli lo rakso jamna .e lo
-merko jatna cuxna .e lo .taifun. vilti'a tolprali[di] (lu'i ny.) .i
-danfu lo vo'a preti noi se du'u lo betri be ma'a cu me jy. mo kau .i
+tavla jy. ma kau .i cusku co tcidu lo djekarni[dh] gi'e ciksi lo nuzba be
+lo fasnu be tedi'o lo munje .i se mupli lo rakso jamna .e lo
+merko jatna cuxna .e lo .taifun. vilti'a tolprali[di] .i
+danfu lo preti be fi vo'a noi se du'u lo betri be ma'a cu me jy. mo kau .i
 [dj]se pa'a lo nu na ka'e tavla gi'e se tavla vau lo jipci kei lo
 du'u .ei lo ma'a ka cusku simxu[dk] pe lo cecmu be lo prenu cu mo kau
-cu rapli preti
+cu rapli se preti pe'i
 
 ---co'a pinka---
+
+here
+
+[guskant.2013-07-14: {se pa'a lo nu na ka'e tavla gi'e se tavla vau lo jipci kei}
+	- {pa'a} と {sepa'a} は可換と思うが、どちらでも良い。
+	- 「鶏との対話」は {jy. jo'u/joi zu'i casnu} も可能だが、どちらでも良い。
+	- 「不可能であるという事象と並行して」というより
+	{pa'a lo ka lo nu jy. joi zu'i casnu ku me ce'u va'e to'e cumki ku}
+	「不可能さの度合という性質と並行して」
+	あるいはさらに精確に言うと
+	{pa'a lo ka lo nu jy. joi zu'i casnu ku me ce'u va'e lo si'o to'e
+		cumki ku ku}
+	「不可能さを尺度とする鶏との対話の度合という性質と並行して」]
+	se pa'a は何となく。あとで考えてみる。
+	ka よりも ni?
+	lo ni ce'u nu ... を使ってみようかな。
+	「鶏との対話が不可能であるという事象である度合い」あまり良くないな。
+	不正確だが時間の関係で、nu のままとする。
+	後々の保守で直す予定。
+
+[guskant.2013-07-14: {lo du'u .ei lo ma'a ka cusku simxu pe lo cecmu be lo
+	prenu cu mo kau cu rapli preti}
+	- 「ようである」は {za'a} か {pe'i} で表せそう。
+	- {preti x1} となるのは {du'u} ではなく {sedu'u}。ただし「在り方」は
+		質問の主題であって、質問内容自体は明言されていないから、
+		{preti x2} を使う方が適切。また、「在り方」を言葉通り解釈するなら
+		{du'u} より {za'i} が良さそう。
+	- 「あればあるほど」の部分に {ka ...me ce'u va'e} 案を採用するなら、
+		後半部分で {za'u va'e} などを使う。例えば
+		{lo nu preti lo za'i .ei cecmu be lo prenu be'o me ma'a ka
+			cusku/jikca simxu cu za'u va'e [lo si'o basna/cafne...]}
+	- もっと数学的に表すなら、文全体の selbri を {parbi} にする。
+	{li ma'u parbi lo ni lo nu jy. joi zu'i casnu ku me ce'u va'e to'e cumki
+		ku lo ni lo nu preti lo za'i .ei cecmu be lo prenu be'o me ma'a
+		ka cusku/jikca simxu cu me ce'u va'e}]
+	とりあえず、se preti としよう。pe'i を採用。
+	時間が無いのでとりあえず du'u のままとする。
+
+--- チェック済み ---
+
+here
+
+[guskant.2013-07-14: {danfu lo vo'a preti}
+	> 「vo'a に何らかの関係がある質問に答える」と言うより、
+		{danfu lo preti be fi vo'a} のほうが、「自問」の部分を精確に表す]
+	ie. xamgu
+
+[guskant.2013-07-14: {(lu'i ny.)} > 不要。「彼らに（読みきかせたり／説いたり）」と
+	言いたい場合は {cusku co tcidu lo djekarni gi'e ciksi lo nuzba...}
+	の文頭に {fi lu'o ny.} とする。集合ではなくて群れを対象としているから。]
+	lu'i ny の ny は lo nuzba。
+	mupli の x3 に lu'i ny を持ってきて、これらが lo nuzba の例であると明示した。
+	いずれにせよ消す。
+
+[guskant.2013-07-14: {lo fasnu be fi'o se preja lo munje}
+	> 個々の事件が世界に広がっているのではなく、局所的な個々の事件の領域が
+		世界であると言いたい。
+		{lo fasnu be tedi'o lo munje} 「世界を領域とした事件」]
+	.ie xamgu la'a
+
+[guskant.2013-07-14: {gau cipra lo du'u cusku ma jy.} 
+	- 「何を話すことができるのか」の「何」は、話される表現自体を指すのでは
+		なく、話題を指していると考えるほうが自然。{cusku x2} とするよりも
+		{tavla x3} とするほうが適切。
+	- このままだと質問文になっている。 {makau} とするか、あるいは、 cipra
+		x2 が本質的に {ka} なので {gau cipra lo ka tavla jy. ce'u} とする。]
+	.ie sai
+	lo ka にするかどうかは、また考えることにする。
+
+[guskant.2013-07-14: {.i ge ca lo nu la cipni .influenz. cu preja lo ponjo kei
+	temci}
+	- {ge} が余分にある
+	- {.influenz.} は世界共通の表現ではないので {lo cipni .influenz. terbi'a}
+	とする方が親切。]
+	.ie sai
+
+[guskant.2013-07-14: {de'i renonomu se tai lo se zukte}
+	- {li} 抜け
+	- {zukte} を {tigni} にするかどうか]
+	.ie
+
+[guskant.2013-07-14: {flanaltinbe jipci molki}
+	- ヤンキーは鶏に係ってはいない。 {ke} を入れる。
+	- 食肉や卵製品の生産より、鶏を育てる方がメイン。
+	- 工業的な養鶏方法という皮肉を含まないなら {molki} より {cange}
+	{flanaltinbe ke jipci cange}]
+	.ie
+
 [dd]良国重城:
 どういう意味かよくわからない。何かのもじりなのか。
 とりあえず「ヤンキー」の部分は固有名詞として訳しておくことにする。
@@ -62,36 +150,6 @@ ________________
 良国重城:
 lo ka jikca simxu (交際しあう集合の持つ性質) のほうが良いだろうか。
 
-[guskant.2013-07-14: {flanaltinbe jipci molki}
-- ヤンキーは鶏に係ってはいない。 {ke} を入れる。
-- 食肉や卵製品の生産より、鶏を育てる方がメイン。工業的な養鶏方法という皮肉を含まないなら {molki} より {cange}
-{flanaltinbe ke jipci cange}]
-[guskant.2013-07-14: {de'i renonomu se tai lo se zukte}
-- {li} 抜け
-- {zukte} を {tigni} にするかどうか]
-[guskant.2013-07-14: {.i ge ca lo nu la cipni .influenz. cu preja lo ponjo kei temci}
-- {ge} が余分にある
-- {.influenz.} は世界共通の表現ではないので {lo cipni .influenz. terbi'a} とする方が親切。]
-[guskant.2013-07-14: {gau cipra lo du'u cusku ma jy.} 
-- 「何を話すことができるのか」の「何」は、話される表現自体を指すのではなく、話題を指していると考えるほうが自然。{cusku x2} とするよりも {tavla x3} とするほうが適切。
-- このままだと質問文になっている。 {makau} とするか、あるいは、 cipra x2 が本質的に {ka} なので {gau cipra lo ka tavla jy. ce'u} とする。]
-[guskant.2013-07-14: {lo fasnu be fi'o se preja lo munje} > 個々の事件が世界に広がっているのではなく、局所的な個々の事件の領域が世界であると言いたい。 {lo fasnu be tedi'o lo munje} 「世界を領域とした事件」]
-[guskant.2013-07-14: {(lu'i ny.)} > 不要。「彼らに（読みきかせたり／説いたり）」と言いたい場合は {cusku co tcidu lo djekarni gi'e ciksi lo nuzba...} の文頭に {fi lu'o ny.} とする。集合ではなくて群れを対象としているから。]
-[guskant.2013-07-14: {danfu lo vo'a preti} > 「vo'a に何らかの関係がある質問に答える」と言うより、 {danfu lo preti be fi vo'a} のほうが、「自問」の部分を精確に表す]
-[guskant.2013-07-14: {se pa'a lo nu na ka'e tavla gi'e se tavla vau lo jipci kei} 
-- {pa'a} と {sepa'a} は可換と思うが、どちらでも良い。
-- 「鶏との対話」は {jy. jo'u/joi zu'i casnu} も可能だが、どちらでも良い。
-- 「不可能であるという事象と並行して」というより
-{pa'a lo ka lo nu jy. joi zu'i casnu ku me ce'u va'e to'e cumki ku} 「不可能さの度合という性質と並行して」
-あるいはさらに精確に言うと
-{pa'a lo ka lo nu jy. joi zu'i casnu ku me ce'u va'e lo si'o to'e cumki ku ku}「不可能さを尺度とする鶏との対話の度合という性質と並行して」]
-[guskant.2013-07-14: {lo du'u .ei lo ma'a ka cusku simxu pe lo cecmu be lo prenu cu mo kau cu rapli preti}
-- 「ようである」は {za'a} か {pe'i} で表せそう。
-- {preti x1} となるのは {du'u} ではなく {sedu'u}。ただし「在り方」は質問の主題であって、質問内容自体は明言されていないから、 {preti x2} を使う方が適切。また、「在り方」を言葉通り解釈するなら {du'u} より {za'i} が良さそう。
-- 「あればあるほど」の部分に {ka ...me ce'u va'e} 案を採用するなら、後半部分で {za'u va'e} などを使う。例えば
-{lo nu preti lo za'i .ei cecmu be lo prenu be'o me ma'a ka cusku/jikca simxu cu za'u va'e [lo si'o basna/cafne...]}
-- もっと数学的に表すなら、文全体の selbri を {parbi} にする。
-{li ma'u parbi lo ni lo nu jy. joi zu'i casnu ku me ce'u va'e to'e cumki ku lo ni lo nu preti lo za'i .ei cecmu be lo prenu be'o me ma'a ka cusku/jikca simxu cu me ce'u va'e}]
 ---mo'u pinka---
 
 
