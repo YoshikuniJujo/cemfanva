@@ -76,3 +76,8 @@ project niwa に関する伝達事項:
 	何となく .i をつけないと、最後の文だけにつけられたコメントのよう
 	な気がしてしまうので .i もつけた。
 	もし正しくなければ簡単に一括置換でもどせます。]
+
+[iocikun.2013-07-15: /niwa/ directory の整理
+	minaoshi.txt と zentai.txt は meta/ へ
+	その他、解決済みのコメント等は logs/ へ
+	directory の名前は適当]
