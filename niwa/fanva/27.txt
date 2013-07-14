@@ -1,16 +1,18 @@
 27
 首相官邸前から富士山頂上までデモ行進する [nalteo]
-2012, 布にインクジェットプリント[aj](1450mm x 2650mm), 木材
+2012, 布にインクジェットプリント(1450mm x 2650mm), 木材
 同プロジェクトのヴィデオフッテージから抜き出された静止画像を特大サイズ
-の布にインクジェットプリントした。等身大[ak]を越えるサイズで出力すること
+の布にインクジェットプリントした。等身大を越えるサイズで出力すること
 によって画像を劣化させ写真的美学を排除し、行為の意味性を強調した。展示では、
-薄く光を通す布の特性を利用し、写真を固定[al]させる為の枠の影を画像に重ね
+薄く光を通す布の特性を利用し、写真を固定させる為の枠の影を画像に重ね
 合わせて、水平にならないように設置した。画像に入り込んだ枠の影はあたかも現
-実の地平線[am]を写したように見えるが、実際に現場で見えていた地平線なのか、
-それとも単なる枠の影なのか?  あえて不明瞭[an]にすることで私たちを取り
-巻く環境の不確定性[ao]を表現している。
+実の地平線を写したように見えるが、実際に現場で見えていた地平線なのか、
+それとも単なる枠の影なのか?  あえて不明瞭にすることで私たちを取り
+巻く環境の不確定性を表現している。
+
 ni'o rebi mo'o
-lu ja'odzu fe'eco'u lo .fujin. cmana stedu lo tertrube'e zdani li'u
+lu ja'odzu fe'eco'u lo .fujin. cmana stedu fe'eco'a lo tertrube'e
+gubzda li'u
 de'i li renopare
 fi'o bukpu jo'u ximje'epri to vi'a miltre li pavomuno fa'u rexamuno
 toi
@@ -26,26 +28,6 @@ ku'o lo xradatni fau lo nu na pinta
 tumvinkoi
 .ibo me ge'ikau lo bu'u ca'a tumvinkoi gi lo greku ctino
 .i gau danfu nandu secu'u lo kamnorla'e pe lo vanbi be mi'o
-
----co'a pinka---
-[aj]nalteon:
-jetce zei xinmo zei prina
-[ak]nalteon:
-fatci zei ni zei barda
-[al]nalteon:
-cando zei jgari
-[am]nalteon:
-tumla zei jvinu zei korbi
-[an]nalteon:
-danfu zei nandu
-jetnu zei nandu
-[ao]nalteon:
-ka zei no'e zei lakne
-ka zei no'e
-
-[guskant.2013-07-10: miltre の前に vi'a を追加]
-[guskant.2013-07-12: fa'u li を fa'u に(28に合わせた) ]
----co'u pinka---
 
 
 
