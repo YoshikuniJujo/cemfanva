@@ -33,12 +33,13 @@ seikeiJE1 n (Japanese, str) = take 4 str' ++
 	reverse (map reverse $ seikeiJ n [] $ concat $ drop 4 str') ++ [""]
 	where
 	str' = map dropHeadSpace str
-seikeiJE1 n (English, str) = unwords niho :
+seikeiJE1 n (English, str) = unwords niho : "" :
 	map unwords (reverse $ map reverse $ seikeiE n [] lihu) ++
-	map unwords (reverse $ map reverse $ seikeiE n [] bi) ++
-	map unwords (reverse $ map reverse $ seikeiE n [] ws''') ++
-	[""]
+	map unwords (reverse $ map reverse $ seikeiE n [] bi) ++ [""] ++
+	map unwords (reverse $ map reverse $ seikeiE n [] body) ++ [""] ++
+	map unwords (reverse $ map reverse $ seikeiE n [] tohi) ++ [""]
 	where
+	(body, tohi) = spanTOhISAhA ws'''
 	(bi, ws''') = spanI ws''
 	(lihu, ws'') = spanLIhU ws'
 	(niho, ws') = spanMOhO ws
@@ -58,6 +59,11 @@ spanLIhU :: [String] -> ([String], [String])
 spanLIhU [] = ([], [])
 spanLIhU ("li'u" : ws) = (["li'u"], ws)
 spanLIhU (w : ws) = let (niho, body) = spanLIhU ws in (w : niho, body)
+
+spanTOhISAhA :: [String] -> ([String], [String])
+spanTOhISAhA [] = ([], [])
+spanTOhISAhA ("to'i" : "sa'a" : ws) = ([], "to'i" : "sa'a" : ws)
+spanTOhISAhA (w : ws) = let (body, tohi) = spanTOhISAhA ws in (w : body, tohi)
 
 seikeiJ :: Int -> [String] -> String -> [String]
 seikeiJ _ r "" = r
