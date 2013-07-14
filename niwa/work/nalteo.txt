@@ -308,7 +308,10 @@ taksido
 speni zei binxo zei nupre
 [bq]nalteon:
 実際か噂か
----co'u pinka---
+[guskant.2013-07-14: miltre の前に vi'a を追加]
+[guskant.2013-07-14: {prinlamda} > {.lamdas. prina}]
+[guskant.2013-07-14: li parenono fa'u pamunono の後に toi を追加]
+---mo'u pinka---
 
 
 
@@ -317,7 +320,13 @@ speni zei binxo zei nupre
 ---co'a pinka---
 [br]nalteon:
 misno zei seljvinu
----co'u pinka---
+[guskant.2013-07-14: {tezuz'e} > {bei tezu'e}]
+[guskant.2013-07-14: miltre の前に vi'a を追加]
+[guskant.2013-07-14: {prinlamda} > {.lamdas. prina}]
+[guskant.2013-07-14: {vi la .cynyn.} > {ne'a la .cynyn.}]
+[guskant.2013-07-14: {noi slanydi'u} > {noi slanydi'u zi'e}]
+[guskant.2013-07-14: {pugi kajde} > {bagi kajde}]
+---mo'u pinka---
 
 
 
@@ -492,8 +501,7 @@ ________________
 [guskant.2013-07-10: bracu'e 2箇所を balcu'e に変更
 fityzu'e を mukyzu'e に変更
 simpo'e ja simsi'o を kanpo'e ja te kansi'o に変更
-noi kuldi'u の後に ku'o を挿入(camxesでエラーになるが、おそらく新文法で
-は回避されるか? )
+noi kuldi'u の後に zi'e を挿入(ku'o だと camxesでエラーになるので念のためzi'e にした)
 fi'o simxu selfri be を va'o lo se lifri be fi'o kansa に変更
 frica を drata に変更]
 [guskant.2013-07-12: ja'eku の前に se を追加]
