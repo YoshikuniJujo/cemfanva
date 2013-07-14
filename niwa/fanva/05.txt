@@ -9,23 +9,69 @@
 便を使って送り返す。一度きりの出会いの中から、どのような関係を生んでいける
 のかを模索することから始まった。簡単に手に入る野菜は珍しくもなんともない
 が、どこにでもある物が思い出として深く刻み込まれる可能性を示唆した。
+
 ni'o mu mo'o
+
 lu lo se morji be fi lo nu kansa lo stagi li'u
-de'i li renonobi fi'o vreji lo zukte skina pe lo mentu be li pavo
-pi'e nono
+
+de'i li renonobi fi'o vreji lo tigni skina pe lo mentu be li pavo pi'e nono
+
 .i bu'u lo jungo .canxain. tcadu ge jgari lo najgenja .a lo brukobli
-.a lo bolsluni mu'a no'u lo stagi poi bu'u lo se klama ku frili cpacu
-gi si'u ro lo viska cu terxra fi lo morji kacma pixra .i ba ku ba lo
-nu xruti fi lo gugde .i ba ku ba lo nu xruti fi lo gugde pu zbasu lo
+.a lo bolsluni mu'a no'u lo stagi poi bu'u lo se klama ku frili ke vecnu cpacu
+gi si'u ro lo viska cu terxra fi lo morji ke kacma pixra
+.i ba ku ba lo nu xruti fi lo gugde cu pu zbasu lo
 pixra lo cixa mei gusyvelvei[cy] .i ge fi lo poi pu'e la'e di'u jai
-mulno cixa pixra fe lo braxra[cz] cu zbasu gi fi lo su'o re prenu poi
-cmima zukte se pi'o lo gugykruca xe mrilu cu xruti benji .i la'e dei
+mulno ku'o cixa pixra fe lo braxra[cz] cu zbasu gi fi loi no'o prenu poi
+cmima zukte ku'o fu lo gugykruca xe mrilu cu xruti benji .i la'e dei
 se krasi lo nu troci co djuno[da] lo du'u fi lo nu pa po'o roi penmi
 ku fe ma kau no'u lo te ckini cu ka'e zbasu .i ge lo stagi poi frili
 cpacu ba'e na rirci gi ku'i pu jarco lo du'u lo nu co'a mutce
-vreji[db] lo se morji lo fadni zasti cu cumki
+vreji[db] lo se morji lo'e zasti be ro da cu cumki
 
 ---co'a pinka---
+
+--- チェック済み
+
+[guskant.2013-07-13: {lo zukte skina pe lo mentu be li pavo pi'e nono} > {lo
+	tigni skina noi mentu li pavo pi'e nono} とする方針]
+	.ie
+
+[guskant.2013-07-13: {.i ba ku ba lo nu xruti fi lo gugde .i ba ku ba lo nu
+	xruti fi lo gugde} > 消し忘れ]
+	.ie
+
+[guskant.2013-07-13: {fi lo poi pu'e la'e di'u jai mulno cixa pixra} > ku'o忘れ？
+	{fi lo poi pu'e la'e di'u jai mulno ku'o cixa pixra}
+	.ie
+
+[guskant.2013-07-13: {poi cmima zukte se pi'o lo gugykruca xe mrilu} 
+	- 「国際郵便を使って参加した」になっている。 ku'o が必要。
+	- {se pi'o} の代わりに {fu} でも言えそう。
+	{poi cmima zukte ku'o fu lo gugykruca xe mrilu}]
+	.ie
+
+[guskant.2013-07-13: {lo fadni zasti} 「平凡な実在物」>
+	{lo'e zvati be roda} 「どこにでもある物」]
+	.ie
+
+[guskant.2013-07-13: {morji kacma pixra} 「思い出のカメラの絵」というより
+	{morji ke kacma pixra} か]
+	.ie
+
+[guskant.2013-07-13: {ba lo nu xruti fi lo gugde pu zbasu} >
+	{pu} が nu 内に入ってしまい、メインのbridiが無い。
+	{cu pu}とする必要がある。]
+	.ie
+
+[guskant.2013-07-13: {frili cpacu} （1個目のみ）> これでも良いが、お金を払って
+	いることを表すなら {frili ke vecnu cpacu}]
+	.ie sai
+
+[guskant.2013-07-13: {lo su'o re prenu} > 「複数の人」というより
+	{loi no'o prenu} 「あの人数の人の群れ」という方が、ここでの「人々」という
+	意味に近い。多分36人前後。]
+	.ie
+
 [ct]良国重城:
 中国の上海: lo jungo .canxain. tcadu
 [cu]良国重城:
@@ -126,20 +172,4 @@ ________________
 記録が「深い」というのはある種の文化的な比喩のように感じられたのでより
 中立的な mutce を使ってみた。
 
-[guskant.2013-07-13: {lo zukte skina pe lo mentu be li pavo pi'e nono} > {lo tigni skina noi mentu li pavo pi'e nono} とする方針]
-[guskant.2013-07-13: {frili cpacu} （1個目のみ）> これでも良いが、お金を払っていることを表すなら {frili ke vecnu cpacu}]
-[guskant.2013-07-13: {morji kacma pixra} 「思い出のカメラの絵」というより {morji ke kacma pixra} か]
-[guskant.2013-07-13: {.i ba ku ba lo nu xruti fi lo gugde .i ba ku ba lo nu xruti fi lo gugde} > 消し忘れ]
-[guskant.2013-07-13: {ba lo nu xruti fi lo gugde pu zbasu} > {pu} が nu 内に入ってしまい、メインのbridiが無い。 {cu pu}とする必要がある。]
-[guskant.2013-07-13: {fi lo poi pu'e la'e di'u jai mulno cixa pixra} > ku'o忘れ？ {fi lo poi pu'e la'e di'u jai mulno ku'o cixa pixra}
-[guskant.2013-07-13: {lo su'o re prenu} > 「複数の人」というより {loi no'o prenu} 「あの人数の人の群れ」という方が、ここでの「人々」という意味に近い。多分36人前後。]
-[guskant.2013-07-13: {poi cmima zukte se pi'o lo gugykruca xe mrilu} 
-- 「国際郵便を使って参加した」になっている。 ku'o が必要。
-- {se pi'o} の代わりに {fu} でも言えそう。
- {poi cmima zukte ku'o fu lo gugykruca xe mrilu}]
-[guskant.2013-07-13: {lo fadni zasti} 「平凡な実在物」>  {lo'e zvati be roda} 「どこにでもある物」]
 ---mo'u pinka---
-
-
-
-
