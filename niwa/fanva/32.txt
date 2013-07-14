@@ -7,6 +7,7 @@
 不明であるまま、ぼく家の鍵が流通することになる。「ぼくの家の鍵は常に誰か第
 三者が持っている」という状況を作り出すことで、他者との連帯や共有の現実的
 な不可能性を明示する。
+
 ni'o cire mo'o lu .i lo ckiku pe lo mi zdani cu gau se fukpi gi'e
 fatri fi'o se cpana lo klaji li'u
 
@@ -15,21 +16,12 @@ ju'u xano
 
 .i lo nu fukpi lo ckiku pe lo mi zdani cu se cpedu fi lo ckiku zarci
 ije lo fukpi fatri lo to'e djuno prenu fi'o se cpana lo klaji pe la
-<<<<<<< HEAD
 akixabaran .i lo judri cu na te djuno .ije lo ckiku pe lo mi zdani
 cu canja se flecu secau lo datni be lo du'u mokau lo ckiku bei tu'i 
 makau.i lo nu zbasu lo tcini no'u la'e lu lo ckiku pe lo mi zdani
 cu ru'i se ponse le na srana prenu poi mi na djuno li'u be'o cu
 jarco li'a le fatci ka na cumki be lo nu jikca jorne gi'e lo nu kansa
 se ponse vau lo drata
-=======
-akixabaran .i lo judri cu na'e te djuno .ije lo ckiku pe lo mi zdani
-cu flecu secau lo datni be lo du'u mokau bei lo ckiku bei fi'o se
-diklo makau(*11) .i lo nu zbasu lo tcini be lu lo ckiku pe lo mi zdani
-cu ze'e se ponse le na'e srana prenu poi mi na'e djuno li'u be'o cu
-stidi li'a le fatci na'e se cumki be lo nu kansa jorne e lo nu gunma
-ponse bei gau le na'e srana prenu be'o(*12)
->>>>>>> 7ea43f3fe2da0e88b31d20006a6758094be78fa2
 
 ---co'a pinka---
 ki'e do pinka
