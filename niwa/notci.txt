@@ -60,3 +60,14 @@ project niwa に関する伝達事項:
 	コメント等を削除し、ひとつのファイルにまとめる tool を作成する。
 	[xx] や (*x) を削除することと、---co'a pinka--- 以下を削除するだけ
 	なので簡単だと思う]
+
+[iocikun.2013-07-14: 入稿用のファイルを作成する tool を作った
+	もし必要ならば、改行等を変更する機能をつけても良い。
+	つまり、
+	.i mi mutce mutce mutce mutce mutce mutce mutce mutce prami do
+	.i do mutce mutce mutce mutce prami mi
+	のような文を
+	.i mi mutce mutce mutce mutce mutce mutce mutce
+	mutce prami do .i do mutce mutce mutce mutce prami
+	mi
+	のような形に整形し直す機能]
