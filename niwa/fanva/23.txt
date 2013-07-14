@@ -15,10 +15,12 @@
 協力: mirror publishing
 
 ni'o reci mo'o
-lu ckupra lo lardai liste poi(*1) xe fanva fi lo cixa bangu li'u
+lu ckupra lo lardai liste noi(*1) xe fanva fi lo cixa bangu li'u
+de'i renopare se tai lo te platu
 (*2)
-.i ckupra lo liste be lo'i ro lardai gungunma(*5) be ba'o(*4) la
-renonovonanc.(*3) ku poi xe fanva(*6) fi lo cixa bangu(*7)
+.i ckupra lo liste be lo'i ro ve ciksi be fi lo lardai te platu(*5)
+poi gasnu ke'a ba(*4) lo se detri be li renonovo(*3) be'o poi
+fanva(*6) fi lo cixa bangu (*7) fu ke'a
 .i lo bangu sei krasi se finti zo'e lo nu lo'i stuzi cu simxu lo nu
 casnu
 .i ku'i va'o lo cabna kluce'u noi ca'o gugykruca ku bu'u so'i
@@ -52,6 +54,9 @@ poi ma'a ponse
 	い」ではなく「この作品は 36 の言語に訳されてないよ」だと思うので、noi の
 	ほうが良さげだ。
 
+- そうですね。poi だと、作品集が他にもある（正確には「翻訳していない作
+  品集がある」）感じがします。 - H
+
 *2: 「2102 プロジェクト」が訳出されてない?:
 	nalteo さんのところで、「プロジェクトの ...」において finpla を seltau
 	とした tanru を使っていた。「プロジェクト」ってのはここで使われてる使い
@@ -59,9 +64,14 @@ poi ma'a ponse
 	のだろうか。finti をつける必要はあるだろうか。
 	とりあえず、僕としては de'i renopare se tai lo te platu を提案。
 
+- 忘れていました。platu の x3 は state/process となっていますが、これで正しいのですか？
+  - H
+
 *3: la renonovonanc.: -> lo se detri be li renonovo
 	2004年ってのは「年」につけた名前でしかないと言われれば、
 	そんな気もしますが。detri を使ったほうが意味がはっきりします。
+
+- はい、名前より数字のほうが良いと思います。 - H 
 
 *4: ba'o la renonovonanc.: ba と ba'o は BAI として使ったときには同意では?
   mi ba'o citka (私は食べ終わった)
@@ -79,10 +89,14 @@ poi ma'a ponse
   ので、ここでの、むしろ点(起点)としての時間を表現している「2004年から」の
   訳として余計不適切かと。
 
+- 同意です、ba にします。- H
+
 *5: プロジェクト: lo gungunma -> lo te platu
   この場合、「仕事の(結果の)群れ」よりも「計画されて行われること」のほうが
   適切かと思われる。
   しかし、lo te platu とした場合、以降の be ba'o ... は使いにくい。
+
+- 上記同様、計画されて行われること、なら、platu の x2 ではないのでしょうか？ - H
 
 *6: fanva: 実際に翻訳されているのはプロジェクトそのものではなく
   「プロジェクトの説明」
@@ -91,6 +105,9 @@ poi ma'a ponse
   .i ckupra lo liste be lo'i ro ve ciksi be fi lo lardai te platu poi
   gasnu ke'a ba lo se detri be li renonovo be'o poi fanva fi lo cixa bangu
   fu ke'a
+
+- 以上、試訳で更新しておきました。ありがとうございます。 - H
+
 ---mo'u pinka---
 
 

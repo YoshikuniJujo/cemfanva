@@ -7,11 +7,7 @@
 読み取れるサインを作り出すことによって意味の決定は人の心理状態に依って
 いることを示唆する。
 ni'o revo mo'o
-lu zo demonen navni tubnu li'u
-
-[guskant.2013-07-11: タイトルにlo を入れないと、zo demonen をx1 とする
-bridiになってしまう
-lu lo zo demonen navni tubnu li'u]
+lu lo zo demonen navni tubnu li'u
 
 de'i li renopare fi'o vreji lo navni tubnu poi vi'a miltre li vonono
 fa'u li munono
@@ -25,5 +21,11 @@ fo'a .e fo'e stidi lo nu lacri fa lo smuni nunjdice fe lo prenu menli
 tcini
 
 
+---co'a pinka---
 
+[guskant.2013-07-11: タイトルにlo を入れないと、zo demonen をx1 とする
+bridiになってしまう
+lu lo zo demonen navni tubnu li'u]
+
+---mo'u pinka---
 
