@@ -326,6 +326,7 @@ misno zei seljvinu
 [guskant.2013-07-14: {vi la .cynyn.} > {ne'a la .cynyn.}]
 [guskant.2013-07-14: {noi slanydi'u} > {noi slanydi'u zi'e}]
 [guskant.2013-07-14: {pugi kajde} > {bagi kajde}]
+[guskant.2013-07-14: toi を追加]
 ---mo'u pinka---
 
 
@@ -505,6 +506,7 @@ noi kuldi'u の後に zi'e を挿入(ku'o だと camxesでエラーになるの�
 fi'o simxu selfri be を va'o lo se lifri be fi'o kansa に変更
 frica を drata に変更]
 [guskant.2013-07-12: ja'eku の前に se を追加]
+[guskant.2013-07-14: toi を追加]
 ---mo'u pinka---
 
 
