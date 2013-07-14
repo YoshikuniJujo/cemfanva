@@ -6,13 +6,13 @@
 郡楢葉町へ移動させる。全村避難させられた楢葉町は、2012年夏に警戒区域を解除
 され往来が可能になったが、放射能の不安やインフラの壊滅的ダメージにより戻
 ってくる市民は未だ少なく、往来がない路上には雑草が茂るばかりである。東京か
-らさほど遠くない地域の現実といかに向き合いかと問う時、[a]関わりを持とう
+らさほど遠くない地域の現実といかに向き合いかと問う時、関わりを持とう
 としても部外者として消去されてしまいそうになる自分には、路上の水たまりく
-らいしか移動させられないのではないか? という思いから出発している。[b]輸
+らいしか移動させられないのではないか? という思いから出発している。
 送物の残骸である廃段ボールを張り合わせて立方体を作り、その中に2面の映像
 を投影したが、床面のわずかな隙間を残して入り口が塞がれているため、鑑賞者は
 作家と同様地面を這いつくばるような姿勢にならないと作品が見られない構造
-になっている。[c]
+になっている。
 ni'o cici mo'o lu .i lo djacu senta xi abu cu gau muvdu lo djacu
 senta xi by li'u
 
@@ -30,14 +30,14 @@ lo nu klama cu cumki .i ku'i so'u xabju prenu se xruti mu'i lo nu
 dunku be lo nu dirce kakne be'o e lo nu mulno daspo lo jmive jicmu ku
 .ije lo cilce srasu cu ze'u banro po'o fi'o se cpana lo klaji noi
 ji'i no da klama .i va'o lo nu preti lo du'u ta'i ma kau se nabmi lo
-fatci pe lo naldu'e darno be la tokion be'o foldi ku lo nu lo
-sevzi[d] cu canci ba'a gau zo'e zo'u se krasi lo se pensi no'u xu kau
-lo djacu senta be fi'o se cpana lo klaji be'o gau muvdu e'e po'o .i
-lo vikmi bonjarple poi ka'a temfesti pe lo benji ge gau pencu jorne
+fatci pe lo naldu'e darno be la tokion be'o foldi ku lo nu mi canci 
+ba'a gau zo'e zo'u se krasi lo se pensi no'u xu kau lo djacu senta 
+be fi'o se cpana lo klaji be'o gau muvdu e'e po'o .i lo vikmi 
+bonjarple poi ka'a temfesti pe lo benji ge gau pencu jorne
 gi te zbasu lo kubli ije ne'i ri lo tivni pe lo re fliracu cu renro
-gusni jarco .i ku'i lo ta stura zo'u ri'a lo nu da'a so'u lo nenri
-pluta pe lo cpana cu ganlo kei te tai lo finti ku lo zgana cu tarmgau
-fi'o simsa lo sefta muvdu pe lo tumla[e] gi'a na ka'e zgana
+gusni jarco .i ku'i lo ta stura tai lo za'i lo zgana ku ga tarti sei
+lo finti ku tamsmi lo za'i pe'a cadzu lo tumla lo betfu gi na'e ka'e
+zgana lo larcu
 
 ---co'a pinka---
 [a]良国重城:
@@ -134,6 +134,7 @@ seltra などでも良いと思います。
 案:
 fi'o seltra lo za'i pe'a cadzu lo tumla lo betfu
 「地表を腹で歩くような状態を姿勢として」
+
 ________________
 gusni kantu:
 「鑑賞者は作家と同様地面を這いつくばるような姿勢にならないと作品が見ら
@@ -141,6 +142,10 @@ gusni kantu:
 selbri扱いの方が良さそうですね。
 stura tai lo za'i lo zgana ku ga tarti sei lo finti ku tamsmi lo za'i
 pe'a cadzu lo tumla lo betfu gi na'e ka'e zgana lo larcu
+
+	la limna:
+	ki'e i'a mi galfi zo'e lo fanva be fa do
+
 ---mo'u pinka---
 
 

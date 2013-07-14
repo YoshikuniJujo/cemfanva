@@ -15,12 +15,12 @@ ju'u xano
 
 .i lo nu fukpi lo ckiku pe lo mi zdani cu se cpedu fi lo ckiku zarci
 ije lo fukpi fatri lo to'e djuno prenu fi'o se cpana lo klaji pe la
-akixabaran .i lo judri cu na'e te djuno .ije lo ckiku pe lo mi zdani
-cu flecu secau lo datni be lo du'u mokau bei lo ckiku bei fi'o se
-diklo makau(11) .i lo nu zbasu lo tcini be lu lo ckiku pe lo mi zdani
-cu ze'e se ponse le na'e srana prenu poi mi na'e djuno li'u be'o cu
-stidi li'a le fatci na'e se cumki be lo nu kansa jorne e lo nu gunma
-ponse bei gau le na'e srana prenu be'o(12)
+akixabaran .i lo judri cu na te djuno .ije lo ckiku pe lo mi zdani
+cu canja se flecu secau lo datni be lo du'u mokau lo ckiku bei tu'i 
+makau.i lo nu zbasu lo tcini no'u la'e lu lo ckiku pe lo mi zdani
+cu ru'i se ponse le na srana prenu poi mi na djuno li'u be'o cu
+jarco li'a le fatci ka na cumki be lo nu jikca jorne gi'e lo nu kansa
+se ponse vau lo drata
 
 ---co'a pinka---
 ki'e do pinka
@@ -90,6 +90,7 @@ cpedu は僕の参照している辞書では、 x4 までしかない。また 
 と思うので、fu -> fi
 
  ue du'e lo mi srera
+
 *9: le -> lo
 le nanmu だと、心のなかに先に像が形成されている感じ。例のその男といった感
 じ。
@@ -109,7 +110,7 @@ ti だと空間的な「これ」。こういう場合、cy. とかで前の sum
 僕の好みは lo di'u fukpi として「前に言ったことに関連した鍵」とするも
 の。
 
- galfi zo'e lu lo fukpi zoi li'u
+ galfi zo'e lu lo fukpi li'u
 
 *11: .i lo judri cu na'e te djuno .i je lo ckiku pe lo mi zdani cu
 flecu secau lo datni be lo du'u mokau bei lo ckiku bei fi'o se diklo
@@ -122,15 +123,32 @@ te na'e djuno としても、「知る以外」ということで、たとえば
 けど推測はできる」等の含意を持ってしまうかもしれない。つまり mi na'e
 cadzu だと「歩く以外」で「走った」のかもしれない。ここら素直に na te
 djuno としておいたほうが無難だろう。
+
+	i'a
+
 また、「ので、」が訳出されてない。ここはまさに「ni'i を使うのはいつ?今でしょ
-」といった感じ。flecu の x1 は「流れ」で x2 が「流れる物」なので se が必
+」といった感じ。
+
+	mi cusku da zo'e zo ije
+	ijeでは、弱いですかね・・。
+	mi na galfi
+
+flecu の x1 は「流れ」で x2 が「流れる物」なので se が必
 要。また「流通」だと canja をつけたほうが良い気がする。da canja se flecu
-で da が流通する、といった感じになるか。lo datni be lo du'u mokau bei lo
-ckiku の2つめの bei は be の typo? いずれにしても lo du'u のなかで、be
+で da が流通する、といった感じになるか。
+
+	ie vi'o
+
+lo datni be lo du'u mokau bei lo ckiku の2つめの bei は be の typo? いずれにしても lo du'u のなかで、be
 等は不要かと。
+
+	typoというより、単に翻訳中の消し忘れでした・・・。
+
 また、fi'o se diklo には se di'o があるのでそっちを使うべきだが、それだけ
 でなく、tu'i (stuzi の modal) の使用も考慮してみてください。stuzi と
 zvati の関係等、なかなか難しいところがありますが。
+
+	pilno zo tu'i
 
 *12: .i lo nu zbasu lo tcini be(13) lu lo ckiku pe lo mi zdani cu
 ze'e(14) se ponse le na'e(15) srana prenu poi mi na'e(16) djuno li'u
@@ -139,40 +157,92 @@ jorne(20) e lo nu gunma ponse(21) bei gau(22) le na'e srana prenu(23)
 be'o
 *13: tcini の x2 はその状況に置かれた物で、状況そのものは x1 なので be
 でなく no'u la'e lu ...  とすべきかと。
+
+	i'a
+
 *14: ze'e は 時間間隔の全てを示す。ze'e pa roi klama はだいたい「生涯一
 度だけ行く」を表す。この場合、ある時間間隔のなかでの「常に」=「持続して」
 なので ru'i のほうが良いと思う。
+
+	i'a
+
 *15: na'e は「...以外」なので srana 以外の何かがあることを暗示する。na
 srana のほうが良いと思う。
+
+	i'a
+
 *16: ここも na'e より素直に na を使ったほうが良いかと。「『知っている』
 ではない」だと下手すると「『知っている』どころではない」->「親しくつき
 あっている」と解釈することさえできそう。(ただし親しくつきあっているなら
 ば「知っている」はずなので、やや無理はあるが、理解しやすさのための嘘という
 ことで、ニュアンスを伝えたいということ)とにかく、na'e で余計なニュアンスを
 入れるよりは na を使ったほうが良さそう。
+
+	i'a 
+
+	ku'i 今回の場合は、ご指摘部位は、ほぼ置き換えられますが
+	naとna'eの使い分けについてはna'eの係る範囲(単語)と
+	naの係る範囲（bridi）が異なるため、ニュアンスとは別の観点で
+	考えるべきところもあるので要検討だと思います。
+
+	一般的に、ニュアンスをわきに置いて、
+	naが対象としない部分否定を行うために
+	na'eを使うようなケースは多いと思います。
+	（代替手段がなさそうであるため）
+	
+
 *17: stidi は「x1 が x3 に x2 をさせようとふるまう」といった感じ。「示唆
 する」の意味のうち「そそのかす」のほう。「暗に示す」のほうではない。
+
+	ie mi galfi zo stidi zo jarco
+
 *18: li'a は談話系なので「明らかに示す」ではなく「明らかに、示す」のほう。
-つまり、文全体を修飾するのであり、selbri を修飾するのではない。これは、文のど
-こについていても同じ。文のなかのどこが明らかであるかは場所によって示せる
+つまり、文全体を修飾するのであり、selbri を修飾するのではない。これは、文のどこについていても同じ。文のなかのどこが明らかであるかは場所によって示せる
 が、全体の意味は「明らかに私の主張は正しい」といった意味。その正しさの焦点
 は変えられるが。「この事実は X を明らかに示している」と「この事実は X を、
 明らかに、示している」の違い。
+
+	uanai
+	ご指摘いただいている点が、よくわかりません。
+
+	例えば、「ku'i」も談話系ですが、係る位置によっては
+	文全体にかかるとは限らないと思います。
+
+	試訳のklinaについては、私も始めそのように割り当てましたが
+	よくよく考えてみると英語的な訳だと思ったので、やめました。
+
+	例えば、日本語でも透過的と明らかというのは異なります。
+	「明らか」というのは、明るさの比喩ですし。
+
 *19: cumki の x2 は条件であり「あり得る、あり得ない」の対象となる事では
 ない。「現実的な不可能性」は lo fatci ka to'e cumki あたりでどうだろうか。
 ka na cumki とどっちがいいかはわからないが、na'e cumki はまずい。可能性以
 外ということで、もしかすると実現しているということを示している可能性すら
 ある。(これには上記で述べたような問題点はあるが)
+
+	galfi fi lu le fatci ka na cumki li'u
+
 *20: kansa jorne だと「(何か他のものに)一緒に結合している」感じがする。
 jikca jorne (社交的につながる)はどうか。
+
+	i'a
+
 *21: gunma ponse よりも、「他者*との*」に注目すれば、kansa ponse のほうが
 良さそう。僕の試訳では ponse co kansa によって co の力を生かしてみた。
+
+	i'o
+
 *22: gau は agent を示すので、これだと「他者がなしている(実現している)共
 有」等になってしまう。つまり gau X の場合、その bridi を成立させている者が
  X であるということだろう。
+
+	galfi zo'e lu fi'o kansa li'u
+
 *23: 単に他者と言っているので「関係無い者」と言うよりは「自分でない者
 」という意味で良いかと思う。とすると lo drata (be mi)。異質さを言おうとす
 るならば lo frica か lo fange。
+
+	ie lo drata
 
 -> .i ta'i lo nu zbasu lo tcini no'u la'e lu lo ckiku pe lo mi zdani
 cu ru'i se ponse le na srana prenu poi mi na djuno cu klina jarco lo
