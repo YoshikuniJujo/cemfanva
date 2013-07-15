@@ -81,3 +81,15 @@ project niwa に関する伝達事項:
 	minaoshi.txt と zentai.txt は meta/ へ
 	その他、解決済みのコメント等は logs/ へ
 	directory の名前は適当]
+
+[iocikun.2013-07-16: shukka.hs の編集と、title へのコメント, 16.txt ケアレスミス
+	shukka.hs へ title 部の整形処理を追加
+		今のところ
+		lu za'ure'u ...
+		sei fe lu'e ...
+		(空行)
+		to lo poi ... toi li'u という形
+		lu と li'u を独立した行にしても良いが ...
+	title へのコメント
+		目を通していただけると幸いです。
+		ただし最終判断は委ねます]

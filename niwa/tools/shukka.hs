@@ -33,17 +33,37 @@ seikeiJE1 n (Japanese, str) = take 4 str' ++
 	reverse (map reverse $ seikeiJ n [] $ concat $ drop 4 str') ++ [""]
 	where
 	str' = map dropHeadSpace str
-seikeiJE1 n (English, str) = unwords niho : "" :
-	map unwords (reverse $ map reverse $ seikeiE n [] lihu) ++
-	map unwords (reverse $ map reverse $ seikeiE n [] bi) ++ [""] ++
-	map unwords (reverse $ map reverse $ seikeiE n [] body) ++ [""] ++
-	map unwords (reverse $ map reverse $ seikeiE n [] tohi) ++ [""]
+seikeiJE1 n (English, str)
+	| "ni'o" `isPrefixOf` head str =
+			unwords niho : "" :
+			map unwords (reverse $ map reverse $ seikeiE n [] lihu) ++
+			map unwords (reverse $ map reverse $ seikeiE n [] bi) ++
+			[""] ++
+			map unwords (reverse $ map reverse $ seikeiE n [] body) ++
+			[""] ++
+			map unwords (reverse $ map reverse $ seikeiE n [] tohi) ++
+			[""]
+	| "lu" `isPrefixOf` head str =
+			map unwords (reverse $ map reverse $ seikeiE n [] mTitle) ++
+			map unwords (reverse $ map reverse $ seikeiE n [] sTitle) ++
+			[""] ++
+			map unwords (reverse $ map reverse $ seikeiE n [] toToi) ++
+			[""]
 	where
 	(body, tohi) = spanTOhISAhA ws'''
 	(bi, ws''') = spanI ws''
 	(lihu, ws'') = spanLIhU ws'
 	(niho, ws') = spanMOhO ws
+
+	(mTitle, sTitle) = spanSei title'
+	(title', toToi) = spanTo ws
+
 	ws = concatMap words str
+seikeiJE1 n (English, w : _) = error $ "seikeiJE1: " ++ w
+
+spanSei, spanTo :: [String] -> ([String], [String])
+spanSei = span (/= "sei")
+spanTo = span (/= "to")
 
 spanI :: [String] -> ([String], [String])
 spanI [] = ([], [])
@@ -99,6 +119,7 @@ jeGroups = map (\ls -> (fst $ ls !! 0, map snd ls)) .
 sepNIhO :: String -> (String, String)
 sepNIhO "" = ("", "")
 sepNIhO ('n' : 'i' : '\'' : 'o' : cs) = ("", "ni'o" ++ cs)
+sepNIhO ('l' : 'u' : cs) = ("", "lu" ++ cs)
 sepNIhO (c : cs) = let (j, e) = sepNIhO cs in (c : j, e)
 
 addJE :: String -> (JE, String)
