@@ -1,0 +1,30 @@
+タイトルの構造についての説明		文責: .iocikun. (Yoshikuni Jujo)
+
+lu
+
+za'ure'u gau draci lo ka gubni 
+sei fe lu'e lo ve ciksi be lo larcu cixa bangu cu fanva
+
+to lo poi la .ni,uan.iocinor. cu cmizu'e fi ke'a ku'o selpla be ca lo nanca be
+	li renonovo ga'o bi'o ga'o renopare toi
+
+li'u
+
+lojban の構造を知っておくことがレイアウト決定の一助となるかもしれない。
+
+まず、lojban では他の言語において「記号」が使われるような場面においても、
+発音可能な「単語」が使われる。
+文の構造のすべてが「発話可能」ということだ。
+これらのうち最も頻出するのが、日本語の「。」や英語の .(ピリオド) にあたる
+.i だろう。
+
+タイトルの説明に移る。
+「タイトル」は文の内容ではなく、「文字列」なのでそれを引用符で囲まなければ、
+lojban として正しい表現とならない。
+その引用符にあたるのが上記の lu と li'u である。
+
+そして、sei はメタ的な情報を表現し、「作品の解説を ...」の部分が、
+タイトルの説明になっていることを表現している。
+
+また、最後の to と toi は他の言語における '(', ')' にほぼ相当し、
+そのなかの文が二次的なものであることを示している。
