@@ -110,11 +110,16 @@ myLength (c : cs)
 	| otherwise = error $ "bad: myLength " ++ [c]
 
 jeGroups :: String -> [(JE, [String])]
-jeGroups str = let (j, e) = sepNIhO str in [(Japanese, lines j), (English, lines e)]
+jeGroups str = let (j, e) = sepNIhO str in [
+	(Japanese, map deleteTailSpaces $ lines j),
+	(English, map deleteTailSpaces $ lines e)]
 {-
 jeGroups = map (\ls -> (fst $ ls !! 0, map snd ls)) .
 	groupBy (on (==) fst) . map addJE . lines
 -}
+
+deleteTailSpaces :: String -> String
+deleteTailSpaces = reverse . dropWhile isSpace . reverse
 
 sepNIhO :: String -> (String, String)
 sepNIhO "" = ("", "")
