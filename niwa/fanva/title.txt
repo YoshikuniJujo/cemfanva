@@ -2,7 +2,7 @@
 (丹羽良徳の2004年から2012年の介入プロジェクト)
 lu za'ure'u gau draci lo ka gubni 
 sei fe lu'e lo ve ciksi be lo larcu cixa bangu cu fanva se'u
-to lo poi la .ni,uan.iocinor. cu cmizu'e ke'a ku'o terpla be ca lo nanca be li renonovo ga'o bi'o ga'o renopare toi
+to lo poi la .ni,uan.iocinor. cu cmifi'i ke'a ku'o selpla be ca lo nanca be li renonovo ga'o bi'o ga'o renopare toi
 li'u
 
 ---co'a pinka---
@@ -12,6 +12,10 @@ li'u
 	to lo poi la .ni,uan.iocinor. cu cmizu'e ke'a ku'o selpla be ca lo nanca
 	be li renonovo ga'o bi'o ga'o renopare toi li'u
 	ただし、他の人が問題無ければ、最終的判断は guskant さんに委ねます]
+	
+	[guskant.2013-07-16: lo selpla は計画される事象を指すので、
+	cmizu'e の x2 とするならtu'aなどで行為の抽象をする必要があるかもしれないとおもいました。
+	x3 とすれば、その点を心配する必要がないので。]
 
 [iocikun.2013.7.16: この問題のプロジェクトは「計画」よりも「計画された行為」か?
 	selpla から terpla への変更を提案します
@@ -19,6 +23,19 @@ li'u
 	be li renonovo ga'o bi'o ga'o renopare toi li'u]
 
 [iocikun.2013.7.16: 一度上のバージョンで shukka.hs しておきます]
+	[guskant.2013-07-16: 
+	platu x3 は行為ではなく、遂行過程の各段階の状態や、計画遂行後の状態を表すようです。
+	つまり、 platu x3 自体がプロジェクトの目的を含むようです。ですから terpla はここでは使えません。
+	cmizu'e x3 を lo selpla としても、プロジェクトへの実際の介入行為は cmizu'e x2 の zo'e の省略形として表現されますから、
+	問題ないはずです。
+	この方法が気持ち悪いのであれば、代案としては「介入」の訳として、既存のcmizu'eを使わずに、
+	cmifi'i
+	というlujvo（新語）を作るのが良いと思います。
+	そうすれば、 cmifi'i x2に lo selpla を入れて、「創作される事象への介入」という意味を表すことができます。
+	創造的なプロジェクトであることも表現出来ますから、一石二鳥ですね。
+	cmifi'iを使うと
+	to lo poi la .ni,uan.iocinor. cu cmifi'i ke'a ku'o selpla be ca lo nanca be li renonovo ga'o bi'o ga'o renopare toi
+	さしあたりこれで shukka.hsします。]
 
 [iocikun.2013.07.16: se'u を入れるかどうか
 	もしも、新文法案へもできるだけ対応し、その場合でも意味の違いが出ないようにするならば、
@@ -31,3 +48,4 @@ li'u
 	これも同上(guskant さんにお任せします)]
 
 [iocikun.2013.07.16: se'u を入れることにした]
+	[guskant.2013-07-16: ie]
