@@ -1,8 +1,8 @@
 タイトル: 公共性を再演する| 作品の解説を36種類の言語に翻訳する [guskant]
 (丹羽良徳の2004年から2012年の介入プロジェクト)
 lu za'ure'u gau draci lo ka gubni 
-sei fe lu'e lo ve ciksi be lo larcu cixa bangu cu fanva
-to lo poi la .ni,uan.iocinor. cu cmizu'e fi ke'a ku'o selpla be ca lo nanca be li renonovo ga'o bi'o ga'o renopare toi
+sei fe lu'e lo ve ciksi be lo larcu cixa bangu cu fanva se'u
+to lo poi la .ni,uan.iocinor. cu cmizu'e ke'a ku'o terpla be ca lo nanca be li renonovo ga'o bi'o ga'o renopare toi
 li'u
 
 ---co'a pinka---
@@ -13,6 +13,13 @@ li'u
 	be li renonovo ga'o bi'o ga'o renopare toi li'u
 	ただし、他の人が問題無ければ、最終的判断は guskant さんに委ねます]
 
+[iocikun.2013.7.16: この問題のプロジェクトは「計画」よりも「計画された行為」か?
+	selpla から terpla への変更を提案します
+	to lo poi la .ni,uan.iocinor. cu cmizu'e ke'a ku'o terpla be ca lo nanca
+	be li renonovo ga'o bi'o ga'o renopare toi li'u]
+
+[iocikun.2013.7.16: 一度上のバージョンで shukka.hs しておきます]
+
 [iocikun.2013.07.16: se'u を入れるかどうか
 	もしも、新文法案へもできるだけ対応し、その場合でも意味の違いが出ないようにするならば、
 	se'u を入れたほうが良さそうですね。
@@ -22,3 +29,5 @@ li'u
 	ということと、そもそも新文法になったとしても意味の違いはわずかであること
 	を考え、逆にその違いを楽しむという観点からは今のままでもいいと思う。
 	これも同上(guskant さんにお任せします)]
+
+[iocikun.2013.07.16: se'u を入れることにした]
