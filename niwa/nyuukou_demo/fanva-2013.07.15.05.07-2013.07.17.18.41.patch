@@ -1,5 +1,7 @@
---- fanva-2013.07.15.05.07
-+++ fanva-2013.07.16.05.11
+diff --git niwa-1.0:niwa/nyuukou_demo/fanva-2013.07.15.05.07 HEAD:niwa/nyuukou_demo/fanva-2013.07.17.18.41
+index 2358fa9..b370215 100644
+--- niwa-1.0:niwa/nyuukou_demo/fanva-2013.07.15.05.07
++++ HEAD:niwa/nyuukou_demo/fanva-2013.07.17.18.41
 @@ -1,14 +1,14 @@
 -タイトル: 公共性を再演する| 作品の解説を36種類の言語に翻訳する 
 -lu za'ure'u gau draci lo ka gubni sei fe lu'e lo ve ciksi be lo larcu cixa bangu
@@ -11,9 +13,9 @@
 +(丹羽良徳の2004年から2012年の介入プロジェクト)
  
 +lu za'ure'u gau draci lo ka gubni
-+sei fe lu'e lo ve ciksi be lo larcu cixa bangu cu fanva
++sei fe lu'e lo ve ciksi be lo larcu cixa bangu cu fanva se'u
  
-+to lo poi la .ni,uan.iocinor. cu cmizu'e fi ke'a ku'o selpla be ca lo nanca be
++to lo poi la .ni,uan.iocinor. cu cmizu'e fi ke'a ku'o selpla be ca lo detri be
 +li renonovo ga'o bi'o ga'o renopare toi li'u
  
  33
