@@ -87,9 +87,18 @@ li'u
 
 		案: lo cmizu'e selpla poi/noi la .niwan.iocinor. cu finti ke'a
 			ca lo nanca be li renonovo ga'o bi'o ga'o renopare]
+		[guskant.2013-07-16: これには反対です。
+		介入者が la .ni,uan.iocinor.であることが不明になります。
+		cmizu'e だけに be fa la .ni,uan.iocinor. と付ければ、介入者としての立場ははっきりしますが、今度はプロジェクトとの関係が不明になります。
+		 la .ni,uan.iocinor.をKOhA類で受けて、両方への関わりを明記すると、文型はごちゃごちゃしてきます。
+		それよりは、 lo ke se cmizu'e ju'e selpla ke'e be la .ni,uan.iocinor. ...とすれば、 cmizu'e と selpla の両方に la .ni,uan.iocinor. が係るようにすることができ、 cmizu'e と selpla の間の関係も曖昧に保たれます。
+		
+		ただ、そこまでして日本語の曖昧度を精確に表現する必要があるかどうか。
+		これらの案よりは、いっそのこと .ni,uan.iocinor. も tanru unit にしてしまう方を支持します。]
 	[iocikun.2013-07-17: それと、今回はそのままでもいいかと思うが
 		nanca の x1 は何年間という期間を表すので、
 		lo detri be li renonovo 等のほうが良いようにも思う
 
 		案: lo cmizu'e selpla poi/noi la .niwan.iocinor. cu finti ke'a
 			ca lo detri be li renonovo ga'o bi'o ga'o renopare]
+		[guskant.2013-07-16: ここではどちらでも構いません。プロジェクト集全体の期間を指すならnanca、個々のプロジェクトの日付を指すならdetriです。]
