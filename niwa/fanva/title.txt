@@ -38,8 +38,8 @@ li'u
 	さしあたりこれで shukka.hsします。]
 
 [iocikun.2013.07.16: se'u を入れるかどうか
-	もしも、新文法案へもできるだけ対応し、その場合でも意味の違いが出ないようにするならば、
-	se'u を入れたほうが良さそうですね。
+	もしも、新文法案へもできるだけ対応し、その場合でも意味の違いが出ない
+	ようにするならば、se'u を入れたほうが良さそうですね。
 
 	ただし、sei に関する新文法には無視できないトレードオフがあるので、
 	最終的な文法に組み込むべきかどうかは難しい問題である(と僕は考えている)
@@ -49,3 +49,19 @@ li'u
 
 [iocikun.2013.07.16: se'u を入れることにした]
 	[guskant.2013-07-16: ie]
+
+[iocikun.2013.07.17: 「介入プロジェクト」の意味
+	そもそも「介入プロジェクト」の意味自体に曖昧性がありますよね。
+	いくつかの意味の候補が上げられます。
+	1. 介入 = プロジェクト
+	2. 介入することで作られるプロジェクト
+	3. 介入することの目的がプロジェクト
+	4. プロジェクトがデザインする対象が介入
+	等々。それぞれを訳すと以下のようになるかと
+	1. lo po'u/no'u lo se cmizu'e be la .ni,uan.iocinor. ge'u selpla be ca ...
+	2. lo poi la .ni,uan.iocinor. cu cmifi'i ke'a ku'o selpla be ca ...
+	3. lo poi la .ni,uan.iocinor. cu cmizu'e fi ke'a ku'o selpla be ca ...
+	4. lo selpla be fa la .ni,uan.iocinor. bei fi lo cmizu'e bei ca ...
+	そして、これらすべてを vague に意味したいのであれば tanru を使って、
+	lo .niuan.iocinor. cmizu'e selpla be ca ... としても良いかと。
+	いかがでしょうか。]
