@@ -6,7 +6,7 @@ to lo poi la .ni,uan.iocinor. cu cmifi'i ke'a ku'o selpla be ca lo nanca be li r
 li'u
 
 ---co'a pinka---
-[iocikun.2013.07.16: プロジェクトは cmizu'e の x3 か?
+[iocikun.2013-07-16: プロジェクトは cmizu'e の x3 か?
 	「プロジェクト」は介入の目的というよりも実際に行った事なので
 	x2 なのでは?
 	to lo poi la .ni,uan.iocinor. cu cmizu'e ke'a ku'o selpla be ca lo nanca
@@ -17,12 +17,12 @@ li'u
 	cmizu'e の x2 とするならtu'aなどで行為の抽象をする必要があるかもしれないとおもいました。
 	x3 とすれば、その点を心配する必要がないので。]
 
-[iocikun.2013.7.16: この問題のプロジェクトは「計画」よりも「計画された行為」か?
+[iocikun.2013-7-16: この問題のプロジェクトは「計画」よりも「計画された行為」か?
 	selpla から terpla への変更を提案します
 	to lo poi la .ni,uan.iocinor. cu cmizu'e ke'a ku'o terpla be ca lo nanca
 	be li renonovo ga'o bi'o ga'o renopare toi li'u]
 
-[iocikun.2013.7.16: 一度上のバージョンで shukka.hs しておきます]
+[iocikun.2013-7-16: 一度上のバージョンで shukka.hs しておきます]
 	[guskant.2013-07-16: 
 	platu x3 は行為ではなく、遂行過程の各段階の状態や、計画遂行後の状態を表すようです。
 	つまり、 platu x3 自体がプロジェクトの目的を含むようです。ですから terpla はここでは使えません。
@@ -37,7 +37,7 @@ li'u
 	to lo poi la .ni,uan.iocinor. cu cmifi'i ke'a ku'o selpla be ca lo nanca be li renonovo ga'o bi'o ga'o renopare toi
 	さしあたりこれで shukka.hsします。]
 
-[iocikun.2013.07.16: se'u を入れるかどうか
+[iocikun.2013-07-16: se'u を入れるかどうか
 	もしも、新文法案へもできるだけ対応し、その場合でも意味の違いが出ない
 	ようにするならば、se'u を入れたほうが良さそうですね。
 
@@ -47,10 +47,10 @@ li'u
 	を考え、逆にその違いを楽しむという観点からは今のままでもいいと思う。
 	これも同上(guskant さんにお任せします)]
 
-[iocikun.2013.07.16: se'u を入れることにした]
+[iocikun.2013-07-16: se'u を入れることにした]
 	[guskant.2013-07-16: ie]
 
-[iocikun.2013.07.17: 「介入プロジェクト」の意味
+[iocikun.2013-07-17: 「介入プロジェクト」の意味
 	そもそも「介入プロジェクト」の意味自体に曖昧性がありますよね。
 	いくつかの意味の候補が上げられます。
 	1. 介入 = プロジェクト
@@ -65,6 +65,7 @@ li'u
 	そして、これらすべてを vague に意味したいのであれば tanru を使って、
 	lo .niuan.iocinor. cmizu'e selpla be ca ... としても良いかと。
 	いかがでしょうか。]
+
 	[guskant.2013-07-16: 元の日本語表現の意味を読み取らずに、曖昧さをそのまま訳すなら tanru が良いと思います。
 	最初の訳でそれを避けたのは、
 	1. .ni,uan.iocinor. が介入者であることが不明になる（人名であることさえ不明になる）。
@@ -79,3 +80,10 @@ li'u
 
 	私は、曖昧さをとっても、正確さをとっても、どちらでも構いません。
 	丹羽さんに選んでいただくのが良いかもしれません。]
+
+	[iocikun.2013-07-17: 介入とプロジェクトのあいだは、もともと曖昧ですが
+		日本人であれば「の」は「による」と読みかえると思いますので、
+		そこらへんは訳出したほうが良さそうですね。
+
+		案: lo cmizu'e selpla poi/noi la .niwan.iocinor. cu finti ke'a ca
+			ca lo nanca be li renonovo ga'o bi'o ga'o renopare toi]
