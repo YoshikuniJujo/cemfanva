@@ -66,10 +66,10 @@ li'u
 	lo .niuan.iocinor. cmizu'e selpla be ca ... としても良いかと。
 	いかがでしょうか。]
 
-	[guskant.2013-07-16: 元の日本語表現の意味を読み取らずに、曖昧さをそのまま訳すなら tanru が良いと思います。
+	[guskant.2013-07-17: 元の日本語表現の意味を読み取らずに、曖昧さをそのまま訳すなら tanru が良いと思います。
 	最初の訳でそれを避けたのは、
 	1. .ni,uan.iocinor. が介入者であることが不明になる（人名であることさえ不明になる）。
-	[guskant.2013-07-16: .ni,uan.のコンマを忘れないようにしましょう]
+	[guskant.2013-07-17: .ni,uan.のコンマを忘れないようにしましょう]
 	2. 実際の行動とプロジェクトとの関係が不明になる
 	という理由です。
 	
@@ -87,7 +87,7 @@ li'u
 
 		案: lo cmizu'e selpla poi/noi la .niwan.iocinor. cu finti ke'a
 			ca lo nanca be li renonovo ga'o bi'o ga'o renopare]
-		[guskant.2013-07-16: これには反対です。
+		[guskant.2013-07-17: これには反対です。
 		介入者が la .ni,uan.iocinor.であることが不明になります。
 		cmizu'e だけに be fa la .ni,uan.iocinor. と付ければ、介入者としての立場ははっきりしますが、今度はプロジェクトとの関係が不明になります。
 		 la .ni,uan.iocinor.をKOhA類で受けて、両方への関わりを明記すると、文型はごちゃごちゃしてきます。
@@ -101,4 +101,4 @@ li'u
 
 		案: lo cmizu'e selpla poi/noi la .niwan.iocinor. cu finti ke'a
 			ca lo detri be li renonovo ga'o bi'o ga'o renopare]
-		[guskant.2013-07-16: ここではどちらでも構いません。プロジェクト集全体の期間を指すならnanca、個々のプロジェクトの日付を指すならdetriです。]
+		[guskant.2013-07-17: ここではどちらでも構いません。プロジェクト集全体の期間を指すならnanca、個々のプロジェクトの日付を指すならdetriです。]
