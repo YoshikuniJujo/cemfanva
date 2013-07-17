@@ -85,5 +85,11 @@ li'u
 		日本人であれば「の」は「による」と読みかえると思いますので、
 		そこらへんは訳出したほうが良さそうですね。
 
-		案: lo cmizu'e selpla poi/noi la .niwan.iocinor. cu finti ke'a ca
-			ca lo nanca be li renonovo ga'o bi'o ga'o renopare toi]
+		案: lo cmizu'e selpla poi/noi la .niwan.iocinor. cu finti ke'a
+			ca lo nanca be li renonovo ga'o bi'o ga'o renopare]
+	[iocikun.2013-07-17: それと、今回はそのままでもいいかと思うが
+		nanca の x1 は何年間という期間を表すので、
+		lo detri be li renonovo 等のほうが良いようにも思う
+
+		案: lo cmizu'e selpla poi/noi la .niwan.iocinor. cu finti ke'a
+			ca lo detri be li renonovo ga'o bi'o ga'o renopare]
