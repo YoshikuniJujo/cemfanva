@@ -2,7 +2,7 @@
 (丹羽良徳の2004年から2012年の介入プロジェクト)
 lu za'ure'u gau draci lo ka gubni 
 sei fe lu'e lo ve ciksi be lo larcu cixa bangu cu fanva se'u
-to lo poi la .ni,uan.iocinor. cu cmifi'i ke'a ku'o selpla be ca lo nanca be li renonovo ga'o bi'o ga'o renopare toi
+to lo poi la .ni,uan.iocinor. cu cmifi'i ke'a ku'o selpla be ca lo detri be li renonovo ga'o bi'o ga'o renopare toi
 li'u
 
 ---co'a pinka---
@@ -103,3 +103,4 @@ li'u
 		案: lo cmizu'e selpla poi/noi la .niwan.iocinor. cu finti ke'a
 			ca lo detri be li renonovo ga'o bi'o ga'o renopare]
 		[guskant.2013-07-17: ここではどちらでも構いません。プロジェクト集全体の期間を指すならnanca、個々のプロジェクトの日付を指すならdetriです。]
+		[guskant.2013-07-17: やっぱりdetriにしないとだめですね。nancaだとプロジェクト集全体の期間が2004年間以上2012年間以下だいう意味になります。detriに変更。]
