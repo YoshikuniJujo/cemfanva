@@ -1,0 +1,133 @@
+ロジバン訳校正 [guskant]
+
+
+タイトル（pdf1枚目と2枚目）
+数値変更（36を23に）：
+（両ページとも、ロジバン訳の2行目）
+誤： sei fe lu'e lo ve ciksi be lo larcu cixa bangu cu fanva se'u
+正： sei fe lu'e lo ve ciksi be lo larcu reci bangu cu fanva se'u
+
+
+作品番号1.
+訳の底本が
+	2004 パフォーマンス ヴィデオ10'53min(2004) 18'42min(2007)
+となっていたため、ロジバン訳にも
+	(2004) 18'42min(2007)
+に相当する記述が残っている。この記述を以下のようにして消す：
+（ロジバン訳の2行目から）
+誤： de'i li renonovo fi'o vreji lo tigni skina no lo mentu be li pano pi muci ju'u xano be'o pe lo nanca be li renonovo be'o ku ku zi'e pe lo mentu be li pabi pi vore ju'u xano be'o pe lo nanca be li renonoze
+正： de'i li renonovo fi'o vreji lo tigni skina ne lo mentu be li pano pi muci ju'u xano
+
+
+作品番号2.
+数値変更（2005を2004に、2006を2004に）：
+（ロジバン訳の2行目）
+誤： de'i li renonomu se tai lo se tigni
+正： de'i li renonovo se tai lo se tigni
+（ロジバン訳の3行目）
+誤： preja lo ponjo kei temci be lo se detri be li renonoxa pi'e xa bei lo se detri be li
+正： preja lo ponjo kei temci be lo se detri be li renonovo pi'e xa bei lo se detri be li
+
+
+作品番号3.
+タイポ：
+（ロジバン訳の3行目）
+誤： de'i li renonoxa fi'o vreji lo tigni skina no lo mentu be li paze pi cici ju'u xano
+正： de'i li renonoxa fi'o vreji lo tigni skina ne lo mentu be li paze pi cici ju'u xano
+
+
+作品番号4.
+数値ミス：
+（ロジバン訳の1行目）
+誤： lu .i lu xance jgari lo parere mlatu tu'i lo gugdrnorge li'u
+正： lu .i lu xance jgari lo panono mlatu tu'i lo gugdrnorge li'u
+（ロジバン訳の2行目）
+誤： de'i li renonoze fi'o vreji lo skina ne lo mentu be li pamu pi rexa ju'u xano
+正： de'i li renonoze fi'o vreji lo skina ne lo mentu be li pamu pi noxa ju'u xano
+（ロジバン訳の4行目）
+誤： lo klacliva mlatu .ije troci lo nu parere maltu cu se snada .i pa'o lo nu jikca
+正： lo klacliva mlatu .ije troci lo nu panono maltu cu se snada .i pa'o lo nu jikca
+
+
+作品番号9.
+数値ミス：
+（ロジバン訳の3行目）
+誤： de'i li renonobi fi'o .lamdas. prina to vi'a miltre li parenono fa'u pamunono toi 
+正： de'i li renonoso fi'o .lamdas. prina to vi'a miltre li parenono fa'u pamunono toi 
+
+
+作品番号17.
+数値ミス：
+（ロジバン訳の3行目）
+誤： vomupa
+正： vomuno
+
+
+作品番号19.
+数値ミス：
+（ロジバン訳の3行目）
+誤： de'i li renopapa fi'o vreji lo gungunma skina to li revo se mentu toi .e lo ci pixra poi vi'a miltre li cinonono fa'u li cinonono .e lo cartu
+正： de'i li renopapa fi'o vreji lo gungunma skina to li revo pi revo se mentu toi .e lo ci pixra poi vi'a miltre li cinonono fa'u li cinonono .e lo cartu
+
+
+作品番号20.
+訳の底本に
+	 (17分47秒)
+という記述がなかったため、この部分のロジバン訳が無い。以下のようにして追加：
+（ロジバン訳の2行目）
+誤： de'i li renopapa fi'o vreji lo gungunma skina 
+正： de'i li renopapa fi'o vreji lo gungunma skina to noi mentu li paze pi voze toi
+
+
+作品番号21.
+訳の底本に
+	 (25分10秒) 
+という記述がなかったため、この部分のロジバン訳が無い。以下のようにして追加：
+（ロジバン訳の3行目）
+誤： de'i li renopapa fi'o vreji lo nuntigni skina
+正： de'i li renopapa fi'o vreji lo nuntigni skina to noi mentu li remu pi pano toi
+
+
+作品番号22.
+	 (26分14秒) とレーニンが写っているオブジェクト150点
+のロジバン訳が消えている：
+（ロジバン訳の3行目）
+誤： de'i li renopare fi'o vreji lo gungunma skina
+正： de'i li renopare fi'o vreji lo gungunma skina to mentu li rexa pi pavo toi fi'o se jarco tu'a loi dacti poi ve pixra la lenin. zi'e noi pamunomei
+
+
+作品番号26.
+単語抜け：
+（ロジバン訳の2行目）
+誤： de'i renopare fi'o vreji lo gungunma skina to mentu li ze pi reno toi
+正： de'i li renopare fi'o vreji lo gungunma skina to mentu li ze pi reno toi 
+
+
+作品番号27.
+数値ミス：
+（ロジバン訳の1行目）
+誤： ni'o rebi mo'o. 
+正： ni'o reze mo'o. 
+
+
+作品番号30.
+数値ミス：
+（ロジバン訳の1行目）
+誤： ni'o cire mo'o. 
+正： ni'o cino mo'o. 
+
+
+作品番号32.
+下線範囲ミス：
+（ロジバン訳の1行目）
+ni'o cire mo'o. 
+の「. 」に下線が掛かっている。この部分の下線を消す。
+
+
+最終ページ（352枚目）
+括弧の前にスペースを入れる：
+（上から10行目）
+誤： Lojban: la ponjbogri(日本ロジバンコミュニティ)
+正： Lojban: la ponjbogri (日本ロジバンコミュニティ)
+
+
