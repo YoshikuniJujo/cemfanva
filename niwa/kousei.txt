@@ -13,7 +13,7 @@
 	2004 パフォーマンス ヴィデオ10'53min(2004) 18'42min(2007)
 となっていたため、ロジバン訳にも
 	(2004) 18'42min(2007)
-に相当する記述が残っている。この記述を以下のようにして消す：
+に相当する記述が残っている。この記述を消し、タイポも修正：
 （ロジバン訳の2行目から）
 誤： de'i li renonovo fi'o vreji lo tigni skina no lo mentu be li pano pi muci ju'u xano be'o pe lo nanca be li renonovo be'o ku ku zi'e pe lo mentu be li pabi pi vore ju'u xano be'o pe lo nanca be li renonoze
 正： de'i li renonovo fi'o vreji lo tigni skina ne lo mentu be li pano pi muci ju'u xano
